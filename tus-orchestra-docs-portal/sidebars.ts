@@ -8,16 +8,6 @@ const sidebars: SidebarsConfig = {
       className: 'sidebar-title',
     },
     {
-      type: 'link',
-      label: 'GitHubリポジトリ',
-      href: 'https://github.com/dOtOb9/tus-orchestra-discord-bot',
-    },
-    {
-      type: 'link',
-      label: 'MITライセンス',
-      href: 'https://github.com/dOtOb9/tus-orchestra-discord-bot/blob/main/LICENSE',
-    },
-    {
       type: 'category',
       label: '目次',
       collapsible: false,
@@ -103,28 +93,28 @@ const sidebars: SidebarsConfig = {
               type: 'doc',
               label: 'ディレクトリ構造',
               id: 'discord-bot/reference/directory'
-            }
+            },
           ]
         }
       ]
     },
+    {
+      type: 'link',
+      label: 'MITライセンス',
+      href: 'https://github.com/dOtOb9/tus-orchestra-discord-bot/blob/main/LICENSE',
+    },
+    {
+      type: 'link',
+      label: 'GitHubリポジトリ',
+      href: 'https://github.com/dOtOb9/tus-orchestra-discord-bot',
+    },
   ],
-
+  
   attendanceManagementSystemSidebar: [
     {
       type: 'html',
       value: '出欠管理システム',
       className: 'sidebar-title',
-    },
-    {
-      type: 'link',
-      label: 'GitHubリポジトリ',
-      href: 'https://github.com/dOtOb9/attendance-management-system-for-tus-orchestra',
-    },
-    {
-      type: 'link',
-      label: 'MITライセンス',
-      href: 'https://github.com/dOtOb9/attendance-management-system-for-tus-orchestra/blob/main/LICENSE',
     },
     {
       type: 'category',
@@ -172,7 +162,17 @@ const sidebars: SidebarsConfig = {
           ]
         }
       ]
-    }
+    },
+    {
+      type: 'link',
+      label: 'MITライセンス',
+      href: 'https://github.com/dOtOb9/attendance-management-system-for-tus-orchestra/blob/main/LICENSE',
+    },
+    {
+      type: 'link',
+      label: 'GitHubリポジトリ',
+      href: 'https://github.com/dOtOb9/attendance-management-system-for-tus-orchestra',
+    },
   ]
 }
 
