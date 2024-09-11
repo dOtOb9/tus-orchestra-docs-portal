@@ -100,7 +100,7 @@ const config: Config = {
           items: [
             {
               label: 'GPL-3.0 License',
-              to: 'https://github.com/dOtOb9/tus-orchestra-docs-portal/blob/main/LICENSE',
+              href: 'https://github.com/dOtOb9/tus-orchestra-docs-portal/blob/main/LICENSE',
             },
           ],
         },
