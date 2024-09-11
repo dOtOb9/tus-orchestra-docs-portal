@@ -1,3 +1,9 @@
+import ReferenceLink from '/src/components/ReferenceLink';
+import FeatureLink from '/src/components/FeatureLink';
+
+<ReferenceLink href="/docs/attendance-management-system/reference/function/doGet"/>
+<FeatureLink href="/docs/attendance-management-system/feature/function/doGet"/>
+
 ```ts title="/src/main.ts"
 function doGet(e) {
     const mode = e.parameter.mode;

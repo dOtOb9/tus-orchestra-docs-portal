@@ -11,7 +11,7 @@ export default function SourceLink({ href, children }) {
         color: '#fff',
         padding: '0.2rem',
       }}>
-      {children}
+        ソースコード
     </a>
   );
 }

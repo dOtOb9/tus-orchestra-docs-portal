@@ -1,17 +1,17 @@
 import React from 'react';
 
-export default function FunctionLink({ href, children }) {
+export default function FeatureLink({ href }) {
   return (
     <a
       href={href}
       rel="noopener noreferrer"
       style={{
-        backgroundColor: '#cccc00',
+        backgroundColor: '#999900',
         borderRadius: '2px',
         color: '#fff',
         padding: '0.2rem',
       }}>
-      {children}
+        機能詳細
     </a>
   );
 }

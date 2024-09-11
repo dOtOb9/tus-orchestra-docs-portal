@@ -142,27 +142,172 @@ const sidebars: SidebarsConfig = {
         {
           type: "category",
           label: "リファレンス",
-          description: "このセクションは、コードの参照にご活用ください。",
           link: {
             type: 'generated-index',
             title: 'リファレンス'
           },
           items: [
             {
-              type: 'doc',
+              type: 'category',
               label: '関数',
-              id: 'attendance-management-system/reference/functionInfo'
+              link: {
+                type: 'generated-index',
+                title: '関数'
+              },
+              items: [
+                {
+                  type: 'doc',
+                  label: 'regular',
+                  id: 'attendance-management-system/reference/function/regular'
+                },
+                {
+                  type: 'doc',
+                  label: 'doGet',
+                  id: 'attendance-management-system/reference/function/doGet'
+                },
+                {
+                  type: 'doc',
+                  label: 'doPost',
+                  id: 'attendance-management-system/reference/function/doPost'
+                },
+                {
+                  type: 'doc',
+                  label: 'setEventInfo',
+                  id: 'attendance-management-system/reference/function/setEventInfo'
+                },
+                {
+                  type: 'doc',
+                  label: 'startEventFlow',
+                  id: 'attendance-management-system/reference/function/startEventFlow'
+                }
+              ]
             },
             {
-              type: 'doc',
-              label: 'インターフェース',
-              id: 'attendance-management-system/reference/interfaceInfo'
-            },
-            {
-              type: 'doc',
+              type: 'category',
               label: 'クラス',
-              id: 'attendance-management-system/reference/classInfo'
+              link: {
+                type: 'generated-index',
+                title: 'クラス'
+              },
+              items: []
             },
+            {
+              type: 'category',
+              label: 'インターフェース',
+              link: {
+                type: 'generated-index',
+                title: 'インターフェース'
+              },
+              items: []
+            }
+          ]
+        },
+        {
+          type: 'category',
+          label: '機能詳細',
+          link: {
+            type: 'generated-index',
+            title: '機能詳細'
+          },
+          items: [
+            {
+              type: 'category',
+              label: '関数',
+              link: {
+                type: 'generated-index',
+                title: '関数'
+              },
+              items: [
+                {
+                  type: 'doc',
+                  label: 'regular',
+                  id: 'attendance-management-system/feature/function/regular'
+                },
+                {
+                  type: 'doc',
+                  label: 'doGet',
+                  id: 'attendance-management-system/feature/function/doGet'
+                },
+                {
+                  type: 'doc',
+                  label: 'doPost',
+                  id: 'attendance-management-system/feature/function/doPost'
+                },
+                {
+                  type: 'doc',
+                  label: 'setEventInfo',
+                  id: 'attendance-management-system/feature/function/setEventInfo'
+                },
+                {
+                  type: 'doc',
+                  label: 'startEventFlow',
+                  id: 'attendance-management-system/feature/function/startEventFlow'
+                }
+              ]
+            },
+            {
+              type: 'category',
+              label: 'クラス',
+              link: {
+                type: 'generated-index',
+                title: 'クラス'
+              },
+              items: []
+            },
+            {
+              type: 'category',
+              label: 'インターフェース',
+              link: {
+                type: 'generated-index',
+                title: 'インターフェース'
+              },
+              items: []
+            }
+          ]
+        },
+        {
+          type: 'category',
+          label: 'ソースコード',
+          link: {
+            type: 'generated-index',
+            title: 'ソースコード'
+          },
+          items: [
+            {
+              type: 'category',
+              label: '関数',
+              link: {
+                type: 'generated-index',
+                title: '関数'
+              },
+              items: [
+                {
+                  type: 'doc',
+                  label: 'regular',
+                  id: 'attendance-management-system/source/function/regular'
+                },
+                {
+                  type: 'doc',
+                  label: 'doGet',
+                  id: 'attendance-management-system/source/function/doGet'
+                },
+                {
+                  type: 'doc',
+                  label: 'doPost',
+                  id: 'attendance-management-system/source/function/doPost'
+                },
+                {
+                  type: 'doc',
+                  label: 'setEventInfo',
+                  id: 'attendance-management-system/source/function/setEventInfo'
+                },
+                {
+                  type: 'doc',
+                  label: 'startEventFlow',
+                  id: 'attendance-management-system/source/function/startEventFlow'
+                }
+              ]
+            }
           ]
         }
       ]
