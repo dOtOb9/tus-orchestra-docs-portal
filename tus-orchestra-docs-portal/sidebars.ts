@@ -75,6 +75,10 @@ const sidebars: SidebarsConfig = {
           items: [
             {
               type: 'doc',
+              id: 'discord-bot/details_design/environment',
+            },
+            {
+              type: 'doc',
               id: 'discord-bot/details_design/server'
             }
           ],
