@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/function/doPost",
+  "title": "doPost",
+  "description": "この関数は、HTTP POST リクエストを処理し、リクエストボディに基づいて適切なアクションを実行します。Google Apps Script の Web アプリケーションで POST リクエストを処理するエントリポイントです。",
+  "source": "@site/docs/attendance-management-system/feature/function/doPost.md",
+  "sourceDirName": "attendance-management-system/feature/function",
+  "slug": "/attendance-management-system/feature/function/doPost",
+  "permalink": "/docs/attendance-management-system/feature/function/doPost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/doPost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doGet",
+    "permalink": "/docs/attendance-management-system/feature/function/doGet"
+  },
+  "next": {
+    "title": "regular",
+    "permalink": "/docs/attendance-management-system/feature/function/regular"
+  }
+}

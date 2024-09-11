@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/user_command",
+  "title": "ユーザーコマンド",
+  "description": "",
+  "source": "@site/docs/discord-bot/functional_design/user_command.md",
+  "sourceDirName": "discord-bot/functional_design",
+  "slug": "/discord-bot/functional_design/user_command",
+  "permalink": "/docs/discord-bot/functional_design/user_command",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/functional_design/user_command.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "メッセージコマンド",
+    "permalink": "/docs/discord-bot/functional_design/message_command"
+  },
+  "next": {
+    "title": "その他の機能",
+    "permalink": "/docs/discord-bot/functional_design/others"
+  }
+}

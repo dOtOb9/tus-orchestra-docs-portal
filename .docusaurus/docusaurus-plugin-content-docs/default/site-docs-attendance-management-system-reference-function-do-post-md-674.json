@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/function/doPost",
+  "title": "doPost",
+  "description": "doPost()関数は、Google Apps Script内で定義される特殊な関数です。スクリプトをWebアプリとしてデプロイした際に、HTTP Postリクエストを受信することができます。通常、スプレッドシートの情報を更新するために使用されます。",
+  "source": "@site/docs/attendance-management-system/reference/function/doPost.md",
+  "sourceDirName": "attendance-management-system/reference/function",
+  "slug": "/attendance-management-system/reference/function/doPost",
+  "permalink": "/docs/attendance-management-system/reference/function/doPost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/doPost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doGet",
+    "permalink": "/docs/attendance-management-system/reference/function/doGet"
+  },
+  "next": {
+    "title": "regular",
+    "permalink": "/docs/attendance-management-system/reference/function/regular"
+  }
+}

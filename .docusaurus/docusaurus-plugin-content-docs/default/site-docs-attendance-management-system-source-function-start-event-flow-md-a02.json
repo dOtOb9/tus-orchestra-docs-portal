@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/function/startEventFlow",
+  "title": "startEventFlow",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/function/startEventFlow.md",
+  "sourceDirName": "attendance-management-system/source/function",
+  "slug": "/attendance-management-system/source/function/startEventFlow",
+  "permalink": "/docs/attendance-management-system/source/function/startEventFlow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/startEventFlow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "setEventInfo",
+    "permalink": "/docs/attendance-management-system/source/function/setEventInfo"
+  },
+  "next": {
+    "title": "クラス",
+    "permalink": "/docs/category/クラス-2"
+  }
+}

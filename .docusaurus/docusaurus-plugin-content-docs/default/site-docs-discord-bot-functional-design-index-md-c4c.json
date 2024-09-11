@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/index",
+  "title": "基本設計",
+  "description": "",
+  "source": "@site/docs/discord-bot/functional_design/index.md",
+  "sourceDirName": "discord-bot/functional_design",
+  "slug": "/discord-bot/functional_design/",
+  "permalink": "/docs/discord-bot/functional_design/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/functional_design/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "目次",
+    "permalink": "/docs/category/目次"
+  },
+  "next": {
+    "title": "スラッシュコマンド",
+    "permalink": "/docs/discord-bot/functional_design/slash_command/"
+  }
+}

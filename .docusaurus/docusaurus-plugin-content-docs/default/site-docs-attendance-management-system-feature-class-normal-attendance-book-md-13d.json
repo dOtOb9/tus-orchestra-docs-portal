@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/NormalAttendanceBook",
+  "title": "NormalAttendanceBook",
+  "description": "このクラスは、AttendanceBook クラスを拡張し、特定のスプレッドシートIDで初期化するためのクラスです。",
+  "source": "@site/docs/attendance-management-system/feature/class/NormalAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/NormalAttendanceBook",
+  "permalink": "/docs/attendance-management-system/feature/class/NormalAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/NormalAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/docs/attendance-management-system/feature/class/Book"
+  },
+  "next": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/feature/class/SystemBook"
+  }
+}

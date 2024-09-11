@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/SystemBook",
+  "title": "SystemBook",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/reference/class/SystemBook.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/SystemBook",
+  "permalink": "/docs/attendance-management-system/reference/class/SystemBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/SystemBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "NormalAttendanceBook",
+    "permalink": "/docs/attendance-management-system/reference/class/NormalAttendanceBook"
+  },
+  "next": {
+    "title": "Today",
+    "permalink": "/docs/attendance-management-system/reference/class/Today"
+  }
+}

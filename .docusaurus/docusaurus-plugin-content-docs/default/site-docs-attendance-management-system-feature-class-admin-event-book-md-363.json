@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AdminEventBook",
+  "title": "AdminEventBook",
+  "description": "このクラスは、Book クラスを拡張し、特定のスプレッドシートシートにアクセスし、イベント情報を管理するためのメソッドを提供します。",
+  "source": "@site/docs/attendance-management-system/feature/class/AdminEventBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AdminEventBook",
+  "permalink": "/docs/attendance-management-system/feature/class/AdminEventBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminEventBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminActivityBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AdminActivityBook"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceBook"
+  }
+}

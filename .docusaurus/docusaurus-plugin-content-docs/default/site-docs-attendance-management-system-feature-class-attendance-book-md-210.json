@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AttendanceBook",
+  "title": "AttendanceBook",
+  "description": "このクラスは、Book クラスを拡張し、指定されたシートに対して AttendanceSheet オブジェクトを生成するためのメソッドを提供します。",
+  "source": "@site/docs/attendance-management-system/feature/class/AttendanceBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AttendanceBook",
+  "permalink": "/docs/attendance-management-system/feature/class/AttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminEventBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AdminEventBook"
+  },
+  "next": {
+    "title": "Book",
+    "permalink": "/docs/attendance-management-system/feature/class/Book"
+  }
+}

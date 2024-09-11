@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/Today",
+  "title": "Today",
+  "description": "このクラスは、現在の日付と時刻に関する情報を提供するためのものです。",
+  "source": "@site/docs/attendance-management-system/feature/class/Today.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/Today",
+  "permalink": "/docs/attendance-management-system/feature/class/Today",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/feature/class/SystemBook"
+  },
+  "next": {
+    "title": "TuttiAttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/TuttiAttendanceBook"
+  }
+}

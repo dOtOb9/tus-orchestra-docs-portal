@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/function/doGet",
+  "title": "doGet",
+  "description": "この関数は、HTTP GET リクエストを処理し、リクエストパラメータに応じたレスポンスを返します。Google Apps Script の Web アプリケーションで使用されるエントリポイントです。",
+  "source": "@site/docs/attendance-management-system/feature/function/doGet.md",
+  "sourceDirName": "attendance-management-system/feature/function",
+  "slug": "/attendance-management-system/feature/function/doGet",
+  "permalink": "/docs/attendance-management-system/feature/function/doGet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/doGet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "関数",
+    "permalink": "/docs/category/関数-1"
+  },
+  "next": {
+    "title": "doPost",
+    "permalink": "/docs/attendance-management-system/feature/function/doPost"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/function/regular",
+  "title": "regular",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/function/regular.md",
+  "sourceDirName": "attendance-management-system/source/function",
+  "slug": "/attendance-management-system/source/function/regular",
+  "permalink": "/docs/attendance-management-system/source/function/regular",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/regular.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doPost",
+    "permalink": "/docs/attendance-management-system/source/function/doPost"
+  },
+  "next": {
+    "title": "setEventInfo",
+    "permalink": "/docs/attendance-management-system/source/function/setEventInfo"
+  }
+}

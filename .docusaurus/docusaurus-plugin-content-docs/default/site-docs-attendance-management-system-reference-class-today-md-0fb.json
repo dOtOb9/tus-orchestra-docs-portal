@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/Today",
+  "title": "Today",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/reference/class/Today.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/Today",
+  "permalink": "/docs/attendance-management-system/reference/class/Today",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Today.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/reference/class/SystemBook"
+  },
+  "next": {
+    "title": "TuttiAttendanceBook",
+    "permalink": "/docs/attendance-management-system/reference/class/TuttiAttendanceBook"
+  }
+}

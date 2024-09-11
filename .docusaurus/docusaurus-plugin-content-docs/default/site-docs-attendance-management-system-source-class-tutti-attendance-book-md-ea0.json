@@ -1,0 +1,20 @@
+{
+  "id": "attendance-management-system/source/class/TuttiAttendanceBook",
+  "title": "TuttiAttendanceBook",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/TuttiAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/TuttiAttendanceBook",
+  "permalink": "/docs/attendance-management-system/source/class/TuttiAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/TuttiAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/source/class/SystemBook"
+  }
+}

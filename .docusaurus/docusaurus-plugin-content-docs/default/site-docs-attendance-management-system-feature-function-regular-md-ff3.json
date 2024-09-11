@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/function/regular",
+  "title": "regular",
+  "description": "この関数は、スケジュールシートの出欠列を生成し、必要に応じて出欠管理のための処理を行います。主に、練習日の出欠情報を更新し、認証コードを置き換える役割を持っています。",
+  "source": "@site/docs/attendance-management-system/feature/function/regular.md",
+  "sourceDirName": "attendance-management-system/feature/function",
+  "slug": "/attendance-management-system/feature/function/regular",
+  "permalink": "/docs/attendance-management-system/feature/function/regular",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/regular.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doPost",
+    "permalink": "/docs/attendance-management-system/feature/function/doPost"
+  },
+  "next": {
+    "title": "setEventInfo",
+    "permalink": "/docs/attendance-management-system/feature/function/setEventInfo"
+  }
+}

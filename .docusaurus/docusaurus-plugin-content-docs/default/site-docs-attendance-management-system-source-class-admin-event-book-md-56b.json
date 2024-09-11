@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/AdminEventBook",
+  "title": "AdminEventBook",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/AdminEventBook.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/AdminEventBook",
+  "permalink": "/docs/attendance-management-system/source/class/AdminEventBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminEventBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminActivityBook",
+    "permalink": "/docs/attendance-management-system/source/class/AdminActivityBook"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/source/class/AttendanceBook"
+  }
+}

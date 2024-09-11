@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/function/setEventInfo",
+  "title": "setEventInfo",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/function/setEventInfo.md",
+  "sourceDirName": "attendance-management-system/source/function",
+  "slug": "/attendance-management-system/source/function/setEventInfo",
+  "permalink": "/docs/attendance-management-system/source/function/setEventInfo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/setEventInfo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "regular",
+    "permalink": "/docs/attendance-management-system/source/function/regular"
+  },
+  "next": {
+    "title": "startEventFlow",
+    "permalink": "/docs/attendance-management-system/source/function/startEventFlow"
+  }
+}

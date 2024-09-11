@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/NormalAttendanceBook",
+  "title": "NormalAttendanceBook",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/NormalAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/NormalAttendanceBook",
+  "permalink": "/docs/attendance-management-system/source/class/NormalAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/NormalAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/docs/attendance-management-system/source/class/Book"
+  },
+  "next": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/source/class/SystemBook"
+  }
+}

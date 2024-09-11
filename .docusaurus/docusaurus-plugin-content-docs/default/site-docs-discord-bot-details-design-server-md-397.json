@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/details_design/server",
+  "title": "サーバー構築",
+  "description": "使用するDiscord Botの形態",
+  "source": "@site/docs/discord-bot/details_design/server.md",
+  "sourceDirName": "discord-bot/details_design",
+  "slug": "/discord-bot/details_design/server",
+  "permalink": "/docs/discord-bot/details_design/server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/details_design/server.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "開発環境",
+    "permalink": "/docs/discord-bot/details_design/environment"
+  },
+  "next": {
+    "title": "リファレンス",
+    "permalink": "/docs/category/リファレンス"
+  }
+}

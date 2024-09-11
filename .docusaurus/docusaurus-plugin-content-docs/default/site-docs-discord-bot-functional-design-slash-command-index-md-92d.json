@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/slash_command/index",
+  "title": "スラッシュコマンド",
+  "description": "スラッシュコマンドは、Discordチャネル上のテキスト送信欄で、/を入力することでBotの機能を使用することができる機能です。その他にも、専用のボタンからでも使用できます。",
+  "source": "@site/docs/discord-bot/functional_design/slash_command/index.md",
+  "sourceDirName": "discord-bot/functional_design/slash_command",
+  "slug": "/discord-bot/functional_design/slash_command/",
+  "permalink": "/docs/discord-bot/functional_design/slash_command/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "基本設計",
+    "permalink": "/docs/discord-bot/functional_design/"
+  },
+  "next": {
+    "title": "/ch グループ",
+    "permalink": "/docs/discord-bot/functional_design/slash_command/ch"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/details_design/environment",
+  "title": "開発環境",
+  "description": "言語仕様",
+  "source": "@site/docs/discord-bot/details_design/environment.md",
+  "sourceDirName": "discord-bot/details_design",
+  "slug": "/discord-bot/details_design/environment",
+  "permalink": "/docs/discord-bot/details_design/environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/details_design/environment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "詳細設計",
+    "permalink": "/docs/category/詳細設計"
+  },
+  "next": {
+    "title": "サーバー構築",
+    "permalink": "/docs/discord-bot/details_design/server"
+  }
+}

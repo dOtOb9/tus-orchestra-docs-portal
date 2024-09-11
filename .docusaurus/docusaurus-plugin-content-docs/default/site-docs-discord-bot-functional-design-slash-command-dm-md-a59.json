@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/slash_command/dm",
+  "title": "/dmグループ",
+  "description": "/dmから始まるスラッシュコマンドは、サーバー内の任意のメンバーにDMを送信するためのコマンドです。サーバー内の任意のチャネルで使用する必要があります。",
+  "source": "@site/docs/discord-bot/functional_design/slash_command/dm.md",
+  "sourceDirName": "discord-bot/functional_design/slash_command",
+  "slug": "/discord-bot/functional_design/slash_command/dm",
+  "permalink": "/docs/discord-bot/functional_design/slash_command/dm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "/ch グループ",
+    "permalink": "/docs/discord-bot/functional_design/slash_command/ch"
+  },
+  "next": {
+    "title": "メッセージコマンド",
+    "permalink": "/docs/discord-bot/functional_design/message_command"
+  }
+}

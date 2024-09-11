@@ -1,0 +1,15 @@
+{
+  "id": "attendance-management-system/feature/interface/interfaceInfo",
+  "title": "インターフェースリファレンス",
+  "description": "AttendRateInfo インターフェース",
+  "source": "@site/docs/attendance-management-system/feature/interface/interfaceInfo.md",
+  "sourceDirName": "attendance-management-system/feature/interface",
+  "slug": "/attendance-management-system/feature/interface/interfaceInfo",
+  "permalink": "/docs/attendance-management-system/feature/interface/interfaceInfo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/attendance-management-system/feature/interface/interfaceInfo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

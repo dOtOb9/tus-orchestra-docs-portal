@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/others",
+  "title": "その他の機能",
+  "description": "",
+  "source": "@site/docs/discord-bot/functional_design/others.md",
+  "sourceDirName": "discord-bot/functional_design",
+  "slug": "/discord-bot/functional_design/others",
+  "permalink": "/docs/discord-bot/functional_design/others",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/functional_design/others.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "ユーザーコマンド",
+    "permalink": "/docs/discord-bot/functional_design/user_command"
+  },
+  "next": {
+    "title": "詳細設計",
+    "permalink": "/docs/category/詳細設計"
+  }
+}

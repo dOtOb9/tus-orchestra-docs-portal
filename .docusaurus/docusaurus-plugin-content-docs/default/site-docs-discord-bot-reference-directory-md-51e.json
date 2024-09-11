@@ -1,0 +1,20 @@
+{
+  "id": "discord-bot/reference/directory",
+  "title": "ディレクトリ構造",
+  "description": "",
+  "source": "@site/docs/discord-bot/reference/directory.md",
+  "sourceDirName": "discord-bot/reference",
+  "slug": "/discord-bot/reference/directory",
+  "permalink": "/docs/discord-bot/reference/directory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal/docs/discord-bot/reference/directory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "リファレンス",
+    "permalink": "/docs/category/リファレンス"
+  }
+}
