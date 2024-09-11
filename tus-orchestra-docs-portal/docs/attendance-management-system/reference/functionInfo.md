@@ -1,4 +1,5 @@
 import SourceLink from '@site/src/components/SourceLink';
+import FunctionLink from '@site/src/components/FunctionLink';
 
 # 関数リファレンス
 
@@ -7,6 +8,7 @@ import SourceLink from '@site/src/components/SourceLink';
 この関数は、HTTP GET リクエストを処理し、リクエストパラメータに応じたレスポンスを返します。Google Apps Script の Web アプリケーションで使用されるエントリポイントです。
 
 <SourceLink href="/docs/attendance-management-system/source/doGet">ソースコード</SourceLink>
+<FunctionLink href="/docs/attendance-management-system/detailsDesign#dogete">機能設計</FunctionLink>
 
 ### パラメータ
 

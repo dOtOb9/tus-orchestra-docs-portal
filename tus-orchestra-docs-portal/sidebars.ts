@@ -137,7 +137,7 @@ const sidebars: SidebarsConfig = {
         {
           type: "doc",
           label: "詳細設計",
-          id: 'attendance-management-system/detailsDesign',
+          id: "attendance-management-system/detailsDesign",
         },
         {
           type: "category",

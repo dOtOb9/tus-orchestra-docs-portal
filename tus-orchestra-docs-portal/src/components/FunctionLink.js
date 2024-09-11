@@ -1,12 +1,12 @@
 import React from 'react';
 
-export default function SourceLink({ href, children }) {
+export default function FunctionLink({ href, children }) {
   return (
     <a
       href={href}
       rel="noopener noreferrer"
       style={{
-        backgroundColor: '#0080ff',
+        backgroundColor: '#cccc00',
         borderRadius: '2px',
         color: '#fff',
         padding: '0.2rem',

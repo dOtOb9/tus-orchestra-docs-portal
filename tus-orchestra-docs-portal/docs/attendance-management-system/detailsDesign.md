@@ -1,3 +1,7 @@
+import SourceLink from '@site/src/components/SourceLink';
+import ReferenceLink from '@site/src/components/ReferenceLink';
+
+
 # 詳細設計書
 
 ## 1. 概要
@@ -9,6 +13,7 @@
 Google Apps Scriptによるトリガーや、HTTPリクエストによって起動する関数を記述します。
 
 ### regular()
+<SourceLink href="/docs/attendance-management-system/source/doGet">ソースコード</SourceLink>
 
 #### 起動条件
 毎日、0:00 ~ 1:00と12:00 ~ 13:00 の間に起動します。
