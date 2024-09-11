@@ -84,9 +84,9 @@ const config: Config = {
           position: 'left',
           label: '出欠管理システム',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/dOtOb9/tus-orchestra-docs-portal',
           label: 'GitHub',
           position: 'right',
         },
@@ -96,11 +96,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Infomation',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'GPL-3.0 License',
+              to: 'https://github.com/dOtOb9/tus-orchestra-docs-portal/blob/main/LICENSE',
             },
           ],
         },
