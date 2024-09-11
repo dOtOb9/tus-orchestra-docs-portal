@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal"
+          "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/"
         },
         "blog": {
           "showReadingTime": true,

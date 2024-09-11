@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          'https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/tus-orchestra-docs-portal',
+          'https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/',
         },
         blog: {
           showReadingTime: true,
