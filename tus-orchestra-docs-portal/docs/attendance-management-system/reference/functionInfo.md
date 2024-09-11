@@ -1,6 +1,10 @@
+# 関数リファレンス
+
 ## `doGet` 関数
 
 この関数は、HTTP GET リクエストを処理し、リクエストパラメータに応じたレスポンスを返します。Google Apps Script の Web アプリケーションで使用されるエントリポイントです。
+
+[ソースコード](/docs/attendance-management-system/source/doGet)
 
 ### パラメータ
 
@@ -52,6 +56,8 @@
 
 この関数は、HTTP POST リクエストを処理し、リクエストボディに基づいて適切なアクションを実行します。Google Apps Script の Web アプリケーションで POST リクエストを処理するエントリポイントです。
 
+[ソースコード](/docs/attendance-management-system/source/doPost)
+
 ### パラメータ
 
 - **`e`**: `GoogleAppsScript.Events.AppsScriptHttpRequest` オブジェクト
@@ -98,6 +104,8 @@
 
 この関数は、スケジュールシートの出欠列を生成し、必要に応じて出欠管理のための処理を行います。主に、練習日の出欠情報を更新し、認証コードを置き換える役割を持っています。
 
+[ソースコード](/docs/attendance-management-system/source/regular)
+
 ### 処理の流れ
 
 1. **スケジュールシートの取得**
@@ -128,6 +136,8 @@
 
 この関数は、イベント情報を設定するために使用されます。`AdminEventBook` クラスのインスタンスを作成し、その `setEventInfo` メソッドを呼び出します。
 
+[ソースコード](/docs/attendance-managemnet-system/source/setEventInfo)
+
 ### 処理の流れ
 
 1. **AdminEventBook インスタンスの作成**
@@ -144,6 +154,8 @@
 ## `startEventFlow` 関数
 
 この関数は、Google スプレッドシートの UI にダイアログを表示し、ユーザーが指定されたリンクにアクセスできるようにします。
+
+[ソースコード](/docs/attendance-management-system/source/startEventFlow)
 
 ### 処理の流れ
 
