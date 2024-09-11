@@ -10,7 +10,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '目次',
-      collapsible: false,
+      collapsed: false,
       link: { 
         type: 'generated-index',
         title: '目次',
@@ -119,7 +119,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '目次',
-      collapsible: false,
+      collapsed: false,
       link: {
         type: 'generated-index',
         title: '目次'
