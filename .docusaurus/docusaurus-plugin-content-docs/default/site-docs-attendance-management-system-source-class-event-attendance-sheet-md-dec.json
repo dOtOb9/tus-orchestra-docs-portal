@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/EventAttendanceSheet",
+  "title": "EventAttendanceSheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/EventAttendanceSheet.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/EventAttendanceSheet",
+  "permalink": "/docs/attendance-management-system/source/class/EventAttendanceSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/EventAttendanceSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/docs/attendance-management-system/source/class/Book"
+  },
+  "next": {
+    "title": "Member",
+    "permalink": "/docs/attendance-management-system/source/class/Member"
+  }
+}

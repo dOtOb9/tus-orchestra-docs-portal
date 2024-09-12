@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "Book",
-    "permalink": "/docs/attendance-management-system/feature/class/Book"
+    "title": "MemberSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/MemberSheet"
   },
   "next": {
-    "title": "SystemBook",
-    "permalink": "/docs/attendance-management-system/feature/class/SystemBook"
+    "title": "ScheduleSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/ScheduleSheet"
   }
 }

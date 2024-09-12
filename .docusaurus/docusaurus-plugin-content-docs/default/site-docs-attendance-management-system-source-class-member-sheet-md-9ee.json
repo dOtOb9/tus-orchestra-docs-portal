@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/MemberSheet",
+  "title": "MemberSheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/MemberSheet.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/MemberSheet",
+  "permalink": "/docs/attendance-management-system/source/class/MemberSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/MemberSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "MemberInfoSheet",
+    "permalink": "/docs/attendance-management-system/source/class/MemberInfoSheet"
+  },
+  "next": {
+    "title": "NormalAttendanceBook",
+    "permalink": "/docs/attendance-management-system/source/class/NormalAttendanceBook"
+  }
+}

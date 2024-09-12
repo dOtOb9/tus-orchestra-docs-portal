@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "NormalAttendanceBook",
-    "permalink": "/docs/attendance-management-system/source/class/NormalAttendanceBook"
+    "title": "Sheet",
+    "permalink": "/docs/attendance-management-system/source/class/Sheet"
   },
   "next": {
     "title": "TuttiAttendanceBook",

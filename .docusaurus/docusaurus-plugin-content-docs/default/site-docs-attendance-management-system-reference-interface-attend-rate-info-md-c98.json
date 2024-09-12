@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/interface/AttendRateInfo",
+  "title": "AttendRateInfo",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/reference/interface/AttendRateInfo.md",
+  "sourceDirName": "attendance-management-system/reference/interface",
+  "slug": "/attendance-management-system/reference/interface/AttendRateInfo",
+  "permalink": "/docs/attendance-management-system/reference/interface/AttendRateInfo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/interface/AttendRateInfo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendRateData",
+    "permalink": "/docs/attendance-management-system/reference/interface/AttendRateData"
+  },
+  "next": {
+    "title": "機能詳細",
+    "permalink": "/docs/category/機能詳細"
+  }
+}

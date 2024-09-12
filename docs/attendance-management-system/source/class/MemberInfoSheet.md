@@ -1,0 +1,28 @@
+import ReferenceLink from '/src/components/ReferenceLink';
+import FeatureLink from '/src/components/FeatureLink';
+
+<ReferenceLink href="/docs/attendance-management-system/reference/class/MemberInfoSheet"/>
+<FeatureLink href="/docs/attendance-management-system/feature/class/MemberInfoSheet"/>
+
+```ts title="/src/main.ts"
+class MembersInfoSheet extends MemberSheet {
+    
+    public addContactList(id: string) {
+        const userRow = this.searchMember(id);
+        
+        this.setValue(Number(userRow[0]), 8, "TRUE");
+    }
+    
+    public getContactListRows(): Array<Array<string>> {
+        const MemberRows = this.data.filter((row) => row[9] === "TRUE");
+
+        return MemberRows;
+    }
+
+    public getMemberIsPracticeContact(id: string) {
+        const memberRow =  this.searchMember(id);
+
+        return memberRow[9];
+    }
+}
+```

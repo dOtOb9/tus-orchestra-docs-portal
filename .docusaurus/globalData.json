@@ -26,8 +26,28 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/feature/class/AdminEventSheet",
+              "path": "/docs/attendance-management-system/feature/class/AdminEventSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/feature/class/AttendanceBook",
               "path": "/docs/attendance-management-system/feature/class/AttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/AttendanceCodeSheet",
+              "path": "/docs/attendance-management-system/feature/class/AttendanceCodeSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/AttendanceSheet",
+              "path": "/docs/attendance-management-system/feature/class/AttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/AttendanceStatus",
+              "path": "/docs/attendance-management-system/feature/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -41,8 +61,38 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/feature/class/EventAttendanceSheet",
+              "path": "/docs/attendance-management-system/feature/class/EventAttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/Member",
+              "path": "/docs/attendance-management-system/feature/class/Member",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/MemberInfoSheet",
+              "path": "/docs/attendance-management-system/feature/class/MemberInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/MemberSheet",
+              "path": "/docs/attendance-management-system/feature/class/MemberSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/feature/class/NormalAttendanceBook",
               "path": "/docs/attendance-management-system/feature/class/NormalAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/ScheduleSheet",
+              "path": "/docs/attendance-management-system/feature/class/ScheduleSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/Sheet",
+              "path": "/docs/attendance-management-system/feature/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -58,6 +108,16 @@
             {
               "id": "attendance-management-system/feature/class/TuttiAttendanceBook",
               "path": "/docs/attendance-management-system/feature/class/TuttiAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/UserInfoSheet",
+              "path": "/docs/attendance-management-system/feature/class/UserInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/class/verifyAttendance",
+              "path": "/docs/attendance-management-system/feature/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -86,8 +146,14 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/feature/interface/interfaceInfo",
-              "path": "/docs/attendance-management-system/feature/interface/interfaceInfo"
+              "id": "attendance-management-system/feature/interface/AttendRateData",
+              "path": "/docs/attendance-management-system/feature/interface/AttendRateData",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/feature/interface/AttendRateInfo",
+              "path": "/docs/attendance-management-system/feature/interface/AttendRateInfo",
+              "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/functionDesign",
@@ -105,8 +171,28 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/reference/class/AdminEventSheet",
+              "path": "/docs/attendance-management-system/reference/class/AdminEventSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/reference/class/AttendanceBook",
               "path": "/docs/attendance-management-system/reference/class/AttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/AttendanceCodeSheet",
+              "path": "/docs/attendance-management-system/reference/class/AttendanceCodeSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/AttendanceSheet",
+              "path": "/docs/attendance-management-system/reference/class/AttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/AttendanceStatus",
+              "path": "/docs/attendance-management-system/reference/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -115,8 +201,38 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/reference/class/EventAttendanceSheet",
+              "path": "/docs/attendance-management-system/reference/class/EventAttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/Member",
+              "path": "/docs/attendance-management-system/reference/class/Member",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/MemberInfoSheet",
+              "path": "/docs/attendance-management-system/reference/class/MemberInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/MemberSheet",
+              "path": "/docs/attendance-management-system/reference/class/MemberSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/reference/class/NormalAttendanceBook",
               "path": "/docs/attendance-management-system/reference/class/NormalAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/ScheduleSheet",
+              "path": "/docs/attendance-management-system/reference/class/ScheduleSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/Sheet",
+              "path": "/docs/attendance-management-system/reference/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -132,6 +248,16 @@
             {
               "id": "attendance-management-system/reference/class/TuttiAttendanceBook",
               "path": "/docs/attendance-management-system/reference/class/TuttiAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/UserInfoSheet",
+              "path": "/docs/attendance-management-system/reference/class/UserInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/class/verifyAttendance",
+              "path": "/docs/attendance-management-system/reference/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -160,6 +286,16 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/reference/interface/AttendRateData",
+              "path": "/docs/attendance-management-system/reference/interface/AttendRateData",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/reference/interface/AttendRateInfo",
+              "path": "/docs/attendance-management-system/reference/interface/AttendRateInfo",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/source/class/AdminActivityBook",
               "path": "/docs/attendance-management-system/source/class/AdminActivityBook",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -170,8 +306,28 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/source/class/AdminEventSheet",
+              "path": "/docs/attendance-management-system/source/class/AdminEventSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/source/class/AttendanceBook",
               "path": "/docs/attendance-management-system/source/class/AttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/AttendanceCodeSheet",
+              "path": "/docs/attendance-management-system/source/class/AttendanceCodeSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/AttendanceSheet",
+              "path": "/docs/attendance-management-system/source/class/AttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/AttendanceStatus",
+              "path": "/docs/attendance-management-system/source/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -180,8 +336,38 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/source/class/EventAttendanceSheet",
+              "path": "/docs/attendance-management-system/source/class/EventAttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/Member",
+              "path": "/docs/attendance-management-system/source/class/Member",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/MemberInfoSheet",
+              "path": "/docs/attendance-management-system/source/class/MemberInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/MemberSheet",
+              "path": "/docs/attendance-management-system/source/class/MemberSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/source/class/NormalAttendanceBook",
               "path": "/docs/attendance-management-system/source/class/NormalAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/ScheduleSheet",
+              "path": "/docs/attendance-management-system/source/class/ScheduleSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/Sheet",
+              "path": "/docs/attendance-management-system/source/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -192,6 +378,16 @@
             {
               "id": "attendance-management-system/source/class/TuttiAttendanceBook",
               "path": "/docs/attendance-management-system/source/class/TuttiAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/UserInfoSheet",
+              "path": "/docs/attendance-management-system/source/class/UserInfoSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/class/verifyAttendance",
+              "path": "/docs/attendance-management-system/source/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -217,6 +413,16 @@
             {
               "id": "attendance-management-system/source/function/startEventFlow",
               "path": "/docs/attendance-management-system/source/function/startEventFlow",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/interface/AttendRateData",
+              "path": "/docs/attendance-management-system/source/interface/AttendRateData",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/interface/AttendRateInfo",
+              "path": "/docs/attendance-management-system/source/interface/AttendRateInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -309,6 +515,11 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "/category/インターフェース",
+              "path": "/docs/category/インターフェース",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "/category/機能詳細",
               "path": "/docs/category/機能詳細",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -324,6 +535,11 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "/category/インターフェース-1",
+              "path": "/docs/category/インターフェース-1",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "/category/ソースコード",
               "path": "/docs/category/ソースコード",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -336,6 +552,11 @@
             {
               "id": "/category/クラス-2",
               "path": "/docs/category/クラス-2",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "/category/インターフェース-2",
+              "path": "/docs/category/インターフェース-2",
               "sidebar": "attendanceManagementSystemSidebar"
             }
           ],

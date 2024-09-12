@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AttendRateInfo",
+  "title": "AttendRateInfo",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/feature/class/AttendRateInfo.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AttendRateInfo",
+  "permalink": "/docs/attendance-management-system/feature/class/AttendRateInfo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/AttendRateInfo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminEventSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/AdminEventSheet"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceBook"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/EventAttendanceSheet",
+  "title": "EventAttendanceSheet",
+  "description": "このクラスは、AttendancceSheet クラスを拡張し、イベントの出欠シートを操作するためのメソッドを提供します。特定のイベントの日付に関連する列を取得します。",
+  "source": "@site/docs/attendance-management-system/feature/class/EventAttendanceSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/EventAttendanceSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/EventAttendanceSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/EventAttendanceSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/docs/attendance-management-system/feature/class/Book"
+  },
+  "next": {
+    "title": "Member",
+    "permalink": "/docs/attendance-management-system/feature/class/Member"
+  }
+}

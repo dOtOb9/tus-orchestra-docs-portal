@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/AttendanceCodeSheet",
+  "title": "AttendanceCodeSheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/AttendanceCodeSheet.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/AttendanceCodeSheet",
+  "permalink": "/docs/attendance-management-system/source/class/AttendanceCodeSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/AttendanceCodeSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/source/class/AttendanceBook"
+  },
+  "next": {
+    "title": "AttendanceSheet",
+    "permalink": "/docs/attendance-management-system/source/class/AttendanceSheet"
+  }
+}

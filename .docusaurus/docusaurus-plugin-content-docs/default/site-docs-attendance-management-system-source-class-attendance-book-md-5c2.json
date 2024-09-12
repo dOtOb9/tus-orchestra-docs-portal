@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "AdminEventBook",
-    "permalink": "/docs/attendance-management-system/source/class/AdminEventBook"
+    "title": "AdminEventSheet",
+    "permalink": "/docs/attendance-management-system/source/class/AdminEventSheet"
   },
   "next": {
-    "title": "Book",
-    "permalink": "/docs/attendance-management-system/source/class/Book"
+    "title": "AttendanceCodeSheet",
+    "permalink": "/docs/attendance-management-system/source/class/AttendanceCodeSheet"
   }
 }

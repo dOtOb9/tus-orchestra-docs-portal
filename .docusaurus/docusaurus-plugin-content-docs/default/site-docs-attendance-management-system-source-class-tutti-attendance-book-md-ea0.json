@@ -16,5 +16,9 @@
   "previous": {
     "title": "SystemBook",
     "permalink": "/docs/attendance-management-system/source/class/SystemBook"
+  },
+  "next": {
+    "title": "UserInfoSheet",
+    "permalink": "/docs/attendance-management-system/source/class/UserInfoSheet"
   }
 }

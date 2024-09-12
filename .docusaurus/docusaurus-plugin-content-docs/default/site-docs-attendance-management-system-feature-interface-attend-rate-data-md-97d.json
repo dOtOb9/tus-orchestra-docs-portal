@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/interface/AttendRateData",
+  "title": "AttendRateData",
+  "description": "このインターフェースは、出席率データを管理するためのデータ構造を定義します。出席率と基準値を含むオブジェクトを表します。",
+  "source": "@site/docs/attendance-management-system/feature/interface/AttendRateData.md",
+  "sourceDirName": "attendance-management-system/feature/interface",
+  "slug": "/attendance-management-system/feature/interface/AttendRateData",
+  "permalink": "/docs/attendance-management-system/feature/interface/AttendRateData",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/interface/AttendRateData.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "インターフェース",
+    "permalink": "/docs/category/インターフェース-1"
+  },
+  "next": {
+    "title": "AttendRateInfo",
+    "permalink": "/docs/attendance-management-system/feature/interface/AttendRateInfo"
+  }
+}

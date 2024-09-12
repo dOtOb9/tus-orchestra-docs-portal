@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AdminEventSheet",
+  "title": "AdminEventSheet",
+  "description": "このクラスは、Sheet クラスを拡張し、管理用の出欠表を操作するためのメソッドを提供します。出欠データの集計や設定日付の取得などを行います。",
+  "source": "@site/docs/attendance-management-system/feature/class/AdminEventSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AdminEventSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/AdminEventSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/AdminEventSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminEventBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AdminEventBook"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceBook"
+  }
+}

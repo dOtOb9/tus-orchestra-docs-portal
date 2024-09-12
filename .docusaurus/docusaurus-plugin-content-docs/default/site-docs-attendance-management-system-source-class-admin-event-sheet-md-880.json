@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/AdminEventSheet",
+  "title": "AdminEventSheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/class/AdminEventSheet.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/AdminEventSheet",
+  "permalink": "/docs/attendance-management-system/source/class/AdminEventSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/AdminEventSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AdminEventBook",
+    "permalink": "/docs/attendance-management-system/source/class/AdminEventBook"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/source/class/AttendanceBook"
+  }
+}

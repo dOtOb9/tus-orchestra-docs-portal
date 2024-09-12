@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ed4'),
+    component: ComponentCreator('/docs', '2b0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c5b'),
+        component: ComponentCreator('/docs', '93c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2da'),
+            component: ComponentCreator('/docs', '285'),
             routes: [
               {
                 path: '/docs/attendance-management-system/detailsDesign',
@@ -138,8 +138,32 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/feature/class/AdminEventSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/AdminEventSheet', '5c1'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/feature/class/AttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/feature/class/AttendanceBook', '063'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/AttendanceCodeSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/AttendanceCodeSheet', '4ec'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/AttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/AttendanceSheet', '41a'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/AttendanceStatus',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/AttendanceStatus', '548'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -156,8 +180,44 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/feature/class/EventAttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/EventAttendanceSheet', '219'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/Member',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/Member', '2a8'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/MemberInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/MemberInfoSheet', 'e51'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/MemberSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/MemberSheet', 'd5a'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/feature/class/NormalAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/feature/class/NormalAttendanceBook', '074'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/ScheduleSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/ScheduleSheet', '56b'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/Sheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/Sheet', '435'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -176,6 +236,18 @@ export default [
               {
                 path: '/docs/attendance-management-system/feature/class/TuttiAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/feature/class/TuttiAttendanceBook', '869'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/UserInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/UserInfoSheet', 'f76'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/class/verifyAttendance',
+                component: ComponentCreator('/docs/attendance-management-system/feature/class/verifyAttendance', 'ad5'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -210,9 +282,16 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/docs/attendance-management-system/feature/interface/interfaceInfo',
-                component: ComponentCreator('/docs/attendance-management-system/feature/interface/interfaceInfo', '9fc'),
-                exact: true
+                path: '/docs/attendance-management-system/feature/interface/AttendRateData',
+                component: ComponentCreator('/docs/attendance-management-system/feature/interface/AttendRateData', '3ab'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/feature/interface/AttendRateInfo',
+                component: ComponentCreator('/docs/attendance-management-system/feature/interface/AttendRateInfo', '81e'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
               },
               {
                 path: '/docs/attendance-management-system/functionDesign',
@@ -233,8 +312,32 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/reference/class/AdminEventSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/AdminEventSheet', '5fd'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/reference/class/AttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/reference/class/AttendanceBook', '8e3'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/AttendanceCodeSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/AttendanceCodeSheet', '4e0'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/AttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/AttendanceSheet', 'f90'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/AttendanceStatus',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/AttendanceStatus', '011'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -245,8 +348,44 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/reference/class/EventAttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/EventAttendanceSheet', '08a'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/Member',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/Member', '119'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/MemberInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/MemberInfoSheet', '935'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/MemberSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/MemberSheet', 'd9e'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/reference/class/NormalAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/reference/class/NormalAttendanceBook', 'bdc'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/ScheduleSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/ScheduleSheet', 'd81'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/Sheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/Sheet', 'd4b'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -265,6 +404,18 @@ export default [
               {
                 path: '/docs/attendance-management-system/reference/class/TuttiAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/reference/class/TuttiAttendanceBook', 'e29'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/UserInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/UserInfoSheet', 'eca'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/class/verifyAttendance',
+                component: ComponentCreator('/docs/attendance-management-system/reference/class/verifyAttendance', 'b71'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -299,6 +450,18 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/reference/interface/AttendRateData',
+                component: ComponentCreator('/docs/attendance-management-system/reference/interface/AttendRateData', '5ec'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/reference/interface/AttendRateInfo',
+                component: ComponentCreator('/docs/attendance-management-system/reference/interface/AttendRateInfo', '217'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/source/class/AdminActivityBook',
                 component: ComponentCreator('/docs/attendance-management-system/source/class/AdminActivityBook', 'd46'),
                 exact: true,
@@ -311,8 +474,32 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/source/class/AdminEventSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/AdminEventSheet', '1ca'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/source/class/AttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/source/class/AttendanceBook', '74e'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/AttendanceCodeSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/AttendanceCodeSheet', '776'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/AttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/AttendanceSheet', 'bf1'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/AttendanceStatus',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/AttendanceStatus', '5a5'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -323,8 +510,44 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/source/class/EventAttendanceSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/EventAttendanceSheet', '30d'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/Member',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/Member', '9ba'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/MemberInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/MemberInfoSheet', 'e1f'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/MemberSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/MemberSheet', 'a27'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/source/class/NormalAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/source/class/NormalAttendanceBook', 'fc4'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/ScheduleSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/ScheduleSheet', 'f48'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/Sheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/Sheet', 'c90'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -337,6 +560,18 @@ export default [
               {
                 path: '/docs/attendance-management-system/source/class/TuttiAttendanceBook',
                 component: ComponentCreator('/docs/attendance-management-system/source/class/TuttiAttendanceBook', 'e7f'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/UserInfoSheet',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/UserInfoSheet', '7b6'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/class/verifyAttendance',
+                component: ComponentCreator('/docs/attendance-management-system/source/class/verifyAttendance', '2f8'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -367,6 +602,36 @@ export default [
               {
                 path: '/docs/attendance-management-system/source/function/startEventFlow',
                 component: ComponentCreator('/docs/attendance-management-system/source/function/startEventFlow', '3d4'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/interface/AttendRateData',
+                component: ComponentCreator('/docs/attendance-management-system/source/interface/AttendRateData', 'c85'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/interface/AttendRateInfo',
+                component: ComponentCreator('/docs/attendance-management-system/source/interface/AttendRateInfo', '82e'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/category/インターフェース',
+                component: ComponentCreator('/docs/category/インターフェース', 'e37'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/category/インターフェース-1',
+                component: ComponentCreator('/docs/category/インターフェース-1', '13a'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/category/インターフェース-2',
+                component: ComponentCreator('/docs/category/インターフェース-2', '71b'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

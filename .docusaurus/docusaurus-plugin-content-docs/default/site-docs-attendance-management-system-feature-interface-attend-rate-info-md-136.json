@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/interface/AttendRateInfo",
+  "title": "AttendRateInfo",
+  "description": "このインターフェースは、出席率情報を管理するためのデータ構造を定義します。各練習セッションの出席率データを含むオブジェクトを表します。",
+  "source": "@site/docs/attendance-management-system/feature/interface/AttendRateInfo.md",
+  "sourceDirName": "attendance-management-system/feature/interface",
+  "slug": "/attendance-management-system/feature/interface/AttendRateInfo",
+  "permalink": "/docs/attendance-management-system/feature/interface/AttendRateInfo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/interface/AttendRateInfo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendRateData",
+    "permalink": "/docs/attendance-management-system/feature/interface/AttendRateData"
+  },
+  "next": {
+    "title": "ソースコード",
+    "permalink": "/docs/category/ソースコード"
+  }
+}

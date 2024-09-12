@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/detailsDesign",
+  "title": "詳細設計書",
+  "description": "1. 概要",
+  "source": "@site/docs/attendance-management-system/detailsDesign.mdx",
+  "sourceDirName": "attendance-management-system",
+  "slug": "/attendance-management-system/detailsDesign",
+  "permalink": "/docs/attendance-management-system/detailsDesign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/detailsDesign.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "基本設計",
+    "permalink": "/docs/attendance-management-system/functionDesign"
+  },
+  "next": {
+    "title": "リファレンス",
+    "permalink": "/docs/category/リファレンス-1"
+  }
+}

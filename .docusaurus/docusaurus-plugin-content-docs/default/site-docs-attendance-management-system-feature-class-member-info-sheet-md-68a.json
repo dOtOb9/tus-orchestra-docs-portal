@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/MemberInfoSheet",
+  "title": "MemberInfoSheet",
+  "description": "このクラスは、MemberSheet クラスを継承し、メンバーの情報を管理するためのメソッドを提供します。特に連絡先リストの管理や連絡先情報の取得を行います。",
+  "source": "@site/docs/attendance-management-system/feature/class/MemberInfoSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/MemberInfoSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/MemberInfoSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/MemberInfoSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Member",
+    "permalink": "/docs/attendance-management-system/feature/class/Member"
+  },
+  "next": {
+    "title": "MemberSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/MemberSheet"
+  }
+}

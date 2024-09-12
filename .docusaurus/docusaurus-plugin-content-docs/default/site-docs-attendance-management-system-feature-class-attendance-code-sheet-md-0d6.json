@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AttendanceCodeSheet",
+  "title": "AttendanceCodeSheet",
+  "description": "このクラスは、Sheet クラスを拡張し、出席認証コードを管理するためのメソッドを提供します。認証コードの検証、更新、通知機能を持ちます。",
+  "source": "@site/docs/attendance-management-system/feature/class/AttendanceCodeSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AttendanceCodeSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/AttendanceCodeSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/AttendanceCodeSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceBook"
+  },
+  "next": {
+    "title": "AttendanceSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceSheet"
+  }
+}

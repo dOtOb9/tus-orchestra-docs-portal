@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/ScheduleSheet",
+  "title": "ScheduleSheet",
+  "description": "このクラスは、Sheet クラスを拡張し、練習スケジュールを管理するためのメソッドを提供します。練習コマの取得、活動日設定、出席管理などが可能です。",
+  "source": "@site/docs/attendance-management-system/feature/class/ScheduleSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/ScheduleSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/ScheduleSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/ScheduleSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "NormalAttendanceBook",
+    "permalink": "/docs/attendance-management-system/feature/class/NormalAttendanceBook"
+  },
+  "next": {
+    "title": "Sheet",
+    "permalink": "/docs/attendance-management-system/feature/class/Sheet"
+  }
+}

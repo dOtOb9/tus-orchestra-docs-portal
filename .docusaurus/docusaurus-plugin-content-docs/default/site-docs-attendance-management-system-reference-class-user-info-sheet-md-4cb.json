@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/UserInfoSheet",
+  "title": "UserInfoSheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/reference/class/UserInfoSheet.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/UserInfoSheet",
+  "permalink": "/docs/attendance-management-system/reference/class/UserInfoSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/class/UserInfoSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "TuttiAttendanceBook",
+    "permalink": "/docs/attendance-management-system/reference/class/TuttiAttendanceBook"
+  },
+  "next": {
+    "title": "verifyAttendance",
+    "permalink": "/docs/attendance-management-system/reference/class/verifyAttendance"
+  }
+}

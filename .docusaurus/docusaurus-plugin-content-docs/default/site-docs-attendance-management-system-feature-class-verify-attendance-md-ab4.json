@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/verifyAttendance",
+  "title": "verifyAttendance",
+  "description": "このクラスは、出席確認を行うためのクラスです。メンバーIDと出席コードを使用して、出席の確認を行い、その結果に応じたメッセージを返します。",
+  "source": "@site/docs/attendance-management-system/feature/class/verifyAttendance.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/verifyAttendance",
+  "permalink": "/docs/attendance-management-system/feature/class/verifyAttendance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/verifyAttendance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "classInfo",
+    "permalink": "/docs/attendance-management-system/feature/class/classInfo"
+  },
+  "next": {
+    "title": "インターフェース",
+    "permalink": "/docs/category/インターフェース-1"
+  }
+}

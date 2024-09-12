@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/Sheet",
+  "title": "Sheet",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/reference/class/Sheet.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/Sheet",
+  "permalink": "/docs/attendance-management-system/reference/class/Sheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/class/Sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "ScheduleSheet",
+    "permalink": "/docs/attendance-management-system/reference/class/ScheduleSheet"
+  },
+  "next": {
+    "title": "SystemBook",
+    "permalink": "/docs/attendance-management-system/reference/class/SystemBook"
+  }
+}

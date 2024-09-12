@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/classInfo",
   "title": "classInfo",
-  "description": "Sheet クラス",
+  "description": "verifyAttendance クラス",
   "source": "@site/docs/attendance-management-system/feature/class/classInfo.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/classInfo",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "TuttiAttendanceBook",
-    "permalink": "/docs/attendance-management-system/feature/class/TuttiAttendanceBook"
+    "title": "UserInfoSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/UserInfoSheet"
   },
   "next": {
-    "title": "ソースコード",
-    "permalink": "/docs/category/ソースコード"
+    "title": "verifyAttendance",
+    "permalink": "/docs/attendance-management-system/feature/class/verifyAttendance"
   }
 }

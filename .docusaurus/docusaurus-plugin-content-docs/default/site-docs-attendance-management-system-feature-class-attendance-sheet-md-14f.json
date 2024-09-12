@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/AttendanceSheet",
+  "title": "AttendanceSheet",
+  "description": "このクラスは、MemberSheet クラスを拡張し、出席データを管理するためのメソッドを提供します。メンバーの出席情報の編集、出席日付の設定、出席状況の更新などを行います。",
+  "source": "@site/docs/attendance-management-system/feature/class/AttendanceSheet.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/AttendanceSheet",
+  "permalink": "/docs/attendance-management-system/feature/class/AttendanceSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/AttendanceSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendanceCodeSheet",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceCodeSheet"
+  },
+  "next": {
+    "title": "AttendanceStatus",
+    "permalink": "/docs/attendance-management-system/feature/class/AttendanceStatus"
+  }
+}
