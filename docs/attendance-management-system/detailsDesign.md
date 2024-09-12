@@ -4,7 +4,7 @@ import FeatureLink from '/src/components/FeatureLink';
 
 # 詳細設計書
 
-## 1. 概要
+## 概要
 **動作環境**
 
 本システムは、Google Apps Script上で動作し、Webアプリとしてデプロイされる。ソースコードは[**TypeScript**](https://www.typescriptlang.org/ja/)によって記述され、[**clasp**](https://github.com/google/clasp)によってGoogle Apps Scriptに更新される。使用されるスプレッドシートの所有者と記述されるApps Scriptの所有者は同一のアカウントによって管理される。
@@ -15,7 +15,10 @@ import FeatureLink from '/src/components/FeatureLink';
 |開発言語      |TypeScript  |
 |リポジトリ管理|GitHubフロー|
 
-## 2. クラス構造
+## ディレクトリ構造
+
+
+## クラス
 **主要な考え方**
 
 シートごとに役割を設定し、それらをクラスにラップする。例えば、通常練習のスプレッドシートに関するクラス( Normal Attendance Book ) は、通常練習の出欠に関するデータの管理に関する機能をラップし、また前曲、中曲、メイン曲それぞれの出欠表シートの管理に関するクラス( Attendance Sheet ) を所有する。それぞれのクラスは、設定された関数の実行によって動作される。システムの動作に関しては、それぞれの関数の処理を追っていくと理解しやすいはず。
@@ -177,7 +180,7 @@ import FeatureLink from '/src/components/FeatureLink';
 <ReferenceLink href="/docs/attendance-management-system/reference/class/verifyAttendance"/>
 
 
-## 3. 関数
+## 関数
 
 ### HTTPリクエストに関する関数
 
@@ -219,13 +222,15 @@ import FeatureLink from '/src/components/FeatureLink';
 <FeatureLink href="/docs/attendance-management-system/feature/function/startEventFlow"/>
 <ReferenceLink href="/docs/attendance-management-system/reference/function/startEventFlow"/>
 
-## 4. インターフェース
+## インターフェース
 
 #### AttendRateInfo
 
 <SourceLink href="/docs/attendance-management-system/source/interface/AttendRateinfo"/>
 <FeatureLink href="/docs/attendance-management-system/feature/interface/AttendRateinfo"/>
 <ReferenceLink href="/docs/attendance-management-system/reference/interface/AttendRateinfo"/>
+
+---
 
 #### AttendRateData
 
