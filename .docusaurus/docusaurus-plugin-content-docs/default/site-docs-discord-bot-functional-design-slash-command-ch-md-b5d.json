@@ -5,7 +5,7 @@
   "source": "@site/docs/discord-bot/functional_design/slash_command/ch.md",
   "sourceDirName": "discord-bot/functional_design/slash_command",
   "slug": "/discord-bot/functional_design/slash_command/ch",
-  "permalink": "/docs/discord-bot/functional_design/slash_command/ch",
+  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/ch",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/functional_design/slash_command/ch.md",
@@ -15,10 +15,10 @@
   "sidebar": "discordBotSidebar",
   "previous": {
     "title": "スラッシュコマンド",
-    "permalink": "/docs/discord-bot/functional_design/slash_command/"
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/"
   },
   "next": {
     "title": "/dm グループ",
-    "permalink": "/docs/discord-bot/functional_design/slash_command/dm"
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm"
   }
 }

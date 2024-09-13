@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/source/function/doPost.md",
   "sourceDirName": "attendance-management-system/source/function",
   "slug": "/attendance-management-system/source/function/doPost",
-  "permalink": "/docs/attendance-management-system/source/function/doPost",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doPost",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/function/doPost.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "doGet",
-    "permalink": "/docs/attendance-management-system/source/function/doGet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doGet"
   },
   "next": {
     "title": "regular",
-    "permalink": "/docs/attendance-management-system/source/function/regular"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/regular"
   }
 }

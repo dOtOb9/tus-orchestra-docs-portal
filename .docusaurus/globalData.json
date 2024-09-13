@@ -1,562 +1,567 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/tus-orchestra-docs-portal/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/tus-orchestra-docs-portal/docs",
           "mainDocId": "discord-bot/functional_design/index",
           "docs": [
             {
               "id": "attendance-management-system/detailsDesign",
-              "path": "/docs/attendance-management-system/detailsDesign",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AdminActivityBook",
-              "path": "/docs/attendance-management-system/feature/class/AdminActivityBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AdminEventBook",
-              "path": "/docs/attendance-management-system/feature/class/AdminEventBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminEventBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AdminEventSheet",
-              "path": "/docs/attendance-management-system/feature/class/AdminEventSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminEventSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AttendanceBook",
-              "path": "/docs/attendance-management-system/feature/class/AttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AttendanceCodeSheet",
-              "path": "/docs/attendance-management-system/feature/class/AttendanceCodeSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceCodeSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AttendanceSheet",
-              "path": "/docs/attendance-management-system/feature/class/AttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/AttendanceStatus",
-              "path": "/docs/attendance-management-system/feature/class/AttendanceStatus",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/Book",
-              "path": "/docs/attendance-management-system/feature/class/Book",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Book",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/classInfo",
-              "path": "/docs/attendance-management-system/feature/class/classInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/EventAttendanceSheet",
-              "path": "/docs/attendance-management-system/feature/class/EventAttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/EventAttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/Member",
-              "path": "/docs/attendance-management-system/feature/class/Member",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Member",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/MemberInfoSheet",
-              "path": "/docs/attendance-management-system/feature/class/MemberInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/MemberSheet",
-              "path": "/docs/attendance-management-system/feature/class/MemberSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/NormalAttendanceBook",
-              "path": "/docs/attendance-management-system/feature/class/NormalAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/NormalAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/ScheduleSheet",
-              "path": "/docs/attendance-management-system/feature/class/ScheduleSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/ScheduleSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/Sheet",
-              "path": "/docs/attendance-management-system/feature/class/Sheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/SystemBook",
-              "path": "/docs/attendance-management-system/feature/class/SystemBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/Today",
-              "path": "/docs/attendance-management-system/feature/class/Today",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/TuttiAttendanceBook",
-              "path": "/docs/attendance-management-system/feature/class/TuttiAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/TuttiAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/UserInfoSheet",
-              "path": "/docs/attendance-management-system/feature/class/UserInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/UserInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/class/verifyAttendance",
-              "path": "/docs/attendance-management-system/feature/class/verifyAttendance",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/function/doGet",
-              "path": "/docs/attendance-management-system/feature/function/doGet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/doGet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/function/doPost",
-              "path": "/docs/attendance-management-system/feature/function/doPost",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/doPost",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/function/regular",
-              "path": "/docs/attendance-management-system/feature/function/regular",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/regular",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/function/setEventInfo",
-              "path": "/docs/attendance-management-system/feature/function/setEventInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/setEventInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/function/startEventFlow",
-              "path": "/docs/attendance-management-system/feature/function/startEventFlow",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/startEventFlow",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/interface/AttendRateData",
-              "path": "/docs/attendance-management-system/feature/interface/AttendRateData",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/interface/AttendRateData",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/feature/interface/AttendRateInfo",
-              "path": "/docs/attendance-management-system/feature/interface/AttendRateInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/interface/AttendRateInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/functionDesign",
-              "path": "/docs/attendance-management-system/functionDesign",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/HowToUse",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/HowToUse",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AdminActivityBook",
-              "path": "/docs/attendance-management-system/reference/class/AdminActivityBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AdminActivityBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AdminEventBook",
-              "path": "/docs/attendance-management-system/reference/class/AdminEventBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AdminEventBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AdminEventSheet",
-              "path": "/docs/attendance-management-system/reference/class/AdminEventSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AdminEventSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AttendanceBook",
-              "path": "/docs/attendance-management-system/reference/class/AttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AttendanceCodeSheet",
-              "path": "/docs/attendance-management-system/reference/class/AttendanceCodeSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceCodeSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AttendanceSheet",
-              "path": "/docs/attendance-management-system/reference/class/AttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/AttendanceStatus",
-              "path": "/docs/attendance-management-system/reference/class/AttendanceStatus",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/Book",
-              "path": "/docs/attendance-management-system/reference/class/Book",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Book",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/EventAttendanceSheet",
-              "path": "/docs/attendance-management-system/reference/class/EventAttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/EventAttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/Member",
-              "path": "/docs/attendance-management-system/reference/class/Member",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Member",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/MemberInfoSheet",
-              "path": "/docs/attendance-management-system/reference/class/MemberInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/MemberInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/MemberSheet",
-              "path": "/docs/attendance-management-system/reference/class/MemberSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/MemberSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/NormalAttendanceBook",
-              "path": "/docs/attendance-management-system/reference/class/NormalAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/NormalAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/ScheduleSheet",
-              "path": "/docs/attendance-management-system/reference/class/ScheduleSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/ScheduleSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/Sheet",
-              "path": "/docs/attendance-management-system/reference/class/Sheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/SystemBook",
-              "path": "/docs/attendance-management-system/reference/class/SystemBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/SystemBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/Today",
-              "path": "/docs/attendance-management-system/reference/class/Today",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Today",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/TuttiAttendanceBook",
-              "path": "/docs/attendance-management-system/reference/class/TuttiAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/TuttiAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/UserInfoSheet",
-              "path": "/docs/attendance-management-system/reference/class/UserInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/UserInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/class/verifyAttendance",
-              "path": "/docs/attendance-management-system/reference/class/verifyAttendance",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/function/doGet",
-              "path": "/docs/attendance-management-system/reference/function/doGet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/doGet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/function/doPost",
-              "path": "/docs/attendance-management-system/reference/function/doPost",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/doPost",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/function/regular",
-              "path": "/docs/attendance-management-system/reference/function/regular",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/regular",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/function/setEventInfo",
-              "path": "/docs/attendance-management-system/reference/function/setEventInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/setEventInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/function/startEventFlow",
-              "path": "/docs/attendance-management-system/reference/function/startEventFlow",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/function/startEventFlow",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/interface/AttendRateData",
-              "path": "/docs/attendance-management-system/reference/interface/AttendRateData",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/interface/AttendRateData",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/reference/interface/AttendRateInfo",
-              "path": "/docs/attendance-management-system/reference/interface/AttendRateInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/interface/AttendRateInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AdminActivityBook",
-              "path": "/docs/attendance-management-system/source/class/AdminActivityBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AdminEventBook",
-              "path": "/docs/attendance-management-system/source/class/AdminEventBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminEventBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AdminEventSheet",
-              "path": "/docs/attendance-management-system/source/class/AdminEventSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminEventSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AttendanceBook",
-              "path": "/docs/attendance-management-system/source/class/AttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AttendanceCodeSheet",
-              "path": "/docs/attendance-management-system/source/class/AttendanceCodeSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceCodeSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AttendanceSheet",
-              "path": "/docs/attendance-management-system/source/class/AttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/AttendanceStatus",
-              "path": "/docs/attendance-management-system/source/class/AttendanceStatus",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceStatus",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/Book",
-              "path": "/docs/attendance-management-system/source/class/Book",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Book",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/EventAttendanceSheet",
-              "path": "/docs/attendance-management-system/source/class/EventAttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/EventAttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/Member",
-              "path": "/docs/attendance-management-system/source/class/Member",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Member",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/MemberInfoSheet",
-              "path": "/docs/attendance-management-system/source/class/MemberInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/MemberSheet",
-              "path": "/docs/attendance-management-system/source/class/MemberSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/NormalAttendanceBook",
-              "path": "/docs/attendance-management-system/source/class/NormalAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/NormalAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/ScheduleSheet",
-              "path": "/docs/attendance-management-system/source/class/ScheduleSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/ScheduleSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/Sheet",
-              "path": "/docs/attendance-management-system/source/class/Sheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Sheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/SystemBook",
-              "path": "/docs/attendance-management-system/source/class/SystemBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/TuttiAttendanceBook",
-              "path": "/docs/attendance-management-system/source/class/TuttiAttendanceBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/TuttiAttendanceBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/UserInfoSheet",
-              "path": "/docs/attendance-management-system/source/class/UserInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/UserInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/class/verifyAttendance",
-              "path": "/docs/attendance-management-system/source/class/verifyAttendance",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/verifyAttendance",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/function/doGet",
-              "path": "/docs/attendance-management-system/source/function/doGet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doGet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/function/doPost",
-              "path": "/docs/attendance-management-system/source/function/doPost",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doPost",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/function/regular",
-              "path": "/docs/attendance-management-system/source/function/regular",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/regular",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/function/setEventInfo",
-              "path": "/docs/attendance-management-system/source/function/setEventInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/setEventInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/function/startEventFlow",
-              "path": "/docs/attendance-management-system/source/function/startEventFlow",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/startEventFlow",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/interface/AttendRateData",
-              "path": "/docs/attendance-management-system/source/interface/AttendRateData",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/interface/AttendRateData",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "attendance-management-system/source/interface/AttendRateInfo",
-              "path": "/docs/attendance-management-system/source/interface/AttendRateInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/interface/AttendRateInfo",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "discord-bot/details_design/environment",
-              "path": "/docs/discord-bot/details_design/environment",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/details_design/environment",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/details_design/index",
-              "path": "/docs/discord-bot/details_design/"
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/details_design/"
             },
             {
               "id": "discord-bot/details_design/server",
-              "path": "/docs/discord-bot/details_design/server",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/details_design/server",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/index",
-              "path": "/docs/discord-bot/functional_design/",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/message_command",
-              "path": "/docs/discord-bot/functional_design/message_command",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/message_command",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/others",
-              "path": "/docs/discord-bot/functional_design/others",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/others",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/slash_command/ch",
-              "path": "/docs/discord-bot/functional_design/slash_command/ch",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/ch",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/slash_command/dm",
-              "path": "/docs/discord-bot/functional_design/slash_command/dm",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/slash_command/index",
-              "path": "/docs/discord-bot/functional_design/slash_command/",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/functional_design/user_command",
-              "path": "/docs/discord-bot/functional_design/user_command",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/user_command",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "discord-bot/reference/directory",
-              "path": "/docs/discord-bot/reference/directory",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/reference/directory",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "/category/目次",
-              "path": "/docs/category/目次",
+              "path": "/tus-orchestra-docs-portal/docs/category/目次",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "/category/詳細設計",
-              "path": "/docs/category/詳細設計",
+              "path": "/tus-orchestra-docs-portal/docs/category/詳細設計",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "/category/リファレンス",
-              "path": "/docs/category/リファレンス",
+              "path": "/tus-orchestra-docs-portal/docs/category/リファレンス",
               "sidebar": "discordBotSidebar"
             },
             {
               "id": "/category/目次-1",
-              "path": "/docs/category/目次-1",
+              "path": "/tus-orchestra-docs-portal/docs/category/目次-1",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/リファレンス-1",
-              "path": "/docs/category/リファレンス-1",
+              "path": "/tus-orchestra-docs-portal/docs/category/リファレンス-1",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/関数",
-              "path": "/docs/category/関数",
+              "path": "/tus-orchestra-docs-portal/docs/category/関数",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/クラス",
-              "path": "/docs/category/クラス",
+              "path": "/tus-orchestra-docs-portal/docs/category/クラス",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/インターフェース",
-              "path": "/docs/category/インターフェース",
+              "path": "/tus-orchestra-docs-portal/docs/category/インターフェース",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/機能詳細",
-              "path": "/docs/category/機能詳細",
+              "path": "/tus-orchestra-docs-portal/docs/category/機能詳細",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/関数-1",
-              "path": "/docs/category/関数-1",
+              "path": "/tus-orchestra-docs-portal/docs/category/関数-1",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/クラス-1",
-              "path": "/docs/category/クラス-1",
+              "path": "/tus-orchestra-docs-portal/docs/category/クラス-1",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/インターフェース-1",
-              "path": "/docs/category/インターフェース-1",
+              "path": "/tus-orchestra-docs-portal/docs/category/インターフェース-1",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/ソースコード",
-              "path": "/docs/category/ソースコード",
+              "path": "/tus-orchestra-docs-portal/docs/category/ソースコード",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/関数-2",
-              "path": "/docs/category/関数-2",
+              "path": "/tus-orchestra-docs-portal/docs/category/関数-2",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/クラス-2",
-              "path": "/docs/category/クラス-2",
+              "path": "/tus-orchestra-docs-portal/docs/category/クラス-2",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
               "id": "/category/インターフェース-2",
-              "path": "/docs/category/インターフェース-2",
+              "path": "/tus-orchestra-docs-portal/docs/category/インターフェース-2",
               "sidebar": "attendanceManagementSystemSidebar"
             }
           ],
@@ -564,13 +569,13 @@
           "sidebars": {
             "discordBotSidebar": {
               "link": {
-                "path": "/docs/category/目次",
+                "path": "/tus-orchestra-docs-portal/docs/category/目次",
                 "label": "目次"
               }
             },
             "attendanceManagementSystemSidebar": {
               "link": {
-                "path": "/docs/category/目次-1",
+                "path": "/tus-orchestra-docs-portal/docs/category/目次-1",
                 "label": "目次"
               }
             }

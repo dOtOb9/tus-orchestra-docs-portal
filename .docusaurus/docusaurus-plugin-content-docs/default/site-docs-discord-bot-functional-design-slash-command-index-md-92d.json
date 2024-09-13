@@ -5,7 +5,7 @@
   "source": "@site/docs/discord-bot/functional_design/slash_command/index.md",
   "sourceDirName": "discord-bot/functional_design/slash_command",
   "slug": "/discord-bot/functional_design/slash_command/",
-  "permalink": "/docs/discord-bot/functional_design/slash_command/",
+  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/functional_design/slash_command/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "discordBotSidebar",
   "previous": {
     "title": "基本設計",
-    "permalink": "/docs/discord-bot/functional_design/"
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/"
   },
   "next": {
     "title": "/ch グループ",
-    "permalink": "/docs/discord-bot/functional_design/slash_command/ch"
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/ch"
   }
 }

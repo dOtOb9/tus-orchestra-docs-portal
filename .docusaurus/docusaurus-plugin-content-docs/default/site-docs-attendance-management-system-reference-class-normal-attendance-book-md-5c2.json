@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/reference/class/NormalAttendanceBook.md",
   "sourceDirName": "attendance-management-system/reference/class",
   "slug": "/attendance-management-system/reference/class/NormalAttendanceBook",
-  "permalink": "/docs/attendance-management-system/reference/class/NormalAttendanceBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/NormalAttendanceBook",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/class/NormalAttendanceBook.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "MemberSheet",
-    "permalink": "/docs/attendance-management-system/reference/class/MemberSheet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/MemberSheet"
   },
   "next": {
     "title": "ScheduleSheet",
-    "permalink": "/docs/attendance-management-system/reference/class/ScheduleSheet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/ScheduleSheet"
   }
 }

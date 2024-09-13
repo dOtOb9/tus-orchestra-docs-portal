@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/feature/class/MemberInfoSheet.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/MemberInfoSheet",
-  "permalink": "/docs/attendance-management-system/feature/class/MemberInfoSheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/MemberInfoSheet.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "Member",
-    "permalink": "/docs/attendance-management-system/feature/class/Member"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Member"
   },
   "next": {
     "title": "MemberSheet",
-    "permalink": "/docs/attendance-management-system/feature/class/MemberSheet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberSheet"
   }
 }

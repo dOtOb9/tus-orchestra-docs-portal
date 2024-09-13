@@ -130,6 +130,11 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         {
+          type: 'doc',
+          label: '使い方',
+          id: 'attendance-management-system/HowToUse',
+        },
+        {
           type: "doc",
           label: "基本設計",
           id: 'attendance-management-system/functionDesign',

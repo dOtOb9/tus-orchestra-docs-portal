@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/source/class/Sheet.md",
   "sourceDirName": "attendance-management-system/source/class",
   "slug": "/attendance-management-system/source/class/Sheet",
-  "permalink": "/docs/attendance-management-system/source/class/Sheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Sheet",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/Sheet.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "ScheduleSheet",
-    "permalink": "/docs/attendance-management-system/source/class/ScheduleSheet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/ScheduleSheet"
   },
   "next": {
     "title": "SystemBook",
-    "permalink": "/docs/attendance-management-system/source/class/SystemBook"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook"
   }
 }

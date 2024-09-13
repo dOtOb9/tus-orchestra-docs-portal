@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/feature/class/classInfo.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/classInfo",
-  "permalink": "/docs/attendance-management-system/feature/class/classInfo",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/classInfo.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "UserInfoSheet",
-    "permalink": "/docs/attendance-management-system/feature/class/UserInfoSheet"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/UserInfoSheet"
   },
   "next": {
     "title": "verifyAttendance",
-    "permalink": "/docs/attendance-management-system/feature/class/verifyAttendance"
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/verifyAttendance"
   }
 }

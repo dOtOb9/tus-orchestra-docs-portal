@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/HowToUse",
+  "title": "使い方",
+  "description": "ディレクトリ構造",
+  "source": "@site/docs/attendance-management-system/HowToUse.md",
+  "sourceDirName": "attendance-management-system",
+  "slug": "/attendance-management-system/HowToUse",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/HowToUse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/HowToUse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "目次",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/目次-1"
+  },
+  "next": {
+    "title": "基本設計",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign"
+  }
+}
