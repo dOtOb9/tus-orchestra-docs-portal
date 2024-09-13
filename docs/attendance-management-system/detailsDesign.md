@@ -237,7 +237,7 @@ src/
 ## インターフェース
 
 #### AttendRateInfo
-
+各曲の出欠状況に関する情報をラップします。
 <SourceLink href="/docs/attendance-management-system/source/interface/AttendRateinfo"/>
 <FeatureLink href="/docs/attendance-management-system/feature/interface/AttendRateinfo"/>
 <ReferenceLink href="/docs/attendance-management-system/reference/interface/AttendRateinfo"/>
@@ -245,7 +245,7 @@ src/
 ---
 
 #### AttendRateData
-
+各曲の出席率の情報をラップします。
 <SourceLink href="/docs/attendance-management-system/source/interface/AttendRateData"/>
 <FeatureLink href="/docs/attendance-management-system/feature/interface/AttendRateData"/>
 <ReferenceLink href="/docs/attendance-management-system/reference/interface/AttendRateData"/>
