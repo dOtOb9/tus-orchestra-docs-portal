@@ -2,7 +2,7 @@ import SourceLink from '/src/components/SourceLink';
 import ReferenceLink from '/src/components/ReferenceLink';
 import FeatureLink from '/src/components/FeatureLink';
 
-# 詳細設計書
+# 詳細設計
 
 ## 概要
 **動作環境**
