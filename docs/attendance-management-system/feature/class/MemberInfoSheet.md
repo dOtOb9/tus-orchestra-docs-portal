@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/MemberInfoSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/MemberInfoSheet"/>
 
 
 このクラスは、`MemberSheet` クラスを継承し、メンバーの情報を管理するためのメソッドを提供します。特に連絡先リストの管理や連絡先情報の取得を行います。

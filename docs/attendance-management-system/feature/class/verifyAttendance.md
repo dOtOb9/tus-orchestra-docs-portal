@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/verifyAttendance"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/verifyAttendance"/>
 
 このクラスは、出席確認を行うためのクラスです。メンバーIDと出席コードを使用して、出席の確認を行い、その結果に応じたメッセージを返します。
 

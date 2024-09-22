@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/ScheduleSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/ScheduleSheet"/>
 
 このクラスは、`Sheet` クラスを拡張し、練習スケジュールを管理するためのメソッドを提供します。練習コマの取得、活動日設定、出席管理などが可能です。
 

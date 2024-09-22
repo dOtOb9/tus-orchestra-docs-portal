@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/EventAttendanceSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/EventAttendanceSheet"/>
 
 このクラスは、`AttendancceSheet` クラスを拡張し、イベントの出欠シートを操作するためのメソッドを提供します。特定のイベントの日付に関連する列を取得します。
 

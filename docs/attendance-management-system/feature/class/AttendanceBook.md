@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AttendanceBook"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AttendanceBook"/>
 
 このクラスは、`Book` クラスを拡張し、指定されたシートに対して `AttendanceSheet` オブジェクトを生成するためのメソッドを提供します。
 

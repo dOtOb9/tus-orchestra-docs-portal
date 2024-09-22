@@ -1,8 +1,4 @@
-import ReferenceLink from '/src/components/ReferenceLink';
-import FeatureLink from '/src/components/FeatureLink';
 
-<ReferenceLink href="/docs/attendance-management-system/reference/class/ScheduleSheet"/>
-<FeatureLink href="/docs/attendance-management-system/feature/class/ScheduleSheet"/>
 
 ```ts title="/src/main.ts"
 class ScheduleSheet extends Sheet {

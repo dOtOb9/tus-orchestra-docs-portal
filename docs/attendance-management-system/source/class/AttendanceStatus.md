@@ -1,8 +1,3 @@
-import ReferenceLink from '/src/components/ReferenceLink';
-import FeatureLink from '/src/components/FeatureLink';
-
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AttendanceStatus"/>
-<FeatureLink href="/docs/attendance-management-system/feature/class/AttendanceStatus"/>
 
 ```ts title="/src/main.ts"
 class AttendanceStatus {

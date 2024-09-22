@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/function/regular"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/function/regular"/>
 
 
 この関数は、スケジュールシートの出欠列を生成し、必要に応じて出欠管理のための処理を行います。主に、練習日の出欠情報を更新し、認証コードを置き換える役割を持っています。

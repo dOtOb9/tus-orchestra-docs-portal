@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AttendanceCodeSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AttendanceCodeSheet"/>
 
 
 このクラスは、`Sheet` クラスを拡張し、出席認証コードを管理するためのメソッドを提供します。認証コードの検証、更新、通知機能を持ちます。

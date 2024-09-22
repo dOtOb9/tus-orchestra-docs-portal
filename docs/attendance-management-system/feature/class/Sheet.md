@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/Sheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/Sheet"/>
 
 このクラスは、Google Sheets のシートを操作するための基本的なメソッドを提供します。シートのデータを取得し、セルの値の設定や列・行の操作を行います。
 

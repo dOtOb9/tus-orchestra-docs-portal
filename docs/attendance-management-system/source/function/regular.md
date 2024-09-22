@@ -1,10 +1,3 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
-import FeatureLink from '/src/components/FeatureLink';
-
-<SourceLink href="/docs/attendance-management-system/source/function/regular"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/function/regular"/>
-<FeatureLink href="/docs/attendance-management-system/feature/function/regular"/>
 
 ```ts title="/src/main.ts"
 function regular() {

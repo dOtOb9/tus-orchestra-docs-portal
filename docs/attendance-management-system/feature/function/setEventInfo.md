@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/function/setEventInfo"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/function/setEventInfo"/>
 
 この関数は、イベント情報を設定するために使用されます。`AdminEventBook` クラスのインスタンスを作成し、その `setEventInfo` メソッドを呼び出します。
 

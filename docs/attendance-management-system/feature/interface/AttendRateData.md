@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/interface/AttendRateData"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/interface/AttendRateData"/>
 
 
 このインターフェースは、出席率データを管理するためのデータ構造を定義します。出席率と基準値を含むオブジェクトを表します。

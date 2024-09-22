@@ -1,8 +1,6 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
+import FeatureLinks from '/src/components/pageLink/FeatureLinks';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AdminEventSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AdminEventSheet"/>
+<FeatureLinks href="/docs/attendance-management-system/reference/class/AdminEventSheet"/>
 
 このクラスは、`Sheet` クラスを拡張し、管理用の出欠表を操作するためのメソッドを提供します。出欠データの集計や設定日付の取得などを行います。
 

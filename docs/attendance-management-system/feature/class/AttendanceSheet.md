@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AttendanceSheet"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AttendanceSheet"/>
 
 このクラスは、`MemberSheet` クラスを拡張し、出席データを管理するためのメソッドを提供します。メンバーの出席情報の編集、出席日付の設定、出席状況の更新などを行います。
 

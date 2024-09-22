@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/function/startEventFlow"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/function/startEventFlow"/>
 
 
 この関数は、Google スプレッドシートの UI にダイアログを表示し、ユーザーが指定されたリンクにアクセスできるようにします。

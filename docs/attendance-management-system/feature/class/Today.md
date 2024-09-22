@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/Today"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/Today"/>
 
 このクラスは、現在の日付と時刻に関する情報を提供するためのものです。
 

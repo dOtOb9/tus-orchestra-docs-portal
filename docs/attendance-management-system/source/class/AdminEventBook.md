@@ -1,8 +1,4 @@
-import ReferenceLink from '/src/components/ReferenceLink';
-import FeatureLink from '/src/components/FeatureLink';
 
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AdminEventBook"/>
-<FeatureLink href="/docs/attendance-management-system/feature/class/AdminEventBook"/>
 
 ```ts title="/src/main.ts"
 class AdminEventBook extends Book {

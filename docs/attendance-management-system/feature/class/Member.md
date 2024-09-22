@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/Member"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/Member"/>
 
 このクラスは、メンバーの基本情報と出席状況を管理します。また、メンバー情報の編集や連絡先リストへの追加機能を提供します。
 

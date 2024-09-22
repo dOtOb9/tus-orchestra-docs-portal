@@ -1,8 +1,4 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AttendanceStatus"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AttendanceStatus"/>
 
 このクラスは、メンバーの出席率を管理し、通常練習およびTutti練習の出席率情報を提供します。また、Discordフォーマットでの出席状況の文字列を生成します。
 

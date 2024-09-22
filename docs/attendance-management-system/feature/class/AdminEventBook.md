@@ -1,8 +1,6 @@
-import SourceLink from '/src/components/SourceLink';
-import ReferenceLink from '/src/components/ReferenceLink';
+import FeatureLinks from '/src/components/pageLink/FeatureLinks';
 
-<SourceLink href="/docs/attendance-management-system/source/class/AdminEventBook"/>
-<ReferenceLink href="/docs/attendance-management-system/reference/class/AdminEventBook"/>
+<FeatureLinks href="/docs/attendance-management-system/reference/class/AdminEventBook"/>
 
 このクラスは、`Book` クラスを拡張し、特定のスプレッドシートシートにアクセスし、イベント情報を管理するためのメソッドを提供します。
 
