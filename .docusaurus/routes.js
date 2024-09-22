@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug', '6f2'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/config',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/config', 'f82'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/content',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/content', '31a'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/globalData',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/globalData', '645'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/metadata',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/metadata', '3c7'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/registry',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/registry', '200'),
+    exact: true
+  },
+  {
+    path: '/tus-orchestra-docs-portal/__docusaurus/debug/routes',
+    component: ComponentCreator('/tus-orchestra-docs-portal/__docusaurus/debug/routes', '3e8'),
+    exact: true
+  },
+  {
     path: '/tus-orchestra-docs-portal/blog',
     component: ComponentCreator('/tus-orchestra-docs-portal/blog', '74a'),
     exact: true
