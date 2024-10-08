@@ -65,7 +65,7 @@ src/
 
 ---
 
-#### woodwindAttendanceBook
+#### WoodwindAttendanceBook
 `AttendanceBook`クラスを継承し、`木管楽器出欠表`スプレッドシートの操作に関する機能を扱います。
 <ComponentLinks component='WoodwindAttendanceBook' type='class' project='attendance-management-system' />
 
