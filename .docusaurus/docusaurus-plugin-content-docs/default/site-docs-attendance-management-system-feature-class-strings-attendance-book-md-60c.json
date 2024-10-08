@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/StringsAttendanceBook",
+  "title": "StringsAttendanceBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/feature/class/StringsAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/StringsAttendanceBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/StringsAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/StringsAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Sheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Sheet"
+  },
+  "next": {
+    "title": "SystemBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook"
+  }
+}

@@ -1,4 +1,8 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='AttendanceCodeSheet' type='class' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
 class AttendanceCodeSheet extends Sheet {
@@ -9,12 +13,12 @@ class AttendanceCodeSheet extends Sheet {
         this.code = this.data[2][1];
     }
     
-    public isRightCode(code: string): boolean {
-        return code === this.code;
+    public getCode() {
+        return this.code;
     }
     
     public replaceCode(notice=true) {
-        this.code = Math.floor(Math.random() * 10000).toString().padStart(4, '0');
+        this.code = (Math.floor(Math.random() * 9000) + 1000).toString();
         
         this.setValue(2, 1, this.code);
         
@@ -24,7 +28,7 @@ class AttendanceCodeSheet extends Sheet {
     private sendDiscord(code: string) {
         const today = new Today();
         
-        UrlFetchApp.fetch(PropertiesService.getScriptProperties().getProperty('AttendanceDiscordBotURL'), {
+        UrlFetchApp.fetch(new Property().getProperty('attendanceDiscordBotURL'), {
             method: 'post',
             contentType: 'application/json',
             payload: JSON.stringify({

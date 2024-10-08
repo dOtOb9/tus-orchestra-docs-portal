@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/class/Today",
+  "title": "Today",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/class/Today.md",
+  "sourceDirName": "attendance-management-system/philosophy/class",
+  "slug": "/attendance-management-system/philosophy/class/Today",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/Today.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "SystemBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook"
+  },
+  "next": {
+    "title": "TuttiAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/TuttiAttendanceBook"
+  }
+}

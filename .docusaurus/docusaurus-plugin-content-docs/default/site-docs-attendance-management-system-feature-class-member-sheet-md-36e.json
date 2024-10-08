@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/MemberSheet",
   "title": "MemberSheet",
-  "description": "このクラスは、Sheet クラスを拡張し、メンバー情報を管理するためのメソッドを提供します。メンバーの編集、追加、検索が可能です。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/MemberSheet.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/MemberSheet",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet"
   },
   "next": {
-    "title": "NormalAttendanceBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/NormalAttendanceBook"
+    "title": "PercussionAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/PercussionAttendanceBook"
   }
 }

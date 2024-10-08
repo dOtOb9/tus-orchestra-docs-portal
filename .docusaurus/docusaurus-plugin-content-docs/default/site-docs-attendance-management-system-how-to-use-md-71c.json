@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/HowToUse",
-  "title": "使い方",
-  "description": "ディレクトリ構造",
+  "title": "HowToUse",
+  "description": "フォルダ構造",
   "source": "@site/docs/attendance-management-system/HowToUse.md",
   "sourceDirName": "attendance-management-system",
   "slug": "/attendance-management-system/HowToUse",

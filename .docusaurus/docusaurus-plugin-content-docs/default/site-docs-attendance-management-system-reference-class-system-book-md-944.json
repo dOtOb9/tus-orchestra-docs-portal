@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/reference/class/SystemBook",
   "title": "SystemBook",
-  "description": "",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/reference/class/SystemBook.md",
   "sourceDirName": "attendance-management-system/reference/class",
   "slug": "/attendance-management-system/reference/class/SystemBook",
@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "Sheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Sheet"
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/StringsAttendanceBook"
   },
   "next": {
     "title": "Today",

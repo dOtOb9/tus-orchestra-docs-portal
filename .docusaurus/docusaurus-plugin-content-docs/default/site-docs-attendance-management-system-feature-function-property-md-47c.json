@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/function/Property",
+  "title": "Property",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/feature/function/Property.md",
+  "sourceDirName": "attendance-management-system/feature/function",
+  "slug": "/attendance-management-system/feature/function/Property",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/Property",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/function/Property.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "関数",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/関数-1"
+  },
+  "next": {
+    "title": "doGet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/function/doGet"
+  }
+}

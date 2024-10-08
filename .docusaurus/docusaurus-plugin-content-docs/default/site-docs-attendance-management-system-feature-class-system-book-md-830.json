@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/SystemBook",
   "title": "SystemBook",
-  "description": "このクラスは、Book クラスを拡張し、特定のスプレッドシートシートにアクセスするためのメソッドを提供します。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/SystemBook.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/SystemBook",
@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "Sheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Sheet"
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/StringsAttendanceBook"
   },
   "next": {
     "title": "Today",

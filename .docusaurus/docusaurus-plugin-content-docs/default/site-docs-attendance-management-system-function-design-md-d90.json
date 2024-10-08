@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "使い方",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/HowToUse"
+    "title": "概要",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract"
   },
   "next": {
     "title": "詳細設計",

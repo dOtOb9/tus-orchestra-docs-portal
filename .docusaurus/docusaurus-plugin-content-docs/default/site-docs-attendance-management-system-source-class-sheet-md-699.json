@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/source/class/Sheet",
   "title": "Sheet",
-  "description": "",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/source/class/Sheet.md",
   "sourceDirName": "attendance-management-system/source/class",
   "slug": "/attendance-management-system/source/class/Sheet",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/ScheduleSheet"
   },
   "next": {
-    "title": "SystemBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook"
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/StringsAttendanceBook"
   }
 }

@@ -1,6 +1,15 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
+import ComponentLinks from '/src/components/pageLink/ComponentLinks'
 
+<FeatureLinks component='SystemBook' type='class' project='attendance-management-system' />
 
-このクラスは、`Book` クラスを拡張し、特定のスプレッドシートシートにアクセスするためのメソッドを提供します。
+---
+
+### 親クラス
+#### Book
+<ComponentLinks component='Book' type='class' project='attendance-management-system' />
+
+---
 
 ### コンストラクタ
 

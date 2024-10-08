@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/BrussAttendanceBook",
+  "title": "BrussAttendanceBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/feature/class/BrussAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/BrussAttendanceBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/BrussAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/BrussAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Book"
+  },
+  "next": {
+    "title": "EventAttendanceSheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/EventAttendanceSheet"
+  }
+}

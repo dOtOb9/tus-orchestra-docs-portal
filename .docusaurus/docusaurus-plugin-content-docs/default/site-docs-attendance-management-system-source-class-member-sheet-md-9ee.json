@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/source/class/MemberSheet",
   "title": "MemberSheet",
-  "description": "",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/source/class/MemberSheet.md",
   "sourceDirName": "attendance-management-system/source/class",
   "slug": "/attendance-management-system/source/class/MemberSheet",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet"
   },
   "next": {
-    "title": "NormalAttendanceBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/NormalAttendanceBook"
+    "title": "PercussionAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/PercussionAttendanceBook"
   }
 }

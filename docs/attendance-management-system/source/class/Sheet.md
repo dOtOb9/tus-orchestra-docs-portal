@@ -1,19 +1,26 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='Sheet' type='class' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
 class Sheet {
   private sheet: GoogleAppsScript.Spreadsheet.Sheet;
   protected data: string[][];
+  protected sheetName: string;
 
   constructor(sheet: GoogleAppsScript.Spreadsheet.Sheet) {
     this.sheet = sheet;
 
+    this.sheetName = sheet.getSheetName();
+
     // 入力されている右端のセルを取得
-    const last_row = sheet.getLastRow();
-    const last_col = sheet.getLastColumn();
+    const lastRow = sheet.getLastRow();
+    const lastCol = sheet.getLastColumn();
 
     // 入力されているデータ全体を取得
-    this.data = sheet.getRange(1, 1, last_row, last_col).getDisplayValues();
+    this.data = sheet.getRange(1, 1, lastRow, lastCol).getDisplayValues();
 
     // ==================================================================================
     const addRowNumbers = (matrix: string[][]): string[][] => {
@@ -38,14 +45,24 @@ class Sheet {
 
   protected setValue(row: number, col: number, value: string): void {
     this.sheet.getRange(row, col).setValue(value);
+    this.data[row][col] = value;
   }
 
   protected setValues(startRow: number, startCol: number, NumRows: number, NumCols: number, values: Array<Array<string>>): void {
     this.sheet.getRange(startRow, startCol, NumRows, NumCols).setValues(values);
+    values.forEach((row, rowIndex) => {
+      row.forEach((value, colIndex) => {
+        this.data[startRow + rowIndex][startCol + colIndex] = value;
+      });
+    });
   }
 
   protected appendRow(row: Array<string>): void {
     this.sheet.appendRow(row);
+  }
+
+  protected sortCol(colNumber: number, type: boolean = true) {
+    this.sheet.sort(colNumber, type);
   }
 }
 ```

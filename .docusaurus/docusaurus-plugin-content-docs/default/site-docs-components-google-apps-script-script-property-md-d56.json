@@ -1,0 +1,15 @@
+{
+  "id": "components/GoogleAppsScript/ScriptProperty",
+  "title": "ScriptProperty",
+  "description": "スクリプトプロパティは、一般的な環境変数のApps Script版です。スプレッドシートやフォームの設定、APIキー、トークンなど、スクリプト内で使用する必要があり頻繁な変更がないデータを保存するのに適しています。",
+  "source": "@site/docs/components/GoogleAppsScript/ScriptProperty.md",
+  "sourceDirName": "components/GoogleAppsScript",
+  "slug": "/components/GoogleAppsScript/ScriptProperty",
+  "permalink": "/tus-orchestra-docs-portal/docs/components/GoogleAppsScript/ScriptProperty",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/components/GoogleAppsScript/ScriptProperty.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

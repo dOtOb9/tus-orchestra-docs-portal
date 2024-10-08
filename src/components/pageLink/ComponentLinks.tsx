@@ -2,9 +2,9 @@ import React from 'react';
 import HighlightLink from './HighlightLink';
 
 interface ComponentLinksProps {
-    component?: string,
-    type?: string,
-    project?: string,
+    component: string,
+    type: string,
+    project: string,
 }
 
 
@@ -15,7 +15,7 @@ const ComponentLinks: React.FC<ComponentLinksProps> = ({ component, type, projec
             <span style={{ margin: '5px' }}></span>
             <HighlightLink href={`/tus-orchestra-docs-portal/docs/${project}/feature/${type}/${component}`} children={'機能詳細'} backgroundColor='#999900'/>
             <span style={{ margin: '5px' }}></span>
-            <HighlightLink href={`/tus-orchestra-docs-portal/docs/${project}/reference/${type}/${component}`} children={'リファレンス'} backgroundColor='#0080ff'/>
+            <HighlightLink href={`/tus-orchestra-docs-portal/docs/${project}/philosophy/${type}/${component}`} children={'設計思想'} backgroundColor='#0080ff'/>
         </div>
     );
 }

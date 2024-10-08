@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/function/registerAttendance",
+  "title": "registerAttendance",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/source/function/registerAttendance.md",
+  "sourceDirName": "attendance-management-system/source/function",
+  "slug": "/attendance-management-system/source/function/registerAttendance",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/registerAttendance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/function/registerAttendance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doPost",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doPost"
+  },
+  "next": {
+    "title": "regular",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/regular"
+  }
+}

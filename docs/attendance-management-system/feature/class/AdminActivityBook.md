@@ -1,24 +1,59 @@
 import FeatureLinks from '/src/components/pageLink/FeatureLinks';
+import BookDoc from '/docs/attendance-management-system/feature/class/Book.md';
 
-<FeatureLinks href="/docs/attendance-management-system/reference/class/AdminActivityBook"/>
+<FeatureLinks component='AdminActivityBook' type='class' project='attendance-management-system' />
 
+---
 
-このクラスは、`Book` クラスを拡張し、特定のスプレッドシートシートにアクセスするためのメソッドを提供します。
+## プロパティ
+無し
 
-### コンストラクタ
+## メソッド
 
-- **`constructor()`**
-  - `Book` クラスのコンストラクタを呼び出し、`"adminActivityBookID"` というIDでスプレッドシートを初期化します。
+### constructor
+:::info
+**constructor**は、インスタンス化と同時に実行される特別なメソッドです。
+:::
 
-### メソッド
+#### 機能
+`練習予定の管理`スプレッドシートを取得し、`book` プロパティを初期化します。
 
-- **`getScheduleSheet(): ScheduleSheet`**
-  - **アクセス修飾子**: `public`
-  - `"練習予定"` という名前のシートを取得し、それを `ScheduleSheet` オブジェクトにラップして返します。
-  - **戻り値**: `ScheduleSheet
-  ` - `ScheduleSheet` クラスのインスタンス。
+#### パラメータ
+無し
 
-- **`getMembersInfoSheet(): MembersInfoSheet`**
-  - **アクセス修飾子**: `public`
-  - `"乗り番"` という名前のシートを取得し、それを `MembersInfoSheet` オブジェクトにラップして返します。
-  - **戻り値**: `MembersInfoSheet` - `MembersInfoSheet` クラスのインスタンス。
+#### 戻り値
+無し
+
+---
+
+### getScheduleSheet
+#### アクセス修飾子
+`public`
+
+#### 機能
+`練習予定` という名前のシートを取得して返します。
+
+#### 戻り値
+`ScheduleSheet`
+
+---
+
+### getMembersInfoSheet
+#### アクセス修飾子
+`public`
+
+#### 機能
+`乗り番` という名前のシートを取得して返します。
+
+#### パラメータ
+無し
+
+#### 戻り値
+`MembersInfoSheet`
+
+---
+
+## 親クラス
+### Book
+
+> <BookDoc />

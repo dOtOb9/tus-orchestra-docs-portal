@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/reference/class/Book",
   "title": "Book",
-  "description": "",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/reference/class/Book.md",
   "sourceDirName": "attendance-management-system/reference/class",
   "slug": "/attendance-management-system/reference/class/Book",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "AttendanceStatus",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceStatus"
+    "title": "AttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceBook"
   },
   "next": {
-    "title": "EventAttendanceSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/EventAttendanceSheet"
+    "title": "BrussAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/BrussAttendanceBook"
   }
 }

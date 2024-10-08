@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/Book",
   "title": "Book",
-  "description": "このクラスは、Google Sheets のスプレッドシートを操作するためのものです。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/Book.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/Book",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceStatus"
   },
   "next": {
-    "title": "EventAttendanceSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/EventAttendanceSheet"
+    "title": "BrussAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/BrussAttendanceBook"
   }
 }

@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "UserInfoSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/UserInfoSheet"
+    "title": "WoodwindAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/WoodwindAttendanceBook"
   },
   "next": {
     "title": "インターフェース",

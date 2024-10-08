@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/class/SystemBook",
+  "title": "SystemBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/class/SystemBook.md",
+  "sourceDirName": "attendance-management-system/philosophy/class",
+  "slug": "/attendance-management-system/philosophy/class/SystemBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/SystemBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/StringsAttendanceBook"
+  },
+  "next": {
+    "title": "Today",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today"
+  }
+}

@@ -31,110 +31,116 @@ src/
 ## クラス
 **主要な考え方**
 
-シートごとに役割を設定し、それらをクラスにラップする。例えば、通常練習のスプレッドシートに関するクラス( Normal Attendance Book ) は、通常練習の出欠に関するデータの管理に関する機能をラップし、また前曲、中曲、メイン曲それぞれの出欠表シートの管理に関するクラス( Attendance Sheet ) を所有する。それぞれのクラスは、設定された関数の実行によって動作される。システムの動作に関しては、それぞれの[関数](#関数)の処理を追っていくと理解しやすいはず。
+シートごとに役割を設定し、それらをクラスに格納します。例えば、通常練習のスプレッドシートに関するクラス( Normal Attendance Book ) は、通常練習の出欠に関するデータの管理に関する機能を扱います。また、前曲、中曲、メイン曲それぞれの出欠表シートの管理に関するクラス( Attendance Sheet ) を所有する。それぞれのクラスは、設定された関数の実行によって動作される。システムの動作に関しては、それぞれの[関数](#関数)の処理を追っていくと理解しやすいはず。
 
 ### スプレッドシートに関するクラス
 
 #### Book
-管理するスプレッドシートの全てに必要な機能をラップします。即ち、後の`~Book`という命名のクラスはすべてこのクラスを継承しています。
+管理するスプレッドシートの全てに必要な機能を扱います。
 <ComponentLinks component='Book' type='class' project='attendance-management-system'/>
 
 ---
 
 #### SystemBook
-`Book`クラスを継承し、`管理者用`スプレッドシートの操作に関する機能をラップしています。
-/ComponentLinks/>
+`Book`クラスを継承し、`管理者用`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='SystemBook' type='class' project='attendance-management-system'/>
 
 ---
 
 #### AdminActivityBook
-`Book`クラスを継承し、`練習予定の管理`スプレッドシートの操作に関する機能をラップしています。
-ComponentLinks/>
-
----
-
-#### AdminEventBook
-`Book`クラスを継承し、`団会用出欠管理`スプレッドシートの操作に関する機能をラップしています。
-ComponentLinks/>
+`Book`クラスを継承し、`練習予定の管理`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='AdminActivityBook' type='class' project='attendance-management-system'/>
 
 ---
 
 #### AttendanceBook
-`Book`クラスを継承し、出欠表シートに関するスプレッドシートの操作に必要な機能をラップしています。即ち、後の`~AttendanceBook`という命名のクラスはすべてこのクラスを継承しています。
-ComponentLinks/>
+`Book`クラスを継承し、出欠表シートに関するスプレッドシートの操作に必要な機能を扱います。
+<ComponentLinks component='AttendanceBook' type='class' project='attendance-management-system' />
 
 ---
 
-#### NormalAttendanceBook
-`AttendanceBook`クラスを継承し、`通常練習出欠表`スプレッドシートの操作に関する機能をラップしています。
-ComponentLinks/>
+#### StringsAttendanceBook
+`AttendanceBook`クラスを継承し、`弦楽器出欠表`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='StringsAttendanceBook' type='class' project='attendance-management-system' />
+
+---
+
+#### woodwindAttendanceBook
+`AttendanceBook`クラスを継承し、`木管楽器出欠表`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='WoodwindAttendanceBook' type='class' project='attendance-management-system' />
+
+---
+
+#### BrussAttendanceBook
+`AttendanceBook`クラスを継承し、`金管楽器楽器出欠表`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='brussAttendanceBook' type='class' project='attendance-management-system' />
+
+---
+
+#### PercussionAttendanceBook
+`AttendanceBook`クラスを継承し、`打楽器楽器出欠表`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='percussionAttendanceBook' type='class' project='attendance-management-system' />
 
 ---
 
 #### TuttiAttendanceBook
-`AttendanceBook`クラスを継承し、`Tutti練習出欠表`スプレッドシートの操作に関する機能をラップしています。
-ComponentLinks/>
+`AttendanceBook`クラスを継承し、`Tutti出欠表`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='TuttiAttendanceBook' type='class' project='attendance-management-system' />
 
 ---
 
 ### シートに関するクラス
 
 #### Sheet
-管理するシートの全てに必要な機能をラップします。即ち、後の`~Sheet`という命名のクラスはすべてこのクラスを継承しています。
-ComponentLinks/>
+シートの操作に必要な機能を扱います。
+<ComponentLinks component='Sheet' type='class' project='attendance-management-system' />
 
 ---
 
-#### MemberSheet
-`Sheet`クラスを継承し、団員毎の情報を管理するシートに必要な機能をラップします。
-ComponentLinks/>
+#### MembersSheet
+`Sheet`クラスを継承し、団員毎の情報を管理するシートに必要な機能を扱います。
+<ComponentLinks component='MembersSheet' type='class' project='attendance-management-system' />
 
 ---
 
 #### AttendanceCodeSheet
-`Sheet`クラスを継承し、`管理者用`スプレッドシート内の`認証コード`シートの操作に関する機能をラップします。
-ComponentLinks/>
+`Sheet`クラスを継承し、`管理者用`スプレッドシート内の`認証コード`シートの操作に関する機能を扱います。
+<ComponentLinks component='AttendanceCodeSheet' type='class' project='attendance-management-system' />
 
 ---
 
 #### UserInfoSheet
-`Sheet`クラスを継承し、`管理者用`スプレッドシート内の`ユーザー設定`シートの操作に関する機能をラップします。
+`Sheet`クラスを継承し、`管理者用`スプレッドシート内の`ユーザー設定`シートの操作に関する機能を扱います。
 ComponentLinks/>
 
 ---
 
 #### ScheduleSheet
-`Sheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`練習予定`シートの操作に関する機能をラップします。
-ComponentLinks/>
+`Sheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`練習予定`シートの操作に関する機能を扱います。
+<ComponentLinks component='ScheduleSheet' type='class' project='attendance-management-system'/>
 
 ---
 
 #### AttendanceSheet
-`MemberSheet`クラスを継承し、出欠表シートの操作に関する機能をラップします。
-ComponentLinks/>
-
----
-
-#### AdminEventSheet
-`Sheet`クラスを継承し、`団会用出欠管理`スプレッドシート内の`管理用`シートの操作に関する機能をラップします。
+`MemberSheet`クラスを継承し、出欠表シートの操作に関する機能を扱います。
 ComponentLinks/>
 
 ---
 
 #### EventAttendanceSheet
-`AttendanceSheet`クラスを継承し、`団会用出欠管理`スプレッドシート内の`出欠表`シートの操作に関する機能をラップします。
+`AttendanceSheet`クラスを継承し、`団会用出欠管理`スプレッドシート内の`出欠表`シートの操作に関する機能を扱います。
 ComponentLinks/>
 
 ---
 
 #### MemberInfoSheet
-`MemberSheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`乗り番`シートの操作に関する機能をラップします。
+`MemberSheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`乗り番`シートの操作に関する機能を扱います。
 ComponentLinks/>
 
 ---
 
 #### AttendanceStatus
-メンバー個人の出欠情報をラップします。
+メンバー個人の出欠情報を扱います。
 ComponentLinks/>
 
 ---
@@ -142,15 +148,28 @@ ComponentLinks/>
 ### その他のクラス
 
 #### Member
-団員情報に関する機能をラップします。
+団員情報に関する機能を扱います。
 ComponentLinks/>
 
 ---
 
 #### verifyAttendance
-出席認証コードに関する機能をラップします。
+出席認証コードに関する機能を扱います。
 ComponentLinks/>
 
+---
+
+#### Property
+Apps Script内の環境変数に関する機能を扱います。
+<ComponentLinks component='Property' type='class' project='attendance-management-system' />
+
+---
+
+#### Today
+実行時の日時に関する機能を扱います。
+<ComponentLinks component='Today' type='class' project='attendance-management-system' />
+
+---
 
 ## 関数
 
@@ -170,28 +189,20 @@ ComponentLinks/>
 
 #### regular
 定期実行される関数。
-ComponentLinks/>
+<ComponentLinks component='regular' type='function' project='attendance-management-system'/>
 
----
-
-#### setEventInfo
-団会情報を設定します。
-ComponentLinks/>
-
----
-
-#### startEventFlow
-団会開催フローを開始します。
-ComponentLinks/>
+#### registerAttendance
+出席登録を実行する関数。
+<ComponentLinks component='registerAttendance' type='function' project='attendance-management-system' />
 
 ## インターフェース
 
 #### AttendRateInfo
-各曲の出欠状況に関する情報をラップします。
+各曲の出欠状況に関する情報を扱います。
 ComponentLinks/>
 
 ---
 
 #### AttendRateData
-各曲の出席率の情報をラップします。
+各曲の出席率の情報を扱います。
 ComponentLinks/>

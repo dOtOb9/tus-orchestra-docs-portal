@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "doPost",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doPost"
+    "title": "registerAttendance",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/registerAttendance"
   },
   "next": {
-    "title": "setEventInfo",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/setEventInfo"
+    "title": "クラス",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/クラス-2"
   }
 }

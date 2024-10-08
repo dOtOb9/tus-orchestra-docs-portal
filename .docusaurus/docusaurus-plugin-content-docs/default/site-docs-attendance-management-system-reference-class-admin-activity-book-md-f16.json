@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/reference/class/AdminActivityBook",
   "title": "AdminActivityBook",
-  "description": "",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/reference/class/AdminActivityBook.md",
   "sourceDirName": "attendance-management-system/reference/class",
   "slug": "/attendance-management-system/reference/class/AdminActivityBook",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/category/クラス"
   },
   "next": {
-    "title": "AdminEventBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AdminEventBook"
+    "title": "AttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/AttendanceBook"
   }
 }

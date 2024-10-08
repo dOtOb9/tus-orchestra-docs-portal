@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doGet"
   },
   "next": {
-    "title": "regular",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/regular"
+    "title": "registerAttendance",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/registerAttendance"
   }
 }

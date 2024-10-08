@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/Property",
+  "title": "Property",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/reference/class/Property.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/Property",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Property",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/class/Property.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "PercussionAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/PercussionAttendanceBook"
+  },
+  "next": {
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/StringsAttendanceBook"
+  }
+}

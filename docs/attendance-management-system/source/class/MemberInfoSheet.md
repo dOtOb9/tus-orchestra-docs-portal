@@ -1,7 +1,7 @@
 
 
 ```ts title="/src/main.ts"
-class MembersInfoSheet extends MemberSheet {
+class MembersInfoSheet extends MembersSheet {
     
     public addContactList(id: string) {
         const userRow = this.searchMember(id);

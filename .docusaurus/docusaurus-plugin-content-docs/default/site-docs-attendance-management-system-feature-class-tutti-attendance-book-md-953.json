@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/TuttiAttendanceBook",
   "title": "TuttiAttendanceBook",
-  "description": "このクラスは、AttendanceBook クラスを拡張し、特定のスプレッドシートIDで初期化するためのクラスです。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/TuttiAttendanceBook.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/TuttiAttendanceBook",

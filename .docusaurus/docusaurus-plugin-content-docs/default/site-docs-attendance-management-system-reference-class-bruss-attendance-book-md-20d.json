@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/reference/class/BrussAttendanceBook",
+  "title": "BrussAttendanceBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/reference/class/BrussAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/reference/class",
+  "slug": "/attendance-management-system/reference/class/BrussAttendanceBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/BrussAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/reference/class/BrussAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Book",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/Book"
+  },
+  "next": {
+    "title": "PercussionAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/reference/class/PercussionAttendanceBook"
+  }
+}

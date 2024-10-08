@@ -1,0 +1,15 @@
+{
+  "id": "components/GoogleAppsScript/Sheet",
+  "title": "Sheet",
+  "description": "GoogleAppsScript.Spreadsheet.SheetオブジェクトはApps Scriptが提供する、スプレッドシートのシートが扱うオブジェクトです。",
+  "source": "@site/docs/components/GoogleAppsScript/Sheet.md",
+  "sourceDirName": "components/GoogleAppsScript",
+  "slug": "/components/GoogleAppsScript/Sheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/components/GoogleAppsScript/Sheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/components/GoogleAppsScript/Sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

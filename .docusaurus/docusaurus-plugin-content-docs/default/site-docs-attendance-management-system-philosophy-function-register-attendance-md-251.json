@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/function/registerAttendance",
+  "title": "registerAttendance",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/function/registerAttendance.md",
+  "sourceDirName": "attendance-management-system/philosophy/function",
+  "slug": "/attendance-management-system/philosophy/function/registerAttendance",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/registerAttendance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/function/registerAttendance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "関数",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/関数"
+  },
+  "next": {
+    "title": "クラス",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/クラス"
+  }
+}

@@ -1,38 +1,86 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
+import ConstructorDoc from '/docs/components/TypeScript/ConstructorDescription.md'
+import SheetDoc from '/docs/attendance-management-system/feature/class/Sheet.md'
 
+<FeatureLinks component='AttendanceCodeSHeet' type='class' project='attendance-management-system' />
 
+---
 
-このクラスは、`Sheet` クラスを拡張し、出席認証コードを管理するためのメソッドを提供します。認証コードの検証、更新、通知機能を持ちます。
+## プロパティ
 
-### プロパティ
+### `code` :`string`
+#### アクセス修飾子
+`private`
 
-- **`code`**: `string`
-  - **アクセス修飾子**: `private`
-  - 現在の出席認証コードを保持します。
+#### 機能
+現在の出席認証コードを格納します。
 
-### コンストラクタ
+---
 
-- **`constructor(sheet: GoogleAppsScript.Spreadsheet.Sheet)`**
-  - **パラメータ**:
-    - **`sheet`**: `GoogleAppsScript.Spreadsheet.Sheet` - 操作対象のシート。
-  - シートから出席認証コードを取得し、`code` プロパティに設定します。
+## メソッド
 
-### メソッド
+### constructor ( sheet )
 
-- **`isRightCode(code: string): boolean`**
-  - **アクセス修飾子**: `public`
-  - 提供された認証コードが現在のコードと一致するかどうかをチェックします。
-  - **パラメータ**:
-    - **`code`**: `string` - チェックする認証コード。
-  - **戻り値**: `boolean` - コードが一致する場合は `true`、一致しない場合は `false`。
+<ConstructorDoc />
 
-- **`replaceCode(notice=true)`**
-  - **アクセス修飾子**: `public`
-  - 新しい認証コードを生成し、シートに設定します。オプションで、Discord に通知を送信します。
-  - **パラメータ**:
-    - **`notice`**: `boolean` (デフォルト値: `true`) - `true` の場合、新しいコードを Discord に通知します。
-  
-- **`sendDiscord(code: string)`**
-  - **アクセス修飾子**: `private`
-  - 新しい認証コードを Discord に送信します。通知の内容には、現在の日付と時間が含まれます。
-  - **パラメータ**:
-    - **`code`**: `string` - 送信する認証コード。
+#### 機能
+シートから出席認証コードを取得し、`code` プロパティに設定します。
+
+#### パラメータ
+- `sheet` :`GoogleAppsScript.Spreadsheet.Sheet`
+
+  操作対象のシート。
+
+#### 返り値
+無し
+
+---
+
+### getCode
+#### アクセス修飾子
+`public`
+
+#### 機能
+認証コードを取得します。
+
+#### パラメータ
+無し
+
+#### 戻り値
+- `string`
+
+  認証コードを表す文字列。
+
+---
+
+### replaceCode ( notice )
+#### アクセス修飾子
+`public`
+
+#### 機能
+新しい認証コードを生成し、シートに設定します。オプションで、Discord に通知を送信します。
+
+#### パラメータ
+- `notice` :`boolean`
+
+  `true` の場合、新しいコードを Discord に通知します。デフォルトでは`true`。
+
+#### 戻り値
+無し
+
+---
+
+### sendDiscord ( code )
+#### アクセス修飾子
+`private`
+
+#### 機能
+新しい認証コードを Discord に送信します。通知の内容には、現在の日付と時間が含まれます。
+
+#### パラメータ
+- `code` :`string`
+
+  送信する認証コード。
+
+## 親クラス
+> <SheetDoc />

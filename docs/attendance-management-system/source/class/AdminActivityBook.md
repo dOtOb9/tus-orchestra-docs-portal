@@ -1,4 +1,8 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='AdminActivityBook' type='class' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
 class AdminActivityBook extends Book {

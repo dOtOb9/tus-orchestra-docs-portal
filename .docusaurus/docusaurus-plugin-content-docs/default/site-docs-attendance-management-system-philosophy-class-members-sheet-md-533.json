@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/class/MembersSheet",
+  "title": "MembersSheet",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/class/MembersSheet.md",
+  "sourceDirName": "attendance-management-system/philosophy/class",
+  "slug": "/attendance-management-system/philosophy/class/MembersSheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/MembersSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/MembersSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "BrussAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/BrussAttendanceBook"
+  },
+  "next": {
+    "title": "PercussionAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/PercussionAttendanceBook"
+  }
+}

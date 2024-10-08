@@ -1,0 +1,15 @@
+{
+  "id": "components/constructorDescription",
+  "title": "constructorDescription",
+  "description": "constructorは、インスタンス化と同時に実行される特別なメソッドです。",
+  "source": "@site/docs/components/constructorDescription.md",
+  "sourceDirName": "components",
+  "slug": "/components/constructorDescription",
+  "permalink": "/tus-orchestra-docs-portal/docs/components/constructorDescription",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/components/constructorDescription.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/Sheet",
   "title": "Sheet",
-  "description": "このクラスは、Google Sheets のシートを操作するための基本的なメソッドを提供します。シートのデータを取得し、セルの値の設定や列・行の操作を行います。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/Sheet.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/Sheet",
@@ -18,7 +18,7 @@
     "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/ScheduleSheet"
   },
   "next": {
-    "title": "SystemBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook"
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/StringsAttendanceBook"
   }
 }

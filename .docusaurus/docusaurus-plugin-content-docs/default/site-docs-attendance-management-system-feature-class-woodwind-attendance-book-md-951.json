@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/WoodwindAttendanceBook",
+  "title": "WoodwindAttendanceBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/feature/class/WoodwindAttendanceBook.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/WoodwindAttendanceBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/WoodwindAttendanceBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/WoodwindAttendanceBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "UserInfoSheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/UserInfoSheet"
+  },
+  "next": {
+    "title": "classInfo",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo"
+  }
+}

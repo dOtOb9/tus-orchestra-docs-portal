@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/Today copy",
+  "title": "Today copy",
+  "description": "",
+  "source": "@site/docs/attendance-management-system/feature/class/Today copy.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/Today copy",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/Today copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "SystemBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook"
+  },
+  "next": {
+    "title": "Today",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today"
+  }
+}

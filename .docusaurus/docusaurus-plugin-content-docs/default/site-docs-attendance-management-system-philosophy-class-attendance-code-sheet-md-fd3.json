@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/class/AttendanceCodeSheet",
+  "title": "AttendanceCodeSheet",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/class/AttendanceCodeSheet.md",
+  "sourceDirName": "attendance-management-system/philosophy/class",
+  "slug": "/attendance-management-system/philosophy/class/AttendanceCodeSheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceCodeSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/AttendanceCodeSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceBook"
+  },
+  "next": {
+    "title": "Book",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book"
+  }
+}
