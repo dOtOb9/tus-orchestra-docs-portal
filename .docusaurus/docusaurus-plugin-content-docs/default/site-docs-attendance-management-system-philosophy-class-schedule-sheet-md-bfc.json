@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/class/ScheduleSheet",
+  "title": "ScheduleSheet",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/class/ScheduleSheet.md",
+  "sourceDirName": "attendance-management-system/philosophy/class",
+  "slug": "/attendance-management-system/philosophy/class/ScheduleSheet",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/ScheduleSheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "Property",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property"
+  },
+  "next": {
+    "title": "Sheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Sheet"
+  }
+}

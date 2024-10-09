@@ -111,7 +111,7 @@ src/
 
 #### UserInfoSheet
 `Sheet`クラスを継承し、`管理者用`スプレッドシート内の`ユーザー設定`シートの操作に関する機能を扱います。
-ComponentLinks/>
+<ComponentLinks component='UserInfoSheet' type='class' project='attendance-management-system' />
 
 ---
 
@@ -122,26 +122,14 @@ ComponentLinks/>
 ---
 
 #### AttendanceSheet
-`MemberSheet`クラスを継承し、出欠表シートの操作に関する機能を扱います。
-ComponentLinks/>
+`MembersSheet`クラスを継承し、出欠表シートの操作に関する機能を扱います。
+<ComponentLinks component='AttendanceSheet' type='class' project='attendance-management-system' />
 
 ---
 
-#### EventAttendanceSheet
-`AttendanceSheet`クラスを継承し、`団会用出欠管理`スプレッドシート内の`出欠表`シートの操作に関する機能を扱います。
-ComponentLinks/>
-
----
-
-#### MemberInfoSheet
-`MemberSheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`乗り番`シートの操作に関する機能を扱います。
-ComponentLinks/>
-
----
-
-#### AttendanceStatus
-メンバー個人の出欠情報を扱います。
-ComponentLinks/>
+#### MembersInfoSheet
+`MembersSheet`クラスを継承し、`練習予定の管理`スプレッドシート内の`乗り番`シートの操作に関する機能を扱います。
+<ComponentLinks component='MembersInfoSheet' type='class' project='attendance-management-system' />
 
 ---
 
@@ -149,6 +137,12 @@ ComponentLinks/>
 
 #### Member
 団員情報に関する機能を扱います。
+ComponentLinks/>
+
+---
+
+#### AttendanceStatus
+メンバー個人の出欠情報を扱います。
 ComponentLinks/>
 
 ---
@@ -191,9 +185,13 @@ ComponentLinks/>
 定期実行される関数。
 <ComponentLinks component='regular' type='function' project='attendance-management-system'/>
 
+---
+
 #### registerAttendance
 出席登録を実行する関数。
 <ComponentLinks component='registerAttendance' type='function' project='attendance-management-system' />
+
+---
 
 ## インターフェース
 

@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "Property",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property"
+    "title": "ScheduleSheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet"
   },
   "next": {
     "title": "StringsAttendanceBook",

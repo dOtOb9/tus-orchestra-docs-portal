@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/UserInfoSheet",
   "title": "UserInfoSheet",
-  "description": "このクラスは、Sheet クラスを拡張し、ユーザー情報を管理するための基本クラスです。現在のコードには特定のメソッドやプロパティは実装されていませんが、Sheet クラスから継承した機能を利用してユーザー情報の操作が行えます。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/UserInfoSheet.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/UserInfoSheet",

@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'd75'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'fba'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'd2f'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '751'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'fd4'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '4ef'),
             routes: [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
@@ -192,8 +192,8 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet', '1f5'),
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MembersInfoSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MembersInfoSheet', '4a3'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -330,6 +330,12 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceSheet', '4c3'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book', '32c'),
                 exact: true,
@@ -338,6 +344,12 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/BrussAttendanceBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/BrussAttendanceBook', '5f4'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/MembersInfoSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/MembersInfoSheet', '378'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -356,6 +368,12 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property', 'da0'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet', '09a'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -386,6 +404,12 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/TuttiAttendanceBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/TuttiAttendanceBook', '8d0'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/UserInfoSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/UserInfoSheet', '4d6'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -456,8 +480,8 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet', 'bfa'),
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MembersInfoSheet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MembersInfoSheet', '6e8'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

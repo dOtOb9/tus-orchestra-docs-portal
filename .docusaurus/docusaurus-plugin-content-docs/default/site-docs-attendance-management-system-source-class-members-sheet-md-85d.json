@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "MemberInfoSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet"
+    "title": "MembersInfoSheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MembersInfoSheet"
   },
   "next": {
     "title": "PercussionAttendanceBook",

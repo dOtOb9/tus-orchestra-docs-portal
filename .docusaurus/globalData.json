@@ -71,8 +71,8 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/feature/class/MemberInfoSheet",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MemberInfoSheet",
+              "id": "attendance-management-system/feature/class/MembersInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/MembersInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -186,6 +186,11 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/philosophy/class/AttendanceSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceSheet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/philosophy/class/Book",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -193,6 +198,11 @@
             {
               "id": "attendance-management-system/philosophy/class/BrussAttendanceBook",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/BrussAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/philosophy/class/MembersInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/MembersInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -208,6 +218,11 @@
             {
               "id": "attendance-management-system/philosophy/class/Property",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/philosophy/class/ScheduleSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -233,6 +248,11 @@
             {
               "id": "attendance-management-system/philosophy/class/TuttiAttendanceBook",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/TuttiAttendanceBook",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/philosophy/class/UserInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/UserInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -291,8 +311,8 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/source/class/MemberInfoSheet",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MemberInfoSheet",
+              "id": "attendance-management-system/source/class/MembersInfoSheet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MembersInfoSheet",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
