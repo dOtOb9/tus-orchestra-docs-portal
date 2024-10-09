@@ -242,17 +242,17 @@
     "sidebar": "sidebar---tus-orchestra-docs-portal-blog-814-8f9",
     "content": "content---tus-orchestra-docs-portal-blog-welcomed-9-f-30c"
   },
-  "/tus-orchestra-docs-portal/docs-fba": {
+  "/tus-orchestra-docs-portal/docs-dc3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---tus-orchestra-docs-portal-docsaba-47c"
     }
   },
-  "/tus-orchestra-docs-portal/docs-751": {
+  "/tus-orchestra-docs-portal/docs-ecd": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---tus-orchestra-docs-portal-docs-911-54f"
   },
-  "/tus-orchestra-docs-portal/docs-4ef": {
+  "/tus-orchestra-docs-portal/docs-3a7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract-fac": {
@@ -459,6 +459,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-function-register-attendance-251-6cb"
   },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateData-ed4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-interface-attend-rate-datac-72-d99"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateInfo-eb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-interface-attend-rate-infod-21-7cf"
+  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook-623": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-admin-activity-bookc-58-6af"
@@ -570,6 +578,10 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/interface/AttendRateInfo-4b3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-interface-attend-rate-info-594-1f6"
+  },
+  "/tus-orchestra-docs-portal/docs/category/インターフェース-b7e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---tus-orchestra-docs-portal-docs-category-インターフェース-106-c58"
   },
   "/tus-orchestra-docs-portal/docs/category/インターフェース-1-40f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

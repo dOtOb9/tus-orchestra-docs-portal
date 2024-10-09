@@ -1,5 +1,8 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
 
+<FeatureLinks component='AttendRateData' type='interface' project='attendance-management-system' />
 
+---
 
 このインターフェースは、出席率データを管理するためのデータ構造を定義します。出席率と基準値を含むオブジェクトを表します。
 

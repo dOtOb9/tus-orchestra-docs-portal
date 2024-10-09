@@ -137,7 +137,7 @@ src/
 
 #### Member
 団員情報に関する機能を扱います。
-ComponentLinks/>
+<ComponentLinks/>
 
 ---
 
@@ -197,10 +197,10 @@ ComponentLinks/>
 
 #### AttendRateInfo
 各曲の出欠状況に関する情報を扱います。
-ComponentLinks/>
+<ComponentLinks component='AttendRateInfo' type='interface' project='attendance-management-system' />
 
 ---
 
 #### AttendRateData
 各曲の出席率の情報を扱います。
-ComponentLinks/>
+<ComponentLinks component='AttendRateData' type='interface' project='attendance-management-system' />

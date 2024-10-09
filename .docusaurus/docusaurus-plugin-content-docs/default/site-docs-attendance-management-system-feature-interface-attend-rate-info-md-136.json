@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/interface/AttendRateInfo",
   "title": "AttendRateInfo",
-  "description": "このインターフェースは、出席率情報を管理するためのデータ構造を定義します。各練習セッションの出席率データを含むオブジェクトを表します。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/interface/AttendRateInfo.md",
   "sourceDirName": "attendance-management-system/feature/interface",
   "slug": "/attendance-management-system/feature/interface/AttendRateInfo",

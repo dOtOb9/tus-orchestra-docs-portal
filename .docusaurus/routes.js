@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'fba'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'dc3'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '751'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'ecd'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '4ef'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '3a7'),
             routes: [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
@@ -426,6 +426,18 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateData',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateData', 'ed4'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateInfo',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateInfo', 'eb0'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook', '623'),
                 exact: true,
@@ -590,6 +602,12 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/interface/AttendRateInfo',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/interface/AttendRateInfo', '4b3'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/category/インターフェース',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/category/インターフェース', 'b7e'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

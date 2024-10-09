@@ -266,6 +266,16 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/philosophy/interface/AttendRateData",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateData",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/philosophy/interface/AttendRateInfo",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateInfo",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/source/class/AdminActivityBook",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -504,6 +514,11 @@
             {
               "id": "/category/クラス",
               "path": "/tus-orchestra-docs-portal/docs/category/クラス",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "/category/インターフェース",
+              "path": "/tus-orchestra-docs-portal/docs/category/インターフェース",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {

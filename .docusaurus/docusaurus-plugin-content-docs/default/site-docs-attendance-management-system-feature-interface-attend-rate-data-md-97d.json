@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/interface/AttendRateData",
   "title": "AttendRateData",
-  "description": "このインターフェースは、出席率データを管理するためのデータ構造を定義します。出席率と基準値を含むオブジェクトを表します。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/interface/AttendRateData.md",
   "sourceDirName": "attendance-management-system/feature/interface",
   "slug": "/attendance-management-system/feature/interface/AttendRateData",
