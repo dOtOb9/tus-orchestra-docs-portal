@@ -41,6 +41,7 @@ Discordボットの機能により、練習連絡を送信すると自動的に�
 1. Discord Botによる練習連絡送信時に`練習予定の管理`ファイルに練習の情報が登録される。
 2. 毎日0:00~1:00に、登録された情報に従って出欠列が生成される。練習日であれば、欠席が入力される。
 3. 0:00〜1:00と12:00〜13:00に認証コードの置換と、Discordチャネルへの送信がされる。
+
 <iframe class="google-slide" src="https://docs.google.com/presentation/d/1TKqU5a3g_LNte9_EeBZlhY3dOOk5dA70BJedK3FYSRA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### 出欠登録

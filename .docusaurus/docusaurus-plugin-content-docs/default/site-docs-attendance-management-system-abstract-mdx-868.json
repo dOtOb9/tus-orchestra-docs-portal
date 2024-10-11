@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/abstract",
+  "title": "概要",
+  "description": "フォルダ構造",
+  "source": "@site/docs/attendance-management-system/abstract.mdx",
+  "sourceDirName": "attendance-management-system",
+  "slug": "/attendance-management-system/abstract",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/abstract.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "目次",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/目次-1"
+  },
+  "next": {
+    "title": "基本設計",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign"
+  }
+}

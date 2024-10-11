@@ -373,6 +373,12 @@ export default {
   "themes": [
     "@docusaurus/theme-mermaid"
   ],
+  "stylesheets": [
+    {
+      "href": "/css/tailwind.css",
+      "type": "text/css"
+    }
+  ],
   "baseUrlIssueBanner": true,
   "future": {
     "experimental_storage": {
@@ -390,7 +396,6 @@ export default {
   "plugins": [],
   "scripts": [],
   "headTags": [],
-  "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false

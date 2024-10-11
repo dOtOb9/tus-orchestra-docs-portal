@@ -143,6 +143,11 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-};
-
+  stylesheets: [
+    {
+      href: '/css/tailwind.css',
+      type: 'text/css',
+    },
+  ],
+}
 export default config;

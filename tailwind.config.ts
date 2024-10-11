@@ -1,14 +1,13 @@
-import { Config } from 'tailwindcss';
-
-const config: Config = {
+module.exports = {
   content: [
-    './src/**/*.{js,jsx,ts,tsx}',
-    './docs/**/*.{md,mdx}',
+    './src/**/*.{js,jsx,ts,tsx,mdx}',
+    './docs/**/*.{mdx, md}',
   ],
   theme: {
     extend: {},
   },
   plugins: [],
+  corePlugins: {
+    preflight: false,
+  }
 };
-
-export default config;
