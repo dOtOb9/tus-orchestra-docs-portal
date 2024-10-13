@@ -31,7 +31,7 @@
 
 @media (max-width: 1024px) {
   .google-slide {
-    max-width: 100vw;
+    max-width: 90vw;
     height: 60vw;
   }
 }

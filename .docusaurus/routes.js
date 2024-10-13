@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'dc3'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'e5e'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'ecd'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '5e7'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '3a7'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '99d'),
             routes: [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
@@ -170,12 +170,6 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/BrussAttendanceBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/BrussAttendanceBook', '2d3'),
-                exact: true,
-                sidebar: "attendanceManagementSystemSidebar"
-              },
-              {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo', '754'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

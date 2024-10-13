@@ -56,11 +56,6 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/feature/class/classInfo",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/classInfo",
-              "sidebar": "attendanceManagementSystemSidebar"
-            },
-            {
               "id": "attendance-management-system/feature/class/EventAttendanceSheet",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/EventAttendanceSheet",
               "sidebar": "attendanceManagementSystemSidebar"

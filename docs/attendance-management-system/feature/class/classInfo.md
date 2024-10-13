@@ -1,3 +1,0 @@
-
-## `verifyAttendance` クラス
-
