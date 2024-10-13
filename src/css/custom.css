@@ -33,5 +33,7 @@
   .google-slide {
     max-width: 90vw;
     height: 60vw;
+    margin: 0 auto;
+    display: block;
   }
 }
