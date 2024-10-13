@@ -171,13 +171,15 @@ Apps Script内の環境変数に関する機能を扱います。
 
 #### doPost
 本システムに対するHTTP POSTリクエストに対応する関数。
-ComponentLinks/>
+<ComponentLinks component='doPost' type='function' project='attendance-management-system' />
 
 ---
 
 #### doGet
 本システムに対するHTTP POSTリクエストに対応する関数。
-ComponentLinks/>
+<ComponentLinks component='doGet' type='function' project='attendance-management-system' />
+
+---
 
 ### その他の関数
 

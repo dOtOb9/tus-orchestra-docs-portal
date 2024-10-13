@@ -271,6 +271,16 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/philosophy/function/doGet",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/philosophy/function/doPost",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/philosophy/function/registerAttendance",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/registerAttendance",
               "sidebar": "attendanceManagementSystemSidebar"

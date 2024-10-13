@@ -1,4 +1,8 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
 
+<FeatureLinks component='doGet' type='function' project='attendance-management-system' />
+
+---
 
 
 この関数は、HTTP GET リクエストを処理し、リクエストパラメータに応じたレスポンスを返します。Google Apps Script の Web アプリケーションで使用されるエントリポイントです。

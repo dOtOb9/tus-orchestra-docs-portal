@@ -1,4 +1,8 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='doPost' type='function' project='attendance-management-system' />
+
+---
 
 
 ```ts title="/src/main.ts"

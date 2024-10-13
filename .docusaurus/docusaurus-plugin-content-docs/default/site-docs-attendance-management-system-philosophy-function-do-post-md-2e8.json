@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/function/doPost",
+  "title": "doPost",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/function/doPost.md",
+  "sourceDirName": "attendance-management-system/philosophy/function",
+  "slug": "/attendance-management-system/philosophy/function/doPost",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/function/doPost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "doGet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet"
+  },
+  "next": {
+    "title": "registerAttendance",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/registerAttendance"
+  }
+}

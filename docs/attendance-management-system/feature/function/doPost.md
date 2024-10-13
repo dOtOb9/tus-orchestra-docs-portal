@@ -1,5 +1,8 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
 
+<FeatureLinks component='doPost' type='function' project='attendance-management-system' />
 
+---
 
 この関数は、HTTP POST リクエストを処理し、リクエストボディに基づいて適切なアクションを実行します。Google Apps Script の Web アプリケーションで POST リクエストを処理するエントリポイントです。
 

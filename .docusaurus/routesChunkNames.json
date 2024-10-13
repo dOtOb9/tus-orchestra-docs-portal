@@ -242,17 +242,17 @@
     "sidebar": "sidebar---tus-orchestra-docs-portal-blog-814-8f9",
     "content": "content---tus-orchestra-docs-portal-blog-welcomed-9-f-30c"
   },
-  "/tus-orchestra-docs-portal/docs-44a": {
+  "/tus-orchestra-docs-portal/docs-62f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---tus-orchestra-docs-portal-docsaba-47c"
     }
   },
-  "/tus-orchestra-docs-portal/docs-847": {
+  "/tus-orchestra-docs-portal/docs-79b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---tus-orchestra-docs-portal-docs-911-54f"
   },
-  "/tus-orchestra-docs-portal/docs-031": {
+  "/tus-orchestra-docs-portal/docs-d9f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract-fac": {
@@ -462,6 +462,14 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/WoodwindAttendanceBook-2dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-woodwind-attendance-book-484-8ca"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet-982": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-function-do-get-431-7e0"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost-54e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-function-do-post-2-e-8-872"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/registerAttendance-2f4": {
     "__comp": "__comp---theme-doc-item-178-a40",

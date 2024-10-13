@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/function/doGet",
   "title": "doGet",
-  "description": "この関数は、HTTP GET リクエストを処理し、リクエストパラメータに応じたレスポンスを返します。Google Apps Script の Web アプリケーションで使用されるエントリポイントです。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/function/doGet.md",
   "sourceDirName": "attendance-management-system/feature/function",
   "slug": "/attendance-management-system/feature/function/doGet",

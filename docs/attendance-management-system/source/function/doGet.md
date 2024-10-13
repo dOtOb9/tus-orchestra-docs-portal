@@ -1,4 +1,8 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='doGet' type='function' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
 function doGet(e) {
@@ -8,34 +12,56 @@ function doGet(e) {
 
     switch (mode) {
         case 'dashboard':
-            const normalAttendanceBook = new NormalAttendanceBook();
+            const stringsAttendanceBook = new StringsAttendanceBook();
             const tuttiAttendanceBook = new TuttiAttendanceBook();
 
 
             const member = new Member(e.parameter.id);
 
-            const normalAttendRateStatus = member.attendanceStatus.getAttendRateStatus(normalAttendanceBook);
+            const stringsAttendRateStatus = member.attendanceStatus.getAttendRateStatus(stringsAttendanceBook);
             const tuttiAttendRateStatus = member.attendanceStatus.getAttendRateStatus(tuttiAttendanceBook);
             
             const dashboardHtml = HtmlService.createTemplateFromFile('src/views/dashboard');
 
-            dashboardHtml.attendanceNormalOverture = normalAttendRateStatus.overture.rate;
-            dashboardHtml.attendanceNormalMiddle = normalAttendRateStatus.middle.rate;
-            dashboardHtml.attendanceNormalMain = normalAttendRateStatus.main.rate;
+            dashboardHtml.attendanceNormalOverture = stringsAttendRateStatus.overture.rate;
+            dashboardHtml.attendanceNormalMiddle = stringsAttendRateStatus.middle.rate;
+            dashboardHtml.attendanceNormalMain1 = stringsAttendRateStatus.main1.rate;
+            dashboardHtml.attendanceNormalMain2 = stringsAttendRateStatus.main2.rate;
+            dashboardHtml.attendanceNormalMain3 = stringsAttendRateStatus.main3.rate;
+            dashboardHtml.attendanceNormalMain4 = stringsAttendRateStatus.main4.rate;
 
             dashboardHtml.attendanceTuttiOverture = tuttiAttendRateStatus.overture.rate;
             dashboardHtml.attendanceTuttiMiddle = tuttiAttendRateStatus.middle.rate;
-            dashboardHtml.attendanceTuttiMain = tuttiAttendRateStatus.main.rate;
+            dashboardHtml.attendanceTuttiMain1 = tuttiAttendRateStatus.main1.rate;
+            dashboardHtml.attendanceTuttiMain2 = tuttiAttendRateStatus.main2.rate;
+            dashboardHtml.attendanceTuttiMain3 = tuttiAttendRateStatus.main3.rate;
+            dashboardHtml.attendanceTuttiMain4 = tuttiAttendRateStatus.main4.rate;
 
             dashboardHtml.cssContent = HtmlService.createHtmlOutputFromFile('src/views/dashboard-css').getContent();
             const dashboardHtmlOutput = dashboardHtml.evaluate();
+
+            dashboardHtmlOutput.addMetaTag('viewport', 'width=device-width, initial-scale=1')
+
             return dashboardHtmlOutput;
 
-        case 'settingMeetingForm':
-            const htmlTemplate = HtmlService.createTemplateFromFile('src/views/setting-meeting-form');
+        case 'verify_attendance':
+            const attendanceCodeSheet = new SystemBook().getAttendanceCodeSheet();
 
-            htmlTemplate.cssContent = HtmlService.createHtmlOutputFromFile('src/views/setting-meeting-form-css').getContent();
-            return htmlTemplate.evaluate();
+            const code = attendanceCodeSheet.getCode();
+
+            const verifyAttendanceHtml = HtmlService.createTemplateFromFile('src/views/verify-attendance-form');
+
+            verifyAttendanceHtml.env = {
+                id: e.parameter.id,
+                code: code
+            }
+            
+            verifyAttendanceHtml.cssContent = HtmlService.createHtmlOutputFromFile('src/views/verify-attendance-form-css').getContent();
+            const verifyAttendanceHtmlOutput = verifyAttendanceHtml.evaluate();
+
+            verifyAttendanceHtmlOutput.addMetaTag('viewport', 'width=device-width, initial-scale=1')
+
+            return verifyAttendanceHtmlOutput;
 
         case 'user_data':
             const user = new Member(e.parameter.id);
@@ -47,36 +73,42 @@ function doGet(e) {
 
             const contactListRows = sheet.getContactListRows();
 
-            let memberList = [];
-            
-            let part = [];
+            let memberList: string[] = [];
 
-            switch (e.parameter.type) {
-                case 'strings':
-                    part = ['Vn', 'Va', 'Vc', 'Cb'];
-                    break;
+            if (e.parameter.type === 'custom') {
+                memberList = sheet.getCustomMemberList();
+            } else {
 
-                case 'brass':
-                    part = ['Tp', 'Hr', 'Trb'];
-                    break;
-
-                case 'woodwind':
-                    part = ['Fl', 'Ob', 'Cl', 'Fg'];
-                    break;
-
-                case 'percussion':
-                    part = ['Perc'];
-                    break;
-
-                case 'orchestra':
-                    part = ['Vn', 'Va', 'Vc', 'Cb', 'Tp', 'Hr', 'Trb', 'Fl', 'Fg', 'Ob', 'Cl', 'Perc'];
-            }
-
-            contactListRows.forEach(row => {
-                if (part.includes(row[3])) {
-                    memberList.push(row[2]);
+                let part: string[] = [];
+    
+                switch (e.parameter.section) {
+                    case '弦楽器':
+                        part = ['Vn', 'Va', 'Vc', 'Cb'];
+                        break;
+    
+                    case '金管楽器':
+                        part = ['Tp', 'Hr', 'Trb'];
+                        break;
+    
+                    case '木管楽器':
+                        part = ['Fl', 'Ob', 'Cl', 'Fg'];
+                        break;
+    
+                    case '打楽器':
+                        part = ['Perc'];
+                        break;
+    
+                    case 'Tutti':
+                        part = ['Vn', 'Va', 'Vc', 'Cb', 'Tp', 'Hr', 'Trb', 'Fl', 'Fg', 'Ob', 'Cl', 'Perc'];
                 }
-            });
+    
+                contactListRows.forEach(row => {
+                    if (part.includes(row[3])) {
+                        memberList.push(row[2]);
+                    }
+                });
+            }
+            
 
             const json = {
                 member_list: memberList

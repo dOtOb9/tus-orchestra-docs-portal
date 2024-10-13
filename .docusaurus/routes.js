@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '44a'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '62f'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '847'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '79b'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '031'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'd9f'),
             routes: [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
@@ -428,6 +428,18 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/WoodwindAttendanceBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/WoodwindAttendanceBook', '2dc'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet', '982'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost', '54e'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

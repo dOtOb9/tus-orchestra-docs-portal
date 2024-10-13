@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/function/doPost",
   "title": "doPost",
-  "description": "この関数は、HTTP POST リクエストを処理し、リクエストボディに基づいて適切なアクションを実行します。Google Apps Script の Web アプリケーションで POST リクエストを処理するエントリポイントです。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/function/doPost.md",
   "sourceDirName": "attendance-management-system/feature/function",
   "slug": "/attendance-management-system/feature/function/doPost",
