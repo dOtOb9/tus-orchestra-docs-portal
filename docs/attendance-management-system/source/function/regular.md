@@ -1,24 +1,40 @@
 
 ```ts title="/src/main.ts"
 function regular() {
-    const scheduleSheet = new AdminActivityBook().getScheduleSheet();
-
-    // 出欠列を生成
-    scheduleSheet.setActivityDate();
+    const adminAcrivtyBook = new AdminActivityBook();
+    const scheduleSheet = adminAcrivtyBook.getScheduleSheet();
     
     const today = new Today();
+    
+    if (scheduleSheet.isActivityDate(today)){
+        // 午前0時なら出欠列を生成
+        scheduleSheet.setActivityDate();
+        if (today.date.getHours() === 0) {
 
-    if (!scheduleSheet.isActivityDate(today)) return; // もし、今日が練習日でないなら終了する
+            const membersInfoSheet = adminAcrivtyBook.getMembersInfoSheet();
 
-    // 午前0時なら出欠列を生成
-    if (today.date.getHours() === 0) {
-        scheduleSheet.beginActivityDate(today);
+            // 欠席と降り番の入力をする
+            scheduleSheet.beginActivityDate(today, membersInfoSheet);
+        }
+    
+        // 認証コードを置き換える
+        const systemBook = new SystemBook();
+        const attendanceCodeSheet = systemBook.getAttendanceCodeSheet();
+    
+        attendanceCodeSheet.replaceCode();
     }
 
-    // 認証コードを置き換える
-    const systemBook = new SystemBook();
-    const attendanceCodeSheet = systemBook.getAttendanceCodeSheet();
+    const stringsAttendanceBook = new StringsAttendanceBook();
+    const tuttiAttendanceBook = new TuttiAttendanceBook();
 
-    attendanceCodeSheet.replaceCode();
+    ['前曲', '中曲', 'メイン１', 'メイン２', 'メイン３', 'メイン４'].forEach((sheetName)=> {
+
+        const stringsAttendanceSheet = stringsAttendanceBook.getSheet(sheetName);
+        const tuttiAttendanceSheet = tuttiAttendanceBook.getSheet(sheetName);
+
+        [stringsAttendanceSheet, tuttiAttendanceSheet].forEach((sheet)=>{
+            sheet.sortClear();
+        });
+    });
 }
 ```
