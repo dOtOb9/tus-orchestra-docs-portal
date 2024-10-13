@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/feature/class/AttendanceStatus",
   "title": "AttendanceStatus",
-  "description": "このクラスは、メンバーの出席率を管理し、通常練習およびTutti練習の出席率情報を提供します。また、Discordフォーマットでの出席状況の文字列を生成します。",
+  "description": "---",
   "source": "@site/docs/attendance-management-system/feature/class/AttendanceStatus.md",
   "sourceDirName": "attendance-management-system/feature/class",
   "slug": "/attendance-management-system/feature/class/AttendanceStatus",

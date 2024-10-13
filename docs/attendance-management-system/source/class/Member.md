@@ -1,12 +1,16 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='Member' type='class' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
 class Member {
-    attendanceStatus: AttendanceStatus;
-    readonly id: string;
-    readonly name: string;
-    readonly part: string;
-    readonly grade: string;
+    public readonly attendanceStatus: AttendanceStatus;
+    public readonly id: string;
+    public readonly name: string;
+    public readonly part: string;
+    public readonly grade: string;
 
     constructor(id: string, name: string = "", part: string = "", grade: string = "") {
         this.id = id;
@@ -31,11 +35,11 @@ class Member {
 
         memberInfoSheet.editMember(memberRow);
 
-        const normalAttendanceBook = new NormalAttendanceBook();
+        const stringsAttendanceBook = new StringsAttendanceBook();
         const tuttiAttendanceBook = new TuttiAttendanceBook();
 
-        [normalAttendanceBook, tuttiAttendanceBook].forEach(book => {
-            ['前曲', '中曲', 'メイン曲'].forEach(section => {
+        [stringsAttendanceBook, tuttiAttendanceBook].forEach(book => {
+            ['前曲', '中曲', 'メイン１', `メイン２`, 'メイン３', 'メイン４'].forEach(section => {
                 const attendanceSheet = book.getSheet(section);
 
                 attendanceSheet.editMember(memberRow);

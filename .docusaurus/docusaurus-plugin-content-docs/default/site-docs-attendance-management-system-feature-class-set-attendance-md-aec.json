@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/class/SetAttendance",
+  "title": "SetAttendance",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/feature/class/SetAttendance.md",
+  "sourceDirName": "attendance-management-system/feature/class",
+  "slug": "/attendance-management-system/feature/class/SetAttendance",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SetAttendance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/class/SetAttendance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "ScheduleSheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/ScheduleSheet"
+  },
+  "next": {
+    "title": "Sheet",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Sheet"
+  }
+}

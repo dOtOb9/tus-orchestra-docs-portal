@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "ScheduleSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/ScheduleSheet"
+    "title": "SetAttendance",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SetAttendance"
   },
   "next": {
     "title": "StringsAttendanceBook",

@@ -1,42 +1,121 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks';
 
+<FeatureLinks component='Member' type='class' project='attendance-management-system' />
 
-このクラスは、メンバーの基本情報と出席状況を管理します。また、メンバー情報の編集や連絡先リストへの追加機能を提供します。
+---
 
-### プロパティ
+## プロパティ
+### attendanceStatus
+#### アクセス演算子
+`public` `readonly`
 
-- **`attendanceStatus`**: `AttendanceStatus`
-  - **説明**: メンバーの出席率情報を管理する `AttendanceStatus` インスタンス。
+#### データ型
+`AttendanceStatus`
 
-- **`id`**: `string`
-  - **説明**: メンバーのID。識別子として使用されます。
+#### 機能
+メンバーの出席率情報を管理する。
 
-- **`name`**: `string`
-  - **説明**: メンバーの名前。
+---
 
-- **`part`**: `string`
-  - **説明**: メンバーのパート（役割）。
+### id
+#### アクセス演算子
+`public` `readonly`
 
-- **`grade`**: `string`
-  - **説明**: メンバーの学年。
+#### データ型
+`string`
 
-### コンストラクタ
+#### 機能
+メンバーのID。識別子として使用されます。
 
-- **`constructor(id: string, name: string = "", part: string = "", grade: string = "")`**
-  - **説明**: メンバーのIDを指定して、新しい `Member` インスタンスを作成します。名前、パート、学年はオプションで指定できます。
-  - **パラメータ**:
-    - **`id`**: `string` - メンバーのID。
-    - **`name`**: `string` - メンバーの名前（デフォルトは空文字列）。
-    - **`part`**: `string` - メンバーのパート（デフォルトは空文字列）。
-    - **`grade`**: `string` - メンバーの学年（デフォルトは空文字列）。
+---
 
-### メソッド
+### name
+#### アクセス演算子
+`public` `readonly`
 
-- **`addContactList()`**
-  - **アクセス修飾子**: `public`
-  - **説明**: メンバーのIDを連絡先リストに追加します。
-  - **戻り値**: なし
+#### データ型
+`string`
 
-- **`edit()`**
-  - **アクセス修飾子**: `public`
-  - **説明**: メンバー情報を編集し、各出席シートにもメンバーの情報を反映させます。
-  - **戻り値**: なし
+#### 機能
+メンバーの名前。
+
+---
+
+### part
+#### アクセス演算子
+`public` `readonly`
+
+#### データ型
+`string`
+
+#### 機能
+メンバーのパート（役割）。
+
+---
+
+#### grade
+#### アクセス演算子
+`public` `readonly`
+
+#### データ型
+`string`
+
+#### 機能
+メンバーの学年。
+
+---
+
+## メソッド
+### constructor( id, name, part, grade )
+#### 機能
+メンバーのIDを指定して、新しい `Member` インスタンスを作成します。名前、パート、学年はオプションで指定できます。
+
+#### パラメータ
+- `id` :`string`
+
+  メンバーのID。
+
+- `name` :`string`
+
+  メンバーの名前（デフォルトは空文字列）。
+
+- `part` :`string`
+
+  メンバーのパート（デフォルトは空文字列）。
+
+- `grade` :`string`
+
+  メンバーの学年（デフォルトは空文字列）。
+
+#### 戻り値
+無し
+
+---
+
+### addContactList()
+#### アクセス修飾子
+`public`
+
+#### 説明
+メンバーのIDを連絡先リストに追加します。
+
+#### パラメータ
+無し
+
+#### 戻り値
+無し
+
+---
+
+### edit()
+#### アクセス修飾子
+`public`
+
+#### 説明
+メンバー情報を編集し、各出席シートにもメンバーの情報を反映させます。
+
+#### パラメータ
+無し
+
+#### 戻り値
+無し

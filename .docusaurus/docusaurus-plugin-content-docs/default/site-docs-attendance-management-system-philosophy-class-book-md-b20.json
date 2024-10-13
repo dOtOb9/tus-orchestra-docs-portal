@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "AttendanceSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceSheet"
+    "title": "AttendanceStatus",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceStatus"
   },
   "next": {
     "title": "BrussAttendanceBook",

@@ -242,17 +242,17 @@
     "sidebar": "sidebar---tus-orchestra-docs-portal-blog-814-8f9",
     "content": "content---tus-orchestra-docs-portal-blog-welcomed-9-f-30c"
   },
-  "/tus-orchestra-docs-portal/docs-e5e": {
+  "/tus-orchestra-docs-portal/docs-44a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---tus-orchestra-docs-portal-docsaba-47c"
     }
   },
-  "/tus-orchestra-docs-portal/docs-5e7": {
+  "/tus-orchestra-docs-portal/docs-847": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---tus-orchestra-docs-portal-docs-911-54f"
   },
-  "/tus-orchestra-docs-portal/docs-99d": {
+  "/tus-orchestra-docs-portal/docs-031": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract-fac": {
@@ -319,6 +319,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-schedule-sheeteed-322"
   },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SetAttendance-c1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-set-attendanceaec-2ae"
+  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Sheet-39a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-sheetde-4-ad0"
@@ -342,10 +346,6 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/UserInfoSheet-a25": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-user-info-sheetd-1-e-e16"
-  },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/verifyAttendance-31c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-verify-attendanceab-4-087"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/WoodwindAttendanceBook-dcf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -395,6 +395,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-attendance-sheet-921-f54"
   },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceStatus-04d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-attendance-statusa-97-77b"
+  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book-32c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-bookb-20-432"
@@ -402,6 +406,10 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/BrussAttendanceBook-5f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-bruss-attendance-bookad-4-767"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Member-7e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-member-490-b85"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/MembersInfoSheet-378": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -422,6 +430,10 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet-09a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-schedule-sheetbfc-d4a"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SetAttendance-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-set-attendance-7-e-1-2a9"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Sheet-56a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -519,6 +531,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-schedule-sheet-4-d-3-cd8"
   },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SetAttendance-078": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-set-attendance-8-c-0-6b8"
+  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Sheet-5ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-sheet-699-5eb"
@@ -542,10 +558,6 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/UserInfoSheet-3f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-user-info-sheetf-97-501"
-  },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/verifyAttendance-d67": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-verify-attendancee-9-a-0ce"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/WoodwindAttendanceBook-b8e": {
     "__comp": "__comp---theme-doc-item-178-a40",

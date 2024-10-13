@@ -137,19 +137,19 @@ src/
 
 #### Member
 団員情報に関する機能を扱います。
-<ComponentLinks/>
+<ComponentLinks component='Member' type='class' project='attendance-management-system' />
 
 ---
 
 #### AttendanceStatus
 メンバー個人の出欠情報を扱います。
-ComponentLinks/>
+<ComponentLinks component='AttendanceStatus' type='class' project='attendance-management-system' />
 
 ---
 
-#### verifyAttendance
+#### SetAttendance
 出席認証コードに関する機能を扱います。
-ComponentLinks/>
+<ComponentLinks component='SetAttendance' type='class' project='attendance-management-system' />
 
 ---
 

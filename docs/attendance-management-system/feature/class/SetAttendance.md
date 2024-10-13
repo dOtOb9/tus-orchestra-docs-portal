@@ -1,8 +1,10 @@
+import FeatureLinks from '/src/components/pageLink/FeatureLinks'
 
+<FeatureLinks component='SetAttendance' type='class' project='attendance-management-system' />
 
-このクラスは、出席確認を行うためのクラスです。メンバーIDと出席コードを使用して、出席の確認を行い、その結果に応じたメッセージを返します。
+---
 
-### プロパティ
+## プロパティ
 
 - **`member`**: `Member`
   - **説明**: 出席確認を行う対象の `Member` インスタンス。
@@ -11,7 +13,6 @@
   - **説明**: 出席確認に使用される認証コード。
 
 ### コンストラクタ
-
 - **`constructor(code: string, id: string)`**
   - **説明**: 認証コードとメンバーIDを指定して、新しい `verifyAttendance` インスタンスを作成します。
   - **パラメータ**:
