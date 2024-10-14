@@ -813,7 +813,7 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/',
-    component: ComponentCreator('/tus-orchestra-docs-portal/', '230'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/', 'c5c'),
     exact: true
   },
   {
