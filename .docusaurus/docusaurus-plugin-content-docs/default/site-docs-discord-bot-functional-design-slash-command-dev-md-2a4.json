@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/slash_command/dev",
+  "title": "/devグループ",
+  "description": "/dmから始まるスラッシュコマンドは、Botの開発用の情報を提供するコマンドです。",
+  "source": "@site/docs/discord-bot/functional_design/slash_command/dev.md",
+  "sourceDirName": "discord-bot/functional_design/slash_command",
+  "slug": "/discord-bot/functional_design/slash_command/dev",
+  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/functional_design/slash_command/dev.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "/dm グループ",
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm"
+  },
+  "next": {
+    "title": "その他",
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others"
+  }
+}

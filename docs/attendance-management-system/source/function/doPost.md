@@ -23,13 +23,11 @@ function doPost(e) {
             }
 
             case 'generate_activity_date':{
-                const scheduleSheet = new AdminActivityBook().getScheduleSheet();
-                scheduleSheet.prepareActivityDate(jsonData.date, jsonData.section, jsonData.tutti, jsonData.slots);
+                const scheduleSheet = new AdminBook().getScheduleSheet();
+                scheduleSheet.prepareActivityDate(jsonData.date, jsonData.section, jsonData.slots);
                 break;
             }
 
-            case 'auth_attend':
-                return new verifyAttendance(jsonData.code, jsonData.id).start();
         }
         return '返り値がありません';
     }

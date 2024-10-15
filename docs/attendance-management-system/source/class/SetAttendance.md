@@ -13,7 +13,7 @@ class SetAttendance {
     }
 
     public start() {
-        const scheduleSheet = new AdminActivityBook().getScheduleSheet();
+        const scheduleSheet = new AdminBook().getScheduleSheet();
 
         const nowTermRows = scheduleSheet.getNowTermRow();
 

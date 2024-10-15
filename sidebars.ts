@@ -43,7 +43,17 @@ const sidebars: SidebarsConfig = {
                   type: 'doc',
                   label: '/dm グループ',
                   id: 'discord-bot/functional_design/slash_command/dm'
-                }
+                },
+                {
+                  type: 'doc',
+                  label: '/dev グループ',
+                  id: 'discord-bot/functional_design/slash_command/dev'
+                },
+                {
+                  type: 'doc',
+                  label: 'その他',
+                  id: 'discord-bot/functional_design/slash_command/others'
+                },
               ]
             },
             {

@@ -44,32 +44,13 @@ function doGet(e) {
 
             return dashboardHtmlOutput;
 
-        case 'verify_attendance':
-            const attendanceCodeSheet = new SystemBook().getAttendanceCodeSheet();
-
-            const code = attendanceCodeSheet.getCode();
-
-            const verifyAttendanceHtml = HtmlService.createTemplateFromFile('src/views/verify-attendance-form');
-
-            verifyAttendanceHtml.env = {
-                id: e.parameter.id,
-                code: code
-            }
-            
-            verifyAttendanceHtml.cssContent = HtmlService.createHtmlOutputFromFile('src/views/verify-attendance-form-css').getContent();
-            const verifyAttendanceHtmlOutput = verifyAttendanceHtml.evaluate();
-
-            verifyAttendanceHtmlOutput.addMetaTag('viewport', 'width=device-width, initial-scale=1')
-
-            return verifyAttendanceHtmlOutput;
-
         case 'user_data':
             const user = new Member(e.parameter.id);
             response_text = user.attendanceStatus.discordFormat();
             return ContentService.createTextOutput(response_text);
 
         case 'can_send_activity_dm':
-            const sheet = new AdminActivityBook().getMembersInfoSheet();
+            const sheet = new AdminBook().getMembersInfoSheet();
 
             const contactListRows = sheet.getContactListRows();
 

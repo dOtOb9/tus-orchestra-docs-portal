@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "discordBotSidebar",
   "previous": {
-    "title": "/dm グループ",
-    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm"
+    "title": "その他",
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others"
   },
   "next": {
     "title": "ユーザーコマンド",

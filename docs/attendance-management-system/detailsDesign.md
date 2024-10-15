@@ -19,19 +19,31 @@ import ComponentLinks from '/src/components/pageLink/ComponentLinks'
 src/
  ├── views/
  │   ├── dashboard-css.html
- │   ├── dashboard.html
- │   ├── setting-meeting-form-css.html
- │   └── setting-meeting-form.html
+ │   └── dashboard.html
  └── main.ts
 ```
 
 - views ... ユーザーに表示するHTML, CSSファイルをまとめたディレクトリ。
 - main.ts ... スプレッドシートに関する操作を行うためのファイル。GoogleAppsScriptに変換される。
 
-## クラス
-**主要な考え方**
+## 主要な考え方
 
-シートごとに役割を設定し、それらをクラスに格納します。例えば、通常練習のスプレッドシートに関するクラス( Normal Attendance Book ) は、通常練習の出欠に関するデータの管理に関する機能を扱います。また、前曲、中曲、メイン曲それぞれの出欠表シートの管理に関するクラス( Attendance Sheet ) を所有する。それぞれのクラスは、設定された関数の実行によって動作される。システムの動作に関しては、それぞれの[関数](#関数)の処理を追っていくと理解しやすいはず。
+シートごとに役割を設定し、それらをクラスに格納します。例えば、通常練習のスプレッドシートに関するクラス( Normal Attendance Book ) は、通常練習の出欠に関するデータの管理に関する機能を扱います。また、前曲、中曲、メイン曲それぞれの出欠表シートの管理に関するクラス( Attendance Sheet ) を所有する。それぞれのクラスは、設定された関数の実行によって動作される。システムの動作に関しては、[作動フロー](#作動フロー)を追っていくと理解しやすいはず。
+
+### クラスの継承関係
+
+---
+
+
+### 作動フロー
+
+---
+
+### HTML/CSS
+
+
+---
+## クラス一覧
 
 ### スプレッドシートに関するクラス
 
@@ -41,15 +53,9 @@ src/
 
 ---
 
-#### SystemBook
-`Book`クラスを継承し、`管理者用`スプレッドシートの操作に関する機能を扱います。
-<ComponentLinks component='SystemBook' type='class' project='attendance-management-system'/>
-
----
-
-#### AdminActivityBook
-`Book`クラスを継承し、`練習予定の管理`スプレッドシートの操作に関する機能を扱います。
-<ComponentLinks component='AdminActivityBook' type='class' project='attendance-management-system'/>
+#### AdminBook
+`Book`クラスを継承し、`管理用`スプレッドシートの操作に関する機能を扱います。
+<ComponentLinks component='AdminBook' type='class' project='attendance-management-system'/>
 
 ---
 
@@ -165,7 +171,7 @@ Apps Script内の環境変数に関する機能を扱います。
 
 ---
 
-## 関数
+## 関数一覧
 
 ### HTTPリクエストに関する関数
 
@@ -195,7 +201,7 @@ Apps Script内の環境変数に関する機能を扱います。
 
 ---
 
-## インターフェース
+## インターフェース一覧
 
 #### AttendRateInfo
 各曲の出欠状況に関する情報を扱います。

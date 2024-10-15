@@ -4,6 +4,6 @@ import SourceLinks from '/src/components/pageLink/SourceLinks';
 
 ```ts title='/src/main.ts'
 function registerAttendance(id: string) {
-    new setAttendance(id).start();
+    new SetAttendance(id).start();
 }
 ```

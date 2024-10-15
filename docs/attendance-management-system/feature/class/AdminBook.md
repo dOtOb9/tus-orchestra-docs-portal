@@ -1,7 +1,7 @@
 import FeatureLinks from '/src/components/pageLink/FeatureLinks';
 import BookDoc from '/docs/attendance-management-system/feature/class/Book.md';
 
-<FeatureLinks component='AdminActivityBook' type='class' project='attendance-management-system' />
+<FeatureLinks component='AdminBook' type='class' project='attendance-management-system' />
 
 ---
 
@@ -16,7 +16,7 @@ import BookDoc from '/docs/attendance-management-system/feature/class/Book.md';
 :::
 
 #### 機能
-`練習予定の管理`スプレッドシートを取得し、`book` プロパティを初期化します。
+`管理用`スプレッドシートを取得し、`book` プロパティを初期化します。
 
 #### パラメータ
 無し
@@ -50,6 +50,21 @@ import BookDoc from '/docs/attendance-management-system/feature/class/Book.md';
 
 #### 戻り値
 `MembersInfoSheet`
+
+---
+
+### getAttendanceCodeSheet
+#### アクセス演算子
+`public`
+
+#### 機能
+`認証コード` という名前のシートを取得して返します。
+
+#### パラメータ
+無し
+
+#### 戻り値
+`AttendanceCodeSheet`
 
 ---
 

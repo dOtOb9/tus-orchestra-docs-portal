@@ -1,7 +1,7 @@
 
 ```ts title="/src/main.ts"
 function regular() {
-    const adminAcrivtyBook = new AdminActivityBook();
+    const adminAcrivtyBook = new AdminBook();
     const scheduleSheet = adminAcrivtyBook.getScheduleSheet();
     
     const today = new Today();
@@ -18,8 +18,8 @@ function regular() {
         }
     
         // 認証コードを置き換える
-        const systemBook = new SystemBook();
-        const attendanceCodeSheet = systemBook.getAttendanceCodeSheet();
+        const adminBook = new AdminBook();
+        const attendanceCodeSheet = adminBook.getAttendanceCodeSheet();
     
         attendanceCodeSheet.replaceCode();
     }

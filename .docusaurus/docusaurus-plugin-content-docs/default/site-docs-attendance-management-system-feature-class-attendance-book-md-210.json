@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "AdminActivityBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook"
+    "title": "AdminBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminBook"
   },
   "next": {
     "title": "AttendanceCodeSheet",

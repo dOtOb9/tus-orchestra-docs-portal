@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
-    "title": "SystemBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook"
+    "title": "StringsAttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/StringsAttendanceBook"
   },
   "next": {
     "title": "TuttiAttendanceBook",

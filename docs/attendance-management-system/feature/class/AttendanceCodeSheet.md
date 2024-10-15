@@ -83,4 +83,5 @@ import SheetDoc from '/docs/attendance-management-system/feature/class/Sheet.md'
   送信する認証コード。
 
 ## 親クラス
+### Sheet
 > <SheetDoc />

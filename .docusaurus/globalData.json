@@ -21,8 +21,8 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/feature/class/AdminActivityBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook",
+              "id": "attendance-management-system/feature/class/AdminBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -106,11 +106,6 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/feature/class/SystemBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook",
-              "sidebar": "attendanceManagementSystemSidebar"
-            },
-            {
               "id": "attendance-management-system/feature/class/Today",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -166,8 +161,8 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/philosophy/class/AdminActivityBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminActivityBook",
+              "id": "attendance-management-system/philosophy/class/AdminBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -246,11 +241,6 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/philosophy/class/SystemBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook",
-              "sidebar": "attendanceManagementSystemSidebar"
-            },
-            {
               "id": "attendance-management-system/philosophy/class/Today",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -296,8 +286,8 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
-              "id": "attendance-management-system/source/class/AdminActivityBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook",
+              "id": "attendance-management-system/source/class/AdminBook",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -378,11 +368,6 @@
             {
               "id": "attendance-management-system/source/class/StringsAttendanceBook",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/StringsAttendanceBook",
-              "sidebar": "attendanceManagementSystemSidebar"
-            },
-            {
-              "id": "attendance-management-system/source/class/SystemBook",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
@@ -482,6 +467,11 @@
               "sidebar": "discordBotSidebar"
             },
             {
+              "id": "discord-bot/functional_design/slash_command/dev",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev",
+              "sidebar": "discordBotSidebar"
+            },
+            {
               "id": "discord-bot/functional_design/slash_command/dm",
               "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm",
               "sidebar": "discordBotSidebar"
@@ -489,6 +479,11 @@
             {
               "id": "discord-bot/functional_design/slash_command/index",
               "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/",
+              "sidebar": "discordBotSidebar"
+            },
+            {
+              "id": "discord-bot/functional_design/slash_command/others",
+              "path": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others",
               "sidebar": "discordBotSidebar"
             },
             {

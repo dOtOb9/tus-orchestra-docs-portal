@@ -28,13 +28,6 @@ import FeatureLinks from '/src/components/pageLink/FeatureLinks'
        - CSS ファイルを読み込み、テンプレートに追加します。
        - HTML を評価してレスポンスとして返します。
 
-   - **`settingMeetingForm`**
-     - **説明**: 会議設定用のフォーム HTML テンプレートを表示します。
-     - **処理**:
-       - フォーム用の HTML テンプレートを作成します。
-       - CSS ファイルを読み込み、テンプレートに追加します。
-       - HTML を評価してレスポンスとして返します。
-
    - **`user_data`**
      - **説明**: メンバーの出席情報を Discord 形式で取得し、レスポンスとして返します。
      - **処理**:

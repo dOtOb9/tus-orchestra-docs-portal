@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/source/class/AdminBook",
+  "title": "AdminBook",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/source/class/AdminBook.md",
+  "sourceDirName": "attendance-management-system/source/class",
+  "slug": "/attendance-management-system/source/class/AdminBook",
+  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/AdminBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "クラス",
+    "permalink": "/tus-orchestra-docs-portal/docs/category/クラス-2"
+  },
+  "next": {
+    "title": "AttendanceBook",
+    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceBook"
+  }
+}

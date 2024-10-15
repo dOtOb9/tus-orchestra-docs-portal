@@ -21,7 +21,7 @@ class Member {
     }
 
     public addContactList() {
-        const membersInfoSheet = new AdminActivityBook().getMembersInfoSheet();
+        const membersInfoSheet = new AdminBook().getMembersInfoSheet();
 
         membersInfoSheet.addContactList(this.id);
     }
@@ -31,7 +31,7 @@ class Member {
 
         const memberRow = [displayName, this.id, this.part, this.grade];
 
-        const memberInfoSheet = new AdminActivityBook().getMembersInfoSheet();
+        const memberInfoSheet = new AdminBook().getMembersInfoSheet();
 
         memberInfoSheet.editMember(memberRow);
 

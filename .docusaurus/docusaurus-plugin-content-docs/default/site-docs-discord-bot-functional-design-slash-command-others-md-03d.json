@@ -1,0 +1,24 @@
+{
+  "id": "discord-bot/functional_design/slash_command/others",
+  "title": "その他",
+  "description": "---",
+  "source": "@site/docs/discord-bot/functional_design/slash_command/others.md",
+  "sourceDirName": "discord-bot/functional_design/slash_command",
+  "slug": "/discord-bot/functional_design/slash_command/others",
+  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/functional_design/slash_command/others.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "discordBotSidebar",
+  "previous": {
+    "title": "/dev グループ",
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev"
+  },
+  "next": {
+    "title": "メッセージコマンド",
+    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/message_command"
+  }
+}

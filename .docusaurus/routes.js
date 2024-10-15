@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '62f'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '5e7'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '79b'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '9f0'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'd9f'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '4f5'),
             routes: [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
@@ -132,8 +132,8 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook', 'a87'),
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminBook',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminBook', '1e1'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -234,12 +234,6 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook', '856'),
-                exact: true,
-                sidebar: "attendanceManagementSystemSidebar"
-              },
-              {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today', '350'),
                 exact: true,
@@ -306,8 +300,8 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminActivityBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminActivityBook', '211'),
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminBook',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminBook', '184'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -402,12 +396,6 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook', 'dcb'),
-                exact: true,
-                sidebar: "attendanceManagementSystemSidebar"
-              },
-              {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today', 'df5'),
                 exact: true,
@@ -462,8 +450,8 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook', '623'),
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminBook',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminBook', '466'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -560,12 +548,6 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/StringsAttendanceBook',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/StringsAttendanceBook', 'a98'),
-                exact: true,
-                sidebar: "attendanceManagementSystemSidebar"
-              },
-              {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook', '70c'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },
@@ -788,8 +770,20 @@ export default [
                 sidebar: "discordBotSidebar"
               },
               {
+                path: '/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev', 'fc3'),
+                exact: true,
+                sidebar: "discordBotSidebar"
+              },
+              {
                 path: '/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm', 'b7e'),
+                exact: true,
+                sidebar: "discordBotSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others', '8bc'),
                 exact: true,
                 sidebar: "discordBotSidebar"
               },

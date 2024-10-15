@@ -242,17 +242,17 @@
     "sidebar": "sidebar---tus-orchestra-docs-portal-blog-814-8f9",
     "content": "content---tus-orchestra-docs-portal-blog-welcomed-9-f-30c"
   },
-  "/tus-orchestra-docs-portal/docs-62f": {
+  "/tus-orchestra-docs-portal/docs-5e7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---tus-orchestra-docs-portal-docsaba-47c"
     }
   },
-  "/tus-orchestra-docs-portal/docs-79b": {
+  "/tus-orchestra-docs-portal/docs-9f0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---tus-orchestra-docs-portal-docs-911-54f"
   },
-  "/tus-orchestra-docs-portal/docs-d9f": {
+  "/tus-orchestra-docs-portal/docs-4f5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract-fac": {
@@ -263,9 +263,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-details-designe-0-d-e2d"
   },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminActivityBook-a87": {
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AdminBook-1e1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-admin-activity-booka-73-709"
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-admin-book-72-f-08f"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/AttendanceBook-cd4": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -331,10 +331,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-strings-attendance-book-60-c-8a5"
   },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/SystemBook-856": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-system-book-830-649"
-  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/feature/class/Today-350": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-feature-class-today-6-a-6-d80"
@@ -379,9 +375,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-function-designd-90-404"
   },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminActivityBook-211": {
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminBook-184": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-admin-activity-bookdcd-905"
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-admin-book-200-ae7"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceBook-9fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -443,10 +439,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-strings-attendance-bookf-53-41a"
   },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/SystemBook-dcb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-system-book-9-a-6-21f"
-  },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Today-df5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-class-today-898-185"
@@ -483,9 +475,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-philosophy-interface-attend-rate-infod-21-7cf"
   },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminActivityBook-623": {
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AdminBook-466": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-admin-activity-bookc-58-6af"
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-admin-book-43-d-89c"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/AttendanceBook-b21": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -550,10 +542,6 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/StringsAttendanceBook-a98": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-strings-attendance-book-226-bd8"
-  },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/SystemBook-70c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-source-class-system-bookfaf-6ec"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Today-826": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -703,9 +691,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-discord-bot-functional-design-slash-command-chb-5-d-0fc"
   },
+  "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dev-fc3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-discord-bot-functional-design-slash-command-dev-2-a-4-96c"
+  },
   "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/dm-b7e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-discord-bot-functional-design-slash-command-dma-59-038"
+  },
+  "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others-8bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-discord-bot-functional-design-slash-command-others-03-d-147"
   },
   "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/user_command-dca": {
     "__comp": "__comp---theme-doc-item-178-a40",

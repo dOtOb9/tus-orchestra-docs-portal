@@ -1,6 +1,6 @@
 import PhilosophyLinks from '/src/components/pageLink/PhilosophyLinks'
 
-<PhilosophyLinks component='AdminActivityBook' type='class' project='attendance-management-system' />
+<PhilosophyLinks component='AdminBook' type='class' project='attendance-management-system' />
 
 ---
 
