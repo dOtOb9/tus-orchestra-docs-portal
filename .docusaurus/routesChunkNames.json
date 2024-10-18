@@ -1,733 +1,690 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/blog-b2f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
   "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
   "/blog/authors/all-sebastien-lorber-articles-4a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "sidebar": "814f3328",
+    "__props": "c9c9bef8"
   },
   "/blog/authors/yangshun-a68": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "sidebar": "814f3328",
+    "__props": "1dea6ca3"
   },
   "/blog/first-blog-post-89a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/blog/long-blog-post-9ad": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/blog/mdx-blog-post-e9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
   "/blog/tags/docusaurus-704": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
+    "__props": "3217192f"
   },
   "/blog/tags/facebook-858": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
+    "__props": "e5aefb32"
   },
   "/blog/tags/hello-299": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
+    "__props": "f82cd581"
   },
   "/blog/tags/hola-00d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+    "__props": "5e90a9b3"
   },
   "/blog/welcome-d2b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/docs-645": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-563": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-86d": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/attendance-management-system/detailsDesign-9d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-details-designe-0-d-aa9"
+    "__comp": "17896441",
+    "content": "e0d3ea3b"
   },
   "/docs/attendance-management-system/feature/class/AdminBook-4e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-admin-book-72-f-8cf"
+    "__comp": "17896441",
+    "content": "72f76e00"
   },
   "/docs/attendance-management-system/feature/class/AttendanceBook-063": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-attendance-book-210-123"
+    "__comp": "17896441",
+    "content": "21064327"
   },
   "/docs/attendance-management-system/feature/class/AttendanceCodeSheet-4ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-attendance-code-sheet-0-d-6-7a6"
+    "__comp": "17896441",
+    "content": "0d6e9203"
   },
   "/docs/attendance-management-system/feature/class/AttendanceSheet-41a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-attendance-sheet-14-f-2c5"
+    "__comp": "17896441",
+    "content": "14f52364"
   },
   "/docs/attendance-management-system/feature/class/AttendanceStatus-548": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-attendance-status-343-fd5"
+    "__comp": "17896441",
+    "content": "343a76af"
   },
   "/docs/attendance-management-system/feature/class/Book-219": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-book-84-d-285"
+    "__comp": "17896441",
+    "content": "84d62ca8"
   },
   "/docs/attendance-management-system/feature/class/BrussAttendanceBook-22e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-bruss-attendance-book-730-e4a"
+    "__comp": "17896441",
+    "content": "730d2a2e"
   },
   "/docs/attendance-management-system/feature/class/EventAttendanceSheet-219": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-event-attendance-sheet-691-7f0"
+    "__comp": "17896441",
+    "content": "691d7195"
   },
   "/docs/attendance-management-system/feature/class/Member-2a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-member-059-86c"
+    "__comp": "17896441",
+    "content": "0593cc82"
   },
   "/docs/attendance-management-system/feature/class/MembersInfoSheet-029": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-members-info-sheeteff-d1c"
+    "__comp": "17896441",
+    "content": "eff3ef74"
   },
   "/docs/attendance-management-system/feature/class/MembersSheet-c66": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-members-sheet-8-ad-ef1"
+    "__comp": "17896441",
+    "content": "8ad44599"
   },
   "/docs/attendance-management-system/feature/class/PercussionAttendanceBook-078": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-percussion-attendance-bookb-11-211"
+    "__comp": "17896441",
+    "content": "b115bd96"
   },
   "/docs/attendance-management-system/feature/class/Property-9d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-property-9-d-5-02a"
+    "__comp": "17896441",
+    "content": "9d54983f"
   },
   "/docs/attendance-management-system/feature/class/ScheduleSheet-56b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-schedule-sheeteed-b57"
+    "__comp": "17896441",
+    "content": "eeda579c"
   },
   "/docs/attendance-management-system/feature/class/SetAttendance-341": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-set-attendanceaec-896"
+    "__comp": "17896441",
+    "content": "aecf5224"
   },
   "/docs/attendance-management-system/feature/class/Sheet-435": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-sheetde-4-b60"
+    "__comp": "17896441",
+    "content": "de4c790c"
   },
   "/docs/attendance-management-system/feature/class/StringsAttendanceBook-449": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-strings-attendance-book-60-c-0c1"
+    "__comp": "17896441",
+    "content": "60c6d50c"
   },
   "/docs/attendance-management-system/feature/class/Today-805": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-today-6-a-6-fe9"
+    "__comp": "17896441",
+    "content": "6a63539e"
   },
   "/docs/attendance-management-system/feature/class/TuttiAttendanceBook-869": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-tutti-attendance-book-953-519"
+    "__comp": "17896441",
+    "content": "9530f4a5"
   },
   "/docs/attendance-management-system/feature/class/UserInfoSheet-f76": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-user-info-sheetd-1-e-934"
+    "__comp": "17896441",
+    "content": "d1e45797"
   },
   "/docs/attendance-management-system/feature/class/WoodwindAttendanceBook-5f1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-class-woodwind-attendance-book-951-039"
+    "__comp": "17896441",
+    "content": "9514b02c"
   },
   "/docs/attendance-management-system/feature/function/doGet-768": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-function-do-getdd-7-3bc"
+    "__comp": "17896441",
+    "content": "dd74e10c"
   },
   "/docs/attendance-management-system/feature/function/doPost-704": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-function-do-post-999-f95"
+    "__comp": "17896441",
+    "content": "999c6696"
   },
   "/docs/attendance-management-system/feature/function/registerAttendance-c0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-function-register-attendanceb-2-e-f6e"
+    "__comp": "17896441",
+    "content": "b2ec8f16"
   },
   "/docs/attendance-management-system/feature/function/regular-c98": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-function-regularff-3-a14"
+    "__comp": "17896441",
+    "content": "ff35ddf8"
   },
   "/docs/attendance-management-system/feature/interface/AttendRateData-3ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-interface-attend-rate-data-97-d-c6b"
+    "__comp": "17896441",
+    "content": "97d9dec3"
   },
   "/docs/attendance-management-system/feature/interface/AttendRateInfo-81e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-interface-attend-rate-info-136-cee"
+    "__comp": "17896441",
+    "content": "1365c0a1"
   },
   "/docs/attendance-management-system/feature/interface/MemberIdsByTuneName-2ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-feature-interface-member-ids-by-tune-namefba-938"
+    "__comp": "17896441",
+    "content": "fba0c205"
   },
   "/docs/attendance-management-system/functionDesign-e85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-function-designd-90-7cb"
+    "__comp": "17896441",
+    "content": "d90f0eeb"
   },
   "/docs/attendance-management-system/guide-e66": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-guidee-52-07b"
+    "__comp": "17896441",
+    "content": "e52819b0"
   },
   "/docs/attendance-management-system/philosophy/class/AdminBook-32f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-admin-book-200-dbd"
+    "__comp": "17896441",
+    "content": "20016671"
   },
   "/docs/attendance-management-system/philosophy/class/AttendanceBook-360": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-attendance-bookdac-371"
+    "__comp": "17896441",
+    "content": "dacdd96b"
   },
   "/docs/attendance-management-system/philosophy/class/AttendanceCodeSheet-8f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-attendance-code-sheetfd-3-990"
+    "__comp": "17896441",
+    "content": "fd359f96"
   },
   "/docs/attendance-management-system/philosophy/class/AttendanceSheet-619": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-attendance-sheet-921-2a3"
+    "__comp": "17896441",
+    "content": "9212a675"
   },
   "/docs/attendance-management-system/philosophy/class/AttendanceStatus-aa7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-attendance-statusa-97-450"
+    "__comp": "17896441",
+    "content": "a97f621c"
   },
   "/docs/attendance-management-system/philosophy/class/Book-93b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-bookb-20-e41"
+    "__comp": "17896441",
+    "content": "b20f2270"
   },
   "/docs/attendance-management-system/philosophy/class/BrussAttendanceBook-245": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-bruss-attendance-bookad-4-200"
+    "__comp": "17896441",
+    "content": "ad4c270c"
   },
   "/docs/attendance-management-system/philosophy/class/Member-290": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-member-490-547"
+    "__comp": "17896441",
+    "content": "4900e163"
   },
   "/docs/attendance-management-system/philosophy/class/MembersInfoSheet-ed5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-members-info-sheet-128-630"
+    "__comp": "17896441",
+    "content": "128f987b"
   },
   "/docs/attendance-management-system/philosophy/class/MembersSheet-2cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-members-sheet-533-10a"
+    "__comp": "17896441",
+    "content": "533caef7"
   },
   "/docs/attendance-management-system/philosophy/class/PercussionAttendanceBook-3ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-percussion-attendance-book-163-be8"
+    "__comp": "17896441",
+    "content": "16322299"
   },
   "/docs/attendance-management-system/philosophy/class/Property-cc4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-property-26-a-856"
+    "__comp": "17896441",
+    "content": "26a8a9cf"
   },
   "/docs/attendance-management-system/philosophy/class/ScheduleSheet-7c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-schedule-sheetbfc-460"
+    "__comp": "17896441",
+    "content": "bfcc374b"
   },
   "/docs/attendance-management-system/philosophy/class/SetAttendance-8ee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-set-attendance-7-e-1-336"
+    "__comp": "17896441",
+    "content": "7e19744a"
   },
   "/docs/attendance-management-system/philosophy/class/Sheet-93f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-sheeta-1-e-66d"
+    "__comp": "17896441",
+    "content": "a1e6a98a"
   },
   "/docs/attendance-management-system/philosophy/class/StringsAttendanceBook-6c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-strings-attendance-bookf-53-ae3"
+    "__comp": "17896441",
+    "content": "f53f9070"
   },
   "/docs/attendance-management-system/philosophy/class/Today-7f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-today-898-417"
+    "__comp": "17896441",
+    "content": "89845845"
   },
   "/docs/attendance-management-system/philosophy/class/TuttiAttendanceBook-72a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-tutti-attendance-bookd-81-2e9"
+    "__comp": "17896441",
+    "content": "d81947d8"
   },
   "/docs/attendance-management-system/philosophy/class/UserInfoSheet-4f1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-user-info-sheet-1-ac-eae"
+    "__comp": "17896441",
+    "content": "1ac040e0"
   },
   "/docs/attendance-management-system/philosophy/class/WoodwindAttendanceBook-46e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-class-woodwind-attendance-book-484-292"
+    "__comp": "17896441",
+    "content": "4848516f"
   },
   "/docs/attendance-management-system/philosophy/function/doGet-294": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-function-do-get-431-e1b"
+    "__comp": "17896441",
+    "content": "431da807"
   },
   "/docs/attendance-management-system/philosophy/function/doPost-2d2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-function-do-post-2-e-8-9b1"
+    "__comp": "17896441",
+    "content": "2e808116"
   },
   "/docs/attendance-management-system/philosophy/function/registerAttendance-34a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-function-register-attendance-251-2b9"
+    "__comp": "17896441",
+    "content": "251086d8"
   },
   "/docs/attendance-management-system/philosophy/interface/AttendRateData-909": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-interface-attend-rate-datac-72-19e"
+    "__comp": "17896441",
+    "content": "c72360ad"
   },
   "/docs/attendance-management-system/philosophy/interface/AttendRateInfo-9bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-interface-attend-rate-infod-21-9e7"
+    "__comp": "17896441",
+    "content": "d21fcbe6"
   },
   "/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName-dff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-philosophy-interface-member-ids-by-tune-name-0-e-0-78d"
+    "__comp": "17896441",
+    "content": "0e0cd642"
   },
   "/docs/attendance-management-system/source/class/AdminBook-705": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-admin-book-43-d-e44"
+    "__comp": "17896441",
+    "content": "43dae04c"
   },
   "/docs/attendance-management-system/source/class/AttendanceBook-74e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-attendance-book-5-c-2-9e0"
+    "__comp": "17896441",
+    "content": "5c2a30bc"
   },
   "/docs/attendance-management-system/source/class/AttendanceCodeSheet-776": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-attendance-code-sheetec-4-23d"
+    "__comp": "17896441",
+    "content": "ec4df156"
   },
   "/docs/attendance-management-system/source/class/AttendanceSheet-bf1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-attendance-sheet-687-ac4"
+    "__comp": "17896441",
+    "content": "6875da5e"
   },
   "/docs/attendance-management-system/source/class/AttendanceStatus-5a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-attendance-status-06-c-1e5"
+    "__comp": "17896441",
+    "content": "06c49eba"
   },
   "/docs/attendance-management-system/source/class/Book-7d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-booka-33-9d1"
+    "__comp": "17896441",
+    "content": "a33c2142"
   },
   "/docs/attendance-management-system/source/class/BrussAttendanceBook-4cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-bruss-attendance-booka-17-955"
+    "__comp": "17896441",
+    "content": "a173b27d"
   },
   "/docs/attendance-management-system/source/class/EventAttendanceSheet-30d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-event-attendance-sheetdec-399"
+    "__comp": "17896441",
+    "content": "dec12d0d"
   },
   "/docs/attendance-management-system/source/class/Member-9ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-memberdec-0ca"
+    "__comp": "17896441",
+    "content": "dec59d45"
   },
   "/docs/attendance-management-system/source/class/MembersInfoSheet-ea3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-members-info-sheet-169-b4f"
+    "__comp": "17896441",
+    "content": "16937443"
   },
   "/docs/attendance-management-system/source/class/MembersSheet-d53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-members-sheet-85-d-f84"
+    "__comp": "17896441",
+    "content": "85dacbd3"
   },
   "/docs/attendance-management-system/source/class/PercussionAttendanceBook-944": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-percussion-attendance-bookd-27-ab3"
+    "__comp": "17896441",
+    "content": "d2723e7f"
   },
   "/docs/attendance-management-system/source/class/Property-b4c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-property-2-a-7-fe4"
+    "__comp": "17896441",
+    "content": "2a74a8dd"
   },
   "/docs/attendance-management-system/source/class/ScheduleSheet-f48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-schedule-sheet-4-d-3-f68"
+    "__comp": "17896441",
+    "content": "4d368e9b"
   },
   "/docs/attendance-management-system/source/class/SetAttendance-977": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-set-attendance-8-c-0-4a8"
+    "__comp": "17896441",
+    "content": "8c09d54b"
   },
   "/docs/attendance-management-system/source/class/Sheet-c90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-sheet-699-cb5"
+    "__comp": "17896441",
+    "content": "699d1737"
   },
   "/docs/attendance-management-system/source/class/StringsAttendanceBook-70a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-strings-attendance-book-226-0bf"
+    "__comp": "17896441",
+    "content": "2263322e"
   },
   "/docs/attendance-management-system/source/class/Today-019": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-today-960-b7a"
+    "__comp": "17896441",
+    "content": "9605dbfe"
   },
   "/docs/attendance-management-system/source/class/TuttiAttendanceBook-e7f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-tutti-attendance-bookea-0-65c"
+    "__comp": "17896441",
+    "content": "ea004dcc"
   },
   "/docs/attendance-management-system/source/class/UserInfoSheet-7b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-user-info-sheetf-97-89a"
+    "__comp": "17896441",
+    "content": "f977be83"
   },
   "/docs/attendance-management-system/source/class/WoodwindAttendanceBook-4cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-class-woodwind-attendance-book-7-e-0-a9f"
+    "__comp": "17896441",
+    "content": "7e092b50"
   },
   "/docs/attendance-management-system/source/function/doGet-228": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-function-do-gete-1-f-d66"
+    "__comp": "17896441",
+    "content": "e1ff0f85"
   },
   "/docs/attendance-management-system/source/function/doPost-a6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-function-do-post-125-845"
+    "__comp": "17896441",
+    "content": "1257b4d1"
   },
   "/docs/attendance-management-system/source/function/registerAttendance-296": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-function-register-attendanceba-9-093"
+    "__comp": "17896441",
+    "content": "ba9c9656"
   },
   "/docs/attendance-management-system/source/function/regular-372": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-function-regular-1-c-8-ae5"
+    "__comp": "17896441",
+    "content": "1c8b10f3"
   },
   "/docs/attendance-management-system/source/interface/AttendRateData-c85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-interface-attend-rate-data-55-e-77b"
+    "__comp": "17896441",
+    "content": "55e23b55"
   },
   "/docs/attendance-management-system/source/interface/AttendRateInfo-82e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-interface-attend-rate-info-594-bee"
+    "__comp": "17896441",
+    "content": "5945d906"
   },
   "/docs/attendance-management-system/source/interface/MemberIdsByTuneName-a6f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-attendance-management-system-source-interface-member-ids-by-tune-name-458-827"
+    "__comp": "17896441",
+    "content": "458c954a"
   },
   "/docs/category/インターフェース-e37": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-インターフェース-8-d-0-70b"
+    "__comp": "14eb3368",
+    "__props": "8d07577f"
   },
   "/docs/category/インターフェース-1-13a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-インターフェース-1-d-7-d-796"
+    "__comp": "14eb3368",
+    "__props": "d7d84441"
   },
   "/docs/category/インターフェース-2-71b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-インターフェース-2-d-8-b-417"
+    "__comp": "14eb3368",
+    "__props": "d8b17a58"
   },
   "/docs/category/クラス-312": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-クラスe-06-6c0"
+    "__comp": "14eb3368",
+    "__props": "e0687e60"
   },
   "/docs/category/クラス-1-6fd": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-クラス-1591-5ef"
+    "__comp": "14eb3368",
+    "__props": "59165fa8"
   },
   "/docs/category/クラス-2-f91": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-クラス-2-e-27-5a2"
+    "__comp": "14eb3368",
+    "__props": "e27c3cfa"
   },
   "/docs/category/ソースコード-a07": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-ソースコード-52-d-174"
+    "__comp": "14eb3368",
+    "__props": "52ddc463"
   },
   "/docs/category/リファレンス-933": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-リファレンス-599-aec"
+    "__comp": "14eb3368",
+    "__props": "59902526"
   },
   "/docs/category/関数-e37": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-関数-05-f-666"
+    "__comp": "14eb3368",
+    "__props": "05f41cb1"
   },
   "/docs/category/関数-1-365": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-関数-1877-f2a"
+    "__comp": "14eb3368",
+    "__props": "8774fa15"
   },
   "/docs/category/関数-2-d06": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-関数-27-e-0-ac0"
+    "__comp": "14eb3368",
+    "__props": "7e0ee390"
   },
   "/docs/category/機能詳細-544": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-機能詳細-616-06d"
+    "__comp": "14eb3368",
+    "__props": "6166ca9d"
   },
   "/docs/category/詳細設計-685": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-詳細設計-236-f1a"
+    "__comp": "14eb3368",
+    "__props": "2360fedf"
   },
   "/docs/category/設計思想-b83": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-設計思想-44-c-991"
+    "__comp": "14eb3368",
+    "__props": "44cc1536"
   },
   "/docs/category/目次-5ae": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-目次d-92-67d"
+    "__comp": "14eb3368",
+    "__props": "d9231581"
   },
   "/docs/category/目次-1-23d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-目次-16-ff-c8b"
+    "__comp": "14eb3368",
+    "__props": "6ffd5616"
   },
   "/docs/components/GoogleAppsScript/ScriptProperty-1ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-components-google-apps-script-script-propertyd-56-8b5"
+    "__comp": "17896441",
+    "content": "d562929a"
   },
   "/docs/components/GoogleAppsScript/Sheet-100": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-components-google-apps-script-sheete-80-921"
+    "__comp": "17896441",
+    "content": "e803421a"
   },
   "/docs/components/TypeScript/ConstructorDescription-03c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-components-type-script-constructor-descriptioneb-3-9f4"
+    "__comp": "17896441",
+    "content": "eb3cea30"
   },
   "/docs/discord-bot/details_design/-49b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-details-design-b-8-b-e9d"
+    "__comp": "17896441",
+    "content": "b8ba49e9"
   },
   "/docs/discord-bot/details_design/environment-d97": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-details-design-environment-252-751"
+    "__comp": "17896441",
+    "content": "2525542d"
   },
   "/docs/discord-bot/details_design/server-77a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-details-design-server-397-6ae"
+    "__comp": "17896441",
+    "content": "397986b6"
   },
   "/docs/discord-bot/functional_design/-563": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-c-4-c-f18"
+    "__comp": "17896441",
+    "content": "c4cd4be9"
   },
   "/docs/discord-bot/functional_design/message_command-ba7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-message-commandd-81-0f9"
+    "__comp": "17896441",
+    "content": "d8126c64"
   },
   "/docs/discord-bot/functional_design/others-892": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-otherse-65-e36"
+    "__comp": "17896441",
+    "content": "e651e2dc"
   },
   "/docs/discord-bot/functional_design/slash_command/-b78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-slash-command-92-d-232"
+    "__comp": "17896441",
+    "content": "92da58eb"
   },
   "/docs/discord-bot/functional_design/slash_command/ch-9fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-slash-command-chb-5-d-6ee"
+    "__comp": "17896441",
+    "content": "b5db4fe8"
   },
   "/docs/discord-bot/functional_design/slash_command/dev-e2b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-slash-command-dev-2-a-4-623"
+    "__comp": "17896441",
+    "content": "2a4546d5"
   },
   "/docs/discord-bot/functional_design/slash_command/dm-a28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-slash-command-dma-59-638"
+    "__comp": "17896441",
+    "content": "a597db55"
   },
   "/docs/discord-bot/functional_design/slash_command/others-247": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-slash-command-others-03-d-3a4"
+    "__comp": "17896441",
+    "content": "03d517a8"
   },
   "/docs/discord-bot/functional_design/user_command-c15": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-functional-design-user-command-7-ff-902"
+    "__comp": "17896441",
+    "content": "7ffcf54c"
   },
   "/docs/discord-bot/reference/directory-253": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-discord-bot-reference-directory-51-e-268"
+    "__comp": "17896441",
+    "content": "51e4e0fc"
   },
   "/-2bc": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "content": "content---f-39-267"
+    "content": "f3976560"
   }
 }
