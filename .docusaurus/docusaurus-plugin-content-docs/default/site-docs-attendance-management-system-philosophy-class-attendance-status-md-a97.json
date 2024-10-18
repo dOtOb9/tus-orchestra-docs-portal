@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/philosophy/class/AttendanceStatus.md",
   "sourceDirName": "attendance-management-system/philosophy/class",
   "slug": "/attendance-management-system/philosophy/class/AttendanceStatus",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceStatus",
+  "permalink": "/docs/attendance-management-system/philosophy/class/AttendanceStatus",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/AttendanceStatus.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "AttendanceSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AttendanceSheet"
+    "permalink": "/docs/attendance-management-system/philosophy/class/AttendanceSheet"
   },
   "next": {
     "title": "Book",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Book"
+    "permalink": "/docs/attendance-management-system/philosophy/class/Book"
   }
 }

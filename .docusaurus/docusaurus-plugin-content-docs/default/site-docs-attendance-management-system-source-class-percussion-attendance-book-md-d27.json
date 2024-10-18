@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/source/class/PercussionAttendanceBook.md",
   "sourceDirName": "attendance-management-system/source/class",
   "slug": "/attendance-management-system/source/class/PercussionAttendanceBook",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/PercussionAttendanceBook",
+  "permalink": "/docs/attendance-management-system/source/class/PercussionAttendanceBook",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/class/PercussionAttendanceBook.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "MembersSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/MembersSheet"
+    "permalink": "/docs/attendance-management-system/source/class/MembersSheet"
   },
   "next": {
     "title": "Property",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/class/Property"
+    "permalink": "/docs/attendance-management-system/source/class/Property"
   }
 }

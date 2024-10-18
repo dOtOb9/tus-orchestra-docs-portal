@@ -5,7 +5,7 @@
   "source": "@site/docs/discord-bot/details_design/environment.md",
   "sourceDirName": "discord-bot/details_design",
   "slug": "/discord-bot/details_design/environment",
-  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/details_design/environment",
+  "permalink": "/docs/discord-bot/details_design/environment",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/details_design/environment.md",
@@ -15,10 +15,10 @@
   "sidebar": "discordBotSidebar",
   "previous": {
     "title": "詳細設計",
-    "permalink": "/tus-orchestra-docs-portal/docs/category/詳細設計"
+    "permalink": "/docs/category/詳細設計"
   },
   "next": {
     "title": "サーバー構築",
-    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/details_design/server"
+    "permalink": "/docs/discord-bot/details_design/server"
   }
 }

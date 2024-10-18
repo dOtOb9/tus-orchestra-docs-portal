@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/functionDesign.md",
   "sourceDirName": "attendance-management-system",
   "slug": "/attendance-management-system/functionDesign",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign",
+  "permalink": "/docs/attendance-management-system/functionDesign",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/functionDesign.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "ユーザーガイド",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/guide"
+    "permalink": "/docs/attendance-management-system/guide"
   },
   "next": {
     "title": "詳細設計",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign"
+    "permalink": "/docs/attendance-management-system/detailsDesign"
   }
 }

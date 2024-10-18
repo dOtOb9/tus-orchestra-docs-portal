@@ -8,10 +8,10 @@ const config: Config = {
   favicon: '/img/tus_orchestra_logo.png',
 
   // Set the production url of your site here
-  url: 'https://dOtOb9.github.io/',
+  url: 'https://tus-orchestra-docs-portal-ckjgqemfq-dotob9s-projects.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tus-orchestra-docs-portal/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

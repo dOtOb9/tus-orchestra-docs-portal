@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/philosophy/function/doGet.md",
   "sourceDirName": "attendance-management-system/philosophy/function",
   "slug": "/attendance-management-system/philosophy/function/doGet",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doGet",
+  "permalink": "/docs/attendance-management-system/philosophy/function/doGet",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/function/doGet.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "関数",
-    "permalink": "/tus-orchestra-docs-portal/docs/category/関数"
+    "permalink": "/docs/category/関数"
   },
   "next": {
     "title": "doPost",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/function/doPost"
+    "permalink": "/docs/attendance-management-system/philosophy/function/doPost"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/source/function/doGet.md",
   "sourceDirName": "attendance-management-system/source/function",
   "slug": "/attendance-management-system/source/function/doGet",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doGet",
+  "permalink": "/docs/attendance-management-system/source/function/doGet",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/source/function/doGet.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "関数",
-    "permalink": "/tus-orchestra-docs-portal/docs/category/関数-2"
+    "permalink": "/docs/category/関数-2"
   },
   "next": {
     "title": "doPost",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/source/function/doPost"
+    "permalink": "/docs/attendance-management-system/source/function/doPost"
   }
 }

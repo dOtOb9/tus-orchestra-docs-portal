@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/philosophy/class/Property.md",
   "sourceDirName": "attendance-management-system/philosophy/class",
   "slug": "/attendance-management-system/philosophy/class/Property",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/Property",
+  "permalink": "/docs/attendance-management-system/philosophy/class/Property",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/class/Property.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "PercussionAttendanceBook",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/PercussionAttendanceBook"
+    "permalink": "/docs/attendance-management-system/philosophy/class/PercussionAttendanceBook"
   },
   "next": {
     "title": "ScheduleSheet",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/ScheduleSheet"
+    "permalink": "/docs/attendance-management-system/philosophy/class/ScheduleSheet"
   }
 }

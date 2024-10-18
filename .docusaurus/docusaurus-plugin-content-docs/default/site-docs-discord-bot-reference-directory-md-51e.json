@@ -5,7 +5,7 @@
   "source": "@site/docs/discord-bot/reference/directory.md",
   "sourceDirName": "discord-bot/reference",
   "slug": "/discord-bot/reference/directory",
-  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/reference/directory",
+  "permalink": "/docs/discord-bot/reference/directory",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/reference/directory.md",
@@ -15,6 +15,6 @@
   "sidebar": "discordBotSidebar",
   "previous": {
     "title": "リファレンス",
-    "permalink": "/tus-orchestra-docs-portal/docs/category/リファレンス"
+    "permalink": "/docs/category/リファレンス"
   }
 }

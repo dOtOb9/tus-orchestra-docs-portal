@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/tus-orchestra-docs-portal/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/tus-orchestra-docs-portal/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

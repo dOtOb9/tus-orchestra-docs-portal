@@ -5,7 +5,7 @@
   "source": "@site/docs/discord-bot/functional_design/message_command.md",
   "sourceDirName": "discord-bot/functional_design",
   "slug": "/discord-bot/functional_design/message_command",
-  "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/message_command",
+  "permalink": "/docs/discord-bot/functional_design/message_command",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/discord-bot/functional_design/message_command.md",
@@ -15,10 +15,10 @@
   "sidebar": "discordBotSidebar",
   "previous": {
     "title": "その他",
-    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/slash_command/others"
+    "permalink": "/docs/discord-bot/functional_design/slash_command/others"
   },
   "next": {
     "title": "ユーザーコマンド",
-    "permalink": "/tus-orchestra-docs-portal/docs/discord-bot/functional_design/user_command"
+    "permalink": "/docs/discord-bot/functional_design/user_command"
   }
 }

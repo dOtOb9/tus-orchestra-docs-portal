@@ -5,7 +5,7 @@
   "source": "@site/docs/attendance-management-system/philosophy/interface/AttendRateData.md",
   "sourceDirName": "attendance-management-system/philosophy/interface",
   "slug": "/attendance-management-system/philosophy/interface/AttendRateData",
-  "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateData",
+  "permalink": "/docs/attendance-management-system/philosophy/interface/AttendRateData",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/interface/AttendRateData.md",
@@ -15,10 +15,10 @@
   "sidebar": "attendanceManagementSystemSidebar",
   "previous": {
     "title": "インターフェース",
-    "permalink": "/tus-orchestra-docs-portal/docs/category/インターフェース"
+    "permalink": "/docs/category/インターフェース"
   },
   "next": {
     "title": "AttendRateInfo",
-    "permalink": "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/interface/AttendRateInfo"
+    "permalink": "/docs/attendance-management-system/philosophy/interface/AttendRateInfo"
   }
 }
