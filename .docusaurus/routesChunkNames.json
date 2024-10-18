@@ -242,22 +242,18 @@
     "sidebar": "sidebar---tus-orchestra-docs-portal-blog-814-8f9",
     "content": "content---tus-orchestra-docs-portal-blog-welcomed-9-f-30c"
   },
-  "/tus-orchestra-docs-portal/docs-5e7": {
+  "/tus-orchestra-docs-portal/docs-6e4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---tus-orchestra-docs-portal-docsaba-47c"
     }
   },
-  "/tus-orchestra-docs-portal/docs-9f0": {
+  "/tus-orchestra-docs-portal/docs-626": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---tus-orchestra-docs-portal-docs-911-54f"
   },
-  "/tus-orchestra-docs-portal/docs-4f5": {
+  "/tus-orchestra-docs-portal/docs-d7f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract-fac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-abstract-5-b-5-bc2"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign-229": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -374,6 +370,10 @@
   "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign-dab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-function-designd-90-404"
+  },
+  "/tus-orchestra-docs-portal/docs/attendance-management-system/guide-3e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tus-orchestra-docs-portal-docs-attendance-management-system-guidee-52-17a"
   },
   "/tus-orchestra-docs-portal/docs/attendance-management-system/philosophy/class/AdminBook-184": {
     "__comp": "__comp---theme-doc-item-178-a40",

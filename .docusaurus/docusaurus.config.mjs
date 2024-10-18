@@ -6,7 +6,7 @@
 export default {
   "title": "東京理科大学管弦楽団ドキュメントポータル",
   "tagline": "ドキュメントポータル",
-  "favicon": "img/tus_orchestra_logo.png",
+  "favicon": "/img/tus_orchestra_logo.png",
   "url": "https://dOtOb9.github.io",
   "baseUrl": "/tus-orchestra-docs-portal/",
   "organizationName": "dOtOb9",

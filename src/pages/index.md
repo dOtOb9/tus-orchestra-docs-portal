@@ -1,11 +1,10 @@
 import 'tailwindcss/tailwind.css';
-import welcomeDocsPortal from '../components/static/img/welcome_docs_portal.png';
 
 # 東京理科大学管弦楽団ドキュメントポータルへようこそ！
 
 ---
 
-<img src={welcomeDocsPortal} alt="Welcome Docs Portal" />
+![Welcome_docs_portal](/img/welcome_docs_portal.png)
 
 ---
 

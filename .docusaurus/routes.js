@@ -109,22 +109,16 @@ export default [
   },
   {
     path: '/tus-orchestra-docs-portal/docs',
-    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '5e7'),
+    component: ComponentCreator('/tus-orchestra-docs-portal/docs', '6e4'),
     routes: [
       {
         path: '/tus-orchestra-docs-portal/docs',
-        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '9f0'),
+        component: ComponentCreator('/tus-orchestra-docs-portal/docs', '626'),
         routes: [
           {
             path: '/tus-orchestra-docs-portal/docs',
-            component: ComponentCreator('/tus-orchestra-docs-portal/docs', '4f5'),
+            component: ComponentCreator('/tus-orchestra-docs-portal/docs', 'd7f'),
             routes: [
-              {
-                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/abstract',
-                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/abstract', 'fac'),
-                exact: true,
-                sidebar: "attendanceManagementSystemSidebar"
-              },
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign', '229'),
@@ -296,6 +290,12 @@ export default [
               {
                 path: '/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign',
                 component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign', 'dab'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/tus-orchestra-docs-portal/docs/attendance-management-system/guide',
+                component: ComponentCreator('/tus-orchestra-docs-portal/docs/attendance-management-system/guide', '3e5'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

@@ -141,8 +141,8 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'doc',
-          label: '概要',
-          id: 'attendance-management-system/abstract',
+          label: 'ユーザーガイド',
+          id: 'attendance-management-system/guide',
         },
         {
           type: "doc",

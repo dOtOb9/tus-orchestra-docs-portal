@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: '東京理科大学管弦楽団ドキュメントポータル',
   tagline: 'ドキュメントポータル',
-  favicon: 'img/tus_orchestra_logo.png',
+  favicon: '/img/tus_orchestra_logo.png',
 
   // Set the production url of your site here
   url: 'https://dOtOb9.github.io/',

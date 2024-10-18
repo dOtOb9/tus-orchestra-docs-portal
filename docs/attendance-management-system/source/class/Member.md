@@ -39,8 +39,8 @@ class Member {
         const tuttiAttendanceBook = new TuttiAttendanceBook();
 
         [stringsAttendanceBook, tuttiAttendanceBook].forEach(book => {
-            ['前曲', '中曲', 'メイン１', `メイン２`, 'メイン３', 'メイン４'].forEach(section => {
-                const attendanceSheet = book.getSheet(section);
+            ['前曲', '中曲', 'メイン１', `メイン２`, 'メイン３', 'メイン４'].forEach(tuneName => {
+                const attendanceSheet = book.getSheet(tuneName);
 
                 attendanceSheet.editMember(memberRow);
             })

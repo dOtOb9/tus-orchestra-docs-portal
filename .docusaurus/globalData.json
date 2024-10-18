@@ -11,11 +11,6 @@
           "mainDocId": "discord-bot/functional_design/index",
           "docs": [
             {
-              "id": "attendance-management-system/abstract",
-              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/abstract",
-              "sidebar": "attendanceManagementSystemSidebar"
-            },
-            {
               "id": "attendance-management-system/detailsDesign",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/detailsDesign",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -158,6 +153,11 @@
             {
               "id": "attendance-management-system/functionDesign",
               "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/functionDesign",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/guide",
+              "path": "/tus-orchestra-docs-portal/docs/attendance-management-system/guide",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {

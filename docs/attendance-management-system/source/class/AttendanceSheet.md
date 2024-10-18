@@ -1,8 +1,12 @@
+import SourceLinks from '/src/components/pageLink/SourceLinks'
 
+<SourceLinks component='AttendanceSheet' type='class' project='attendance-management-system' />
+
+---
 
 ```ts title="/src/main.ts"
-class AttendanceSheet extends MemberSheet {
-    
+class AttendanceSheet extends MembersSheet {
+
     override editMember(memberRow: Array<string>) {
         const newRowNumber = this.data.length;
         
@@ -19,27 +23,28 @@ class AttendanceSheet extends MemberSheet {
         super.editMember(attendanceMemberRow);
     }
     
-    public setActivityDate(date: string): number {
+    public setActivityDate(date: string, memberIds: Array<string>): number {
         const dateColNumber = this.createColumnsLeft(date, 8, 1);
+
+        this.setAbsense(dateColNumber);
+
+        this.setOffMembers(dateColNumber, memberIds);
         
         return dateColNumber;
     }
     
-    public setAttend(id: string, datePos: number): boolean {
+    public setAttend(id: string, dateColNumber: number) {
         const memberRow = this.searchMember(id);
         
         const rowNumber = Number(memberRow[0]);
-        const colNumber = Number(this.data[0].length - 1 - datePos);
+        const colNumber = Number(this.data[0].length - 1 - dateColNumber);
         
         if (this.data[rowNumber][colNumber] === "欠席") {
             this.setValue(rowNumber, colNumber, "出席");
-            
-            return true;
         }
-        return false;
     }
     
-    public setAbsense(dateColNumber: number): void {
+    private setAbsense(dateColNumber: number): void {
         const values = Array(this.data.length-2).fill(["欠席"]);
         this.setValues(
             2, 
@@ -49,6 +54,18 @@ class AttendanceSheet extends MemberSheet {
             values
         );
     }
+
+    private setOffMembers(dateColNumber: number, memberIds: Array<string>): void {
+
+        memberIds.forEach((id: string) => {
+            const memberRow = this.searchMember(id);
+
+            const rowNumber = Number(memberRow[0]);
+            const colNumber = Number(this.data[0].length - 1 - dateColNumber);
+
+            this.setValue(rowNumber, colNumber, "降り番");
+        });
+    }
     
     public getMemberAttendanceRateAndBase(id: string) {
         const MemberRow = this.searchMember(id);
@@ -57,6 +74,12 @@ class AttendanceSheet extends MemberSheet {
         const base = MemberRow[3];
         
         return { rate, base };
+    };
+
+    public sortClear() {
+        this.sortCol(2);
+        this.sortCol(7);
+        this.sortCol(6,false);
     };
 }
 ```

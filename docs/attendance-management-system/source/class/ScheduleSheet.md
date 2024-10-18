@@ -27,7 +27,7 @@ class ScheduleSheet extends Sheet {
         return nowTermRows;
     }
     
-    public setActivityDate(): void {
+    public setActivityDate(memberIds: Array<string>): void {
         // 列名が空白の行だけ取得
         const noneSetDateRows = this.data.filter(row => row[4] === "");
         
@@ -47,32 +47,11 @@ class ScheduleSheet extends Sheet {
                 
                 const attendanceSheet = attendanceBook.getSheet(row[3]);
                 // 日付の出欠列を生成し、生成した列の右端から数えた列数を返す
-                const dateColNumber = attendanceSheet.setActivityDate(row[1]);
+                const dateColNumber = attendanceSheet.setActivityDate(row[1], memberIds);
                 
                 // 生成した列の位置を記録する
                 this.setValue(Number(row[0]), 4, dateColNumber.toString());
             })
-        });
-    }
-    
-    public beginActivityDate(today: Today, membersInfoSheet: MembersInfoSheet): void {
-        const todayRows = this.data.filter(row => row[1] === today.toString());
-
-        const tuttiAttendanceBook = new TuttiAttendanceBook();
-        const stringsAttendanceBook = new StringsAttendanceBook();
-        
-        todayRows.forEach((row) => {
-            // Tutti列にチェックが入っているか、入っていないかの判定
-            const attendanceBook = row[5] === "Tutti" ? tuttiAttendanceBook : stringsAttendanceBook;
-            
-            // 曲名から対象のシートを取得する
-            const attendanceSheet = attendanceBook.getSheet(row[3]);
-            
-            // 列名から対象のコマ列を取得し、各ユーザーに欠席を設定する
-            attendanceSheet.setAbsense(Number(row[4]));
-
-            // 降り番の入力をする
-            attendanceSheet.setOffMembers(Number(row[4]), membersInfoSheet);
         });
     }
     

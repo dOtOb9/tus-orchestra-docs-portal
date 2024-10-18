@@ -24,16 +24,21 @@ function regular() {
         attendanceCodeSheet.replaceCode();
     }
 
-    const stringsAttendanceBook = new StringsAttendanceBook();
-    const tuttiAttendanceBook = new TuttiAttendanceBook();
+    // 列のソートの初期化
+    [
+        new TuttiAttendanceBook(),
+        new StringsAttendanceBook(),
+        new WoodwindAttendanceBook(),
+        new BrassAttendanceBook(),
+        new PercussionAttendanceBook()
 
-    ['前曲', '中曲', 'メイン１', 'メイン２', 'メイン３', 'メイン４'].forEach((sheetName)=> {
+    ].forEach((book) => {
 
-        const stringsAttendanceSheet = stringsAttendanceBook.getSheet(sheetName);
-        const tuttiAttendanceSheet = tuttiAttendanceBook.getSheet(sheetName);
+        ['前曲', '中曲', 'メイン１', 'メイン２', 'メイン３', 'メイン４'].forEach((sheetName)=> {
 
-        [stringsAttendanceSheet, tuttiAttendanceSheet].forEach((sheet)=>{
-            sheet.sortClear();
+            const AttendanceSheet = book.getSheet(sheetName);
+
+            AttendanceSheet.sortClear();
         });
     });
 }
