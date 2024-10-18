@@ -7,7 +7,7 @@ export default {
   "title": "東京理科大学管弦楽団ドキュメントポータル",
   "tagline": "ドキュメントポータル",
   "favicon": "/img/tus_orchestra_logo.png",
-  "url": "https://tus-orchestra-docs-portal-ckjgqemfq-dotob9s-projects.vercel.app",
+  "url": "https://tus-orchestra-docs-portal.vercel.app",
   "baseUrl": "/",
   "organizationName": "dOtOb9",
   "projectName": "tus-orchestra-docs-portal",
