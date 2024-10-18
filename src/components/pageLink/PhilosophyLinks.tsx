@@ -12,9 +12,9 @@ interface ReferenceLinksProps {
 const PhilosophyLinks: React.FC<ReferenceLinksProps> = ({ component, type, project }) => {
     return (
         <div>
-            <HighlightLink href={`/tus-orchestra-docs-portal/docs/${project}/source/${type}/${component}`} children={'ソースコード'} backgroundColor='#25c2a0'/>
+            <HighlightLink href={`/docs/${project}/source/${type}/${component}`} children={'ソースコード'} backgroundColor='#25c2a0'/>
             <span style={{ margin: '5px' }}></span>
-            <HighlightLink href={`/tus-orchestra-docs-portal/docs/${project}/feature/${type}/${component}`} children={'機能詳細'} backgroundColor='#999900'/>
+            <HighlightLink href={`/docs/${project}/feature/${type}/${component}`} children={'機能詳細'} backgroundColor='#999900'/>
         </div>
     );
 }
