@@ -7,7 +7,7 @@ import SourceLinks from '/src/components/pageLink/SourceLinks'
 ```ts title="/src/main.ts"
 class AttendanceSheet extends MembersSheet {
 
-    override editMember(memberRow: Array<string>) {
+    public editMemberInfoValues(memberRow: Array<string>) {
         const newRowNumber = this.data.length;
         
         // 練習回数
@@ -23,7 +23,7 @@ class AttendanceSheet extends MembersSheet {
         super.editMember(attendanceMemberRow);
     }
     
-    public setActivityDate(date: string, memberIds: Array<string>): number {
+    public setAttendanceCol(date: string, memberIds: Array<string>): number {
         const dateColNumber = this.createColumnsLeft(date, 8, 1);
 
         this.setAbsense(dateColNumber);

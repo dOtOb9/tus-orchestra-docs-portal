@@ -16,5 +16,9 @@
   "previous": {
     "title": "AttendRateData",
     "permalink": "/docs/attendance-management-system/source/interface/AttendRateData"
+  },
+  "next": {
+    "title": "MemberIdsByTuneName",
+    "permalink": "/docs/attendance-management-system/source/interface/MemberIdsByTuneName"
   }
 }

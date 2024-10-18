@@ -13,10 +13,39 @@ class MembersInfoSheet extends MembersSheet {
         this.setValue(Number(userRow[0]), 8, "TRUE");
     }
     
-    public getContactListRows(): Array<Array<string>> {
+    public getContactMemberIds(section: string): Array<string> {
         const MemberRows = this.data.filter((row) => row[8] === "TRUE");
 
-        return MemberRows;
+        let part: string[] = [];
+    
+        switch (section) {
+            case '弦楽器':
+                part = ['Vn', 'Va', 'Vc', 'Cb'];
+                break;
+
+            case '金管楽器':
+                part = ['Tp', 'Hr', 'Trb'];
+                break;
+
+            case '木管楽器':
+                part = ['Fl', 'Ob', 'Cl', 'Fg'];
+                break;
+
+            case '打楽器':
+                part = ['Perc'];
+                break;
+
+            case 'Tutti':
+                part = ['Vn', 'Va', 'Vc', 'Cb', 'Tp', 'Hr', 'Trb', 'Fl', 'Fg', 'Ob', 'Cl', 'Perc'];
+        }
+
+        const MemberIds = MemberRows.map(row => {
+            if (part.includes(row[3])) {
+                return row[2];
+            }
+        }).filter((id) => id !== undefined);
+
+        return MemberIds;
     }
 
     public getMemberIsPracticeContact(id: string) {
@@ -25,27 +54,12 @@ class MembersInfoSheet extends MembersSheet {
         return memberRow[9];
     }
 
-    public getCustomMemberList() {
-        return this.data.filter(row => row[8] === "TRUE").map(row => row[2]);
-    }
-
-    public getOffMemberIds(tuneName: string) {
-        let tuneColNumber: number;
-
-        switch(tuneName) {
-            case '前曲':
-                tuneColNumber = 5;
-                break;
-
-            case '中曲':
-                tuneColNumber = 6;
-                break;
-
-            default:
-                tuneColNumber = 7;
-        }
-
-        return this.data.filter(row => row[tuneColNumber] === 'FALSE').map(row => row[2]);
+    public getOffMemberIds(): MemberIdsByTuneName {
+        return {
+            '前曲': this.data.filter(row => row[5] === 'FALSE').map(row => row[2]),
+            '中曲': this.data.filter(row => row[6] === 'FALSE').map(row => row[2]),
+            'メイン': this.data.filter(row => row[7] === 'FALSE').map(row => row[2])
+        } as MemberIdsByTuneName;
     }
 }
 ```

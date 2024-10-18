@@ -151,6 +151,11 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/feature/interface/MemberIdsByTuneName",
+              "path": "/docs/attendance-management-system/feature/interface/MemberIdsByTuneName",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/functionDesign",
               "path": "/docs/attendance-management-system/functionDesign",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -286,6 +291,11 @@
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {
+              "id": "attendance-management-system/philosophy/interface/MemberIdsByTuneName",
+              "path": "/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
               "id": "attendance-management-system/source/class/AdminBook",
               "path": "/docs/attendance-management-system/source/class/AdminBook",
               "sidebar": "attendanceManagementSystemSidebar"
@@ -418,6 +428,11 @@
             {
               "id": "attendance-management-system/source/interface/AttendRateInfo",
               "path": "/docs/attendance-management-system/source/interface/AttendRateInfo",
+              "sidebar": "attendanceManagementSystemSidebar"
+            },
+            {
+              "id": "attendance-management-system/source/interface/MemberIdsByTuneName",
+              "path": "/docs/attendance-management-system/source/interface/MemberIdsByTuneName",
               "sidebar": "attendanceManagementSystemSidebar"
             },
             {

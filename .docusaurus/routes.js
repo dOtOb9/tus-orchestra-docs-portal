@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ee7'),
+    component: ComponentCreator('/docs', '645'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2ad'),
+        component: ComponentCreator('/docs', '563'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f3d'),
+            component: ComponentCreator('/docs', '86d'),
             routes: [
               {
                 path: '/docs/attendance-management-system/detailsDesign',
@@ -288,6 +288,12 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/feature/interface/MemberIdsByTuneName',
+                component: ComponentCreator('/docs/attendance-management-system/feature/interface/MemberIdsByTuneName', '2ac'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/functionDesign',
                 component: ComponentCreator('/docs/attendance-management-system/functionDesign', 'e85'),
                 exact: true,
@@ -450,6 +456,12 @@ export default [
                 sidebar: "attendanceManagementSystemSidebar"
               },
               {
+                path: '/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName',
+                component: ComponentCreator('/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName', 'dff'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
                 path: '/docs/attendance-management-system/source/class/AdminBook',
                 component: ComponentCreator('/docs/attendance-management-system/source/class/AdminBook', '705'),
                 exact: true,
@@ -608,6 +620,12 @@ export default [
               {
                 path: '/docs/attendance-management-system/source/interface/AttendRateInfo',
                 component: ComponentCreator('/docs/attendance-management-system/source/interface/AttendRateInfo', '82e'),
+                exact: true,
+                sidebar: "attendanceManagementSystemSidebar"
+              },
+              {
+                path: '/docs/attendance-management-system/source/interface/MemberIdsByTuneName',
+                component: ComponentCreator('/docs/attendance-management-system/source/interface/MemberIdsByTuneName', 'a6f'),
                 exact: true,
                 sidebar: "attendanceManagementSystemSidebar"
               },

@@ -12,9 +12,9 @@ import MembersSheetDoc from '/docs/attendance-management-system/feature/class/Me
 
 ## メソッド
 
-### editMember ( memberRow )
+### editMemberInfoValues ( memberRow )
 #### アクセス修飾子
-`public` `override`
+`public`
 
 #### 機能
 メンバーの情報を更新します。新しい行を追加し、出席回数、出席率などの計算式を設定します。
@@ -29,7 +29,7 @@ import MembersSheetDoc from '/docs/attendance-management-system/feature/class/Me
 
 ---
 
-### setActivityDate ( date )
+### createAttendanceCol ( date, memberIds )
 #### アクセス修飾子
 `public`
 
@@ -40,6 +40,10 @@ import MembersSheetDoc from '/docs/attendance-management-system/feature/class/Me
 - `date` :`string`
 
   活動日の日付。
+
+- `memberIds` :`Array<string>`
+
+  乗り番の`Discord ID`。
 
 #### 戻り値
 - `number`
@@ -73,7 +77,7 @@ import MembersSheetDoc from '/docs/attendance-management-system/feature/class/Me
 
 ### setAbsense ( dateColNumber )
 #### アクセス修飾子
-`public`
+`private`
 
 #### 機能
 指定した列に対して全メンバーの出席状況を「欠席」に設定します。
@@ -85,6 +89,27 @@ import MembersSheetDoc from '/docs/attendance-management-system/feature/class/Me
 
 #### 戻り値
 無し
+
+---
+
+### setOffMembers ( dateColNumber, memberIds )
+#### アクセス修飾子
+`private`
+
+#### 機能
+指定した列に対して降り番の出席状況を「降り番」に設定します。
+
+#### パラメータ
+- `dateColNumber` :`number`
+
+  降り番を設定する列の位置。
+
+- `memberIds` :`Array<string>`
+
+  降り番の`Discord ID`。
+
+#### 戻り値
+無し。
 
 ---
 

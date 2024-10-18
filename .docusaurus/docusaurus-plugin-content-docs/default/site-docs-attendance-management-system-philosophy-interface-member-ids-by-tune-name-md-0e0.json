@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/philosophy/interface/MemberIdsByTuneName",
+  "title": "MemberIdsByTuneName",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName.md",
+  "sourceDirName": "attendance-management-system/philosophy/interface",
+  "slug": "/attendance-management-system/philosophy/interface/MemberIdsByTuneName",
+  "permalink": "/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendRateInfo",
+    "permalink": "/docs/attendance-management-system/philosophy/interface/AttendRateInfo"
+  },
+  "next": {
+    "title": "機能詳細",
+    "permalink": "/docs/category/機能詳細"
+  }
+}

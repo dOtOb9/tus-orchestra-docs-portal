@@ -1,0 +1,24 @@
+{
+  "id": "attendance-management-system/feature/interface/MemberIdsByTuneName",
+  "title": "MemberIdsByTuneName",
+  "description": "---",
+  "source": "@site/docs/attendance-management-system/feature/interface/MemberIdsByTuneName.md",
+  "sourceDirName": "attendance-management-system/feature/interface",
+  "slug": "/attendance-management-system/feature/interface/MemberIdsByTuneName",
+  "permalink": "/docs/attendance-management-system/feature/interface/MemberIdsByTuneName",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dOtOb9/tus-orchestra-docs-portal/tree/main/docs/attendance-management-system/feature/interface/MemberIdsByTuneName.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "attendanceManagementSystemSidebar",
+  "previous": {
+    "title": "AttendRateInfo",
+    "permalink": "/docs/attendance-management-system/feature/interface/AttendRateInfo"
+  },
+  "next": {
+    "title": "ソースコード",
+    "permalink": "/docs/category/ソースコード"
+  }
+}

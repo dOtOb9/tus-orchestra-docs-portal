@@ -29,13 +29,25 @@ import MembersSheet from '/docs/attendance-management-system/feature/class/Membe
 
 ---
 
-### getContactListRows
+### getContactMemberIds ( section )
 #### アクセス修飾子
 `public`
 
 #### 機能
 連絡先リストに含まれるメンバーの情報を取得します。連絡先リストに「TRUE」が設定された行をフィルタリングして返します。
 
+#### パラメータ
+- `section` :`string`
+  
+  取得する乗り番のセクションを指定します。
+
+    | section  | 説明 　　　　　　　　　　　　 |
+    |--------- |-------------------------------|
+    | 弦楽器   | 弦楽器の乗り番を取得します。　 |
+    | 木管楽器 | 木管楽器の乗り番を取得します。|
+    | 金管楽器 | 金管楽器の乗り番を取得します。|
+    | Tutti    | 全体の乗り番を取得します。    |
+    | 打楽器   | 打楽器の乗り番を取得します。  |
 
 #### 戻り値
 - `Array<Array<string>>`
@@ -60,6 +72,23 @@ import MembersSheet from '/docs/attendance-management-system/feature/class/Membe
 - `string`
 
   メンバーの連絡先リストのステータス。`"TRUE"` または `"FALSE"` が返されます。
+
+---
+
+### getOffMemberIds
+#### アクセス修飾子
+`public`
+
+#### 機能
+曲目毎に、降り番の団員の`Discord ID`を取得します。
+
+#### パラメータ
+無し。
+
+#### 戻り値
+- `![MemberIdsByTuneName](/docs/attendance-management-system/feature/interface/MemberIdsByTuneName)`
+
+  曲目毎の降り番の団員の`Discord ID`。
 
 ---
 

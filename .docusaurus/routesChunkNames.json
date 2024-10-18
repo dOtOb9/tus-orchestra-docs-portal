@@ -242,17 +242,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-ee7": {
+  "/docs-645": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-2ad": {
+  "/docs-563": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-f3d": {
+  "/docs-86d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/attendance-management-system/detailsDesign-9d1": {
@@ -367,6 +367,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-attendance-management-system-feature-interface-attend-rate-info-136-cee"
   },
+  "/docs/attendance-management-system/feature/interface/MemberIdsByTuneName-2ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-attendance-management-system-feature-interface-member-ids-by-tune-namefba-938"
+  },
   "/docs/attendance-management-system/functionDesign-e85": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-attendance-management-system-function-designd-90-7cb"
@@ -475,6 +479,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-attendance-management-system-philosophy-interface-attend-rate-infod-21-9e7"
   },
+  "/docs/attendance-management-system/philosophy/interface/MemberIdsByTuneName-dff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-attendance-management-system-philosophy-interface-member-ids-by-tune-name-0-e-0-78d"
+  },
   "/docs/attendance-management-system/source/class/AdminBook-705": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-attendance-management-system-source-class-admin-book-43-d-e44"
@@ -582,6 +590,10 @@
   "/docs/attendance-management-system/source/interface/AttendRateInfo-82e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-attendance-management-system-source-interface-attend-rate-info-594-bee"
+  },
+  "/docs/attendance-management-system/source/interface/MemberIdsByTuneName-a6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-attendance-management-system-source-interface-member-ids-by-tune-name-458-827"
   },
   "/docs/category/インターフェース-e37": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
