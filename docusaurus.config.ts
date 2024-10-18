@@ -66,7 +66,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '東京理科大学管弦楽団',
+      title: 'ドキュメントポータル',
       logo: {
         alt: 'My Site Logo',
         src: 'img/tus_orchestra_logo.png',

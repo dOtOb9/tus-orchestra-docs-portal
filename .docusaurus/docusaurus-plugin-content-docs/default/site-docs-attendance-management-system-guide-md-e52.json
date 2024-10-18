@@ -1,7 +1,7 @@
 {
   "id": "attendance-management-system/guide",
   "title": "ユーザーガイド",
-  "description": "フォルダ構造",
+  "description": "はじめに",
   "source": "@site/docs/attendance-management-system/guide.md",
   "sourceDirName": "attendance-management-system",
   "slug": "/attendance-management-system/guide",
